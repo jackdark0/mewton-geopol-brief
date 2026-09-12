@@ -1,0 +1,13 @@
+# Operating-system and editor debris
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.bak
+*.tmp
+
+# Local caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
