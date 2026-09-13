@@ -1,242 +1,221 @@
-# GEOPOLITICS DAILY - 2026-09-11
+# GEOPOLITICS DAILY - 2026-09-13
 
-> **THE SIGNAL:** The conflict's centre of gravity widened in two ways: a Houthi territorial gain made Red Sea risk more tangible, while new evidence complicated the picture of Iranian missile penetration in Jordan. Elsewhere, allies and institutions moved from rhetoric toward industrial production, licensing pressure, monetary tightening, and formal—but still incomplete—verification processes.
+> **THE SIGNAL:** Two strategic bypasses came under pressure at once. Baghdad said the attack on Saudi Arabia's Red Sea oil pipeline originated in Iraq, while the Houthis reportedly took Perim/Mayun at Bab el-Mandeb. Both changes are serious; neither proves the larger attribution and chokepoint claims already growing around them.
 
-**Research cutoff:** 2026-09-11 05:01:32 America/New_York (09:01:32 UTC)  
-**Research window:** approximately 2026-09-09 23:01:32 through the cutoff  
-**Evidence note:** Participant and official accounts establish what their authors said or legally did. They do not by themselves settle battlefield results, target networks, motive, or future effect. The most consequential unresolved record is the Jordan strike: detailed U.S.-source reporting conflicts with the Jordanian scorecard and President Trump's public denial.
+**Research cutoff:** 2026-09-13 02:00:00 America/New_York (06:00:00 UTC)  
+**Research window:** approximately 2026-09-11 20:00:00 through the cutoff  
+**Evidence note:** This edition preserves the 02:00 cutoff. Later election results, attacks, ship incidents, and official updates are excluded. Official accounts establish what their authors announced or did; they do not by themselves settle battlefield control, perpetrator identity, command, motive, or future effect.
 
 ## BLUF
 
-- **The Houthis took Mokha.** The territorial change, plus the UN's confirmed loss of eight vehicles from its Mokha hub, raises the risk around Bab el-Mandeb's approaches—but does not show that the Houthis control or have closed the strait.
-- **Jordan's 18-of-20 interception account is no longer the full public story.** U.S.-source reporting described damage to an A-10 and about eight F-15s at Muwaffaq Salti Air Base; Trump denied it. The available evidence cannot yet reconcile the missile denominator, impact locations, or repair burden.
-- **Canada moved toward a Ukraine-linked drone-production model.** It announced domestic drone contracts, co-production arrangements, air-defence funding, and winter-energy finance; these are real commitments, not yet delivered battlefield capability.
-- **Economic pressure on Iran broadened in two forms:** OFAC shifted Iran specific licences toward denial, while the ECB raised rates and explicitly cited Middle East inflation pressure. Neither action proves its eventual coercive or macroeconomic effect.
-- **The nuclear file remains defined by a verification gap.** A four-government statement to the IAEA Board described no inspections of Iranian declared facilities since June and backed a procedural draft; the final underlying Board text and consequences were not available in this run.
+- **The Saudi pipeline attack is now an Iraqi sovereignty crisis.** Baghdad said the drones originated from a Maysan site and removed senior local commanders. That still does not identify the attackers or prove Iranian direction.
+- **The Houthis reportedly took Perim/Mayun after Mokha.** The island gives them a stronger position at Bab el-Mandeb, but there is no verified closure or control of every shipping lane.
+- **North Korea fired several short-range ballistic missiles after a major trilateral exercise.** The sequence and allied detection are supported; the system type and motive are not.
+- **BRICS found common language on sanctions and safeguarded nuclear facilities.** It is a diplomatic alignment, not a new legal regime, payment system, or operational coalition.
+- **Modi and Xi kept normalization moving without resolving the border.** Niger's top-command reshuffle, meanwhile, shows why regime cohesion in the Sahel remains a live question.
 
 ## MAJOR DEVELOPMENTS
 
-### 1. HOUTHIS TAKE MOKHA—A REAL TERRITORIAL GAIN, NOT YET CONTROL OF BAB EL-MANDEB
+### 1. BAGHDAD LOCATES THE SAUDI PIPELINE ATTACK IN IRAQ - BUT NOT ITS COMMAND CHAIN
 
-**What happened:** Houthi forces took the Yemeni Red Sea port city of Mokha on September 10. [AP's reporting](https://apnews.com/article/yemen-iran-houthi-rebels-red-sea-mokha-e4e799701b382799a955969c212800ea) draws on sources on opposing sides and residents; the [UN separately confirmed](https://www.un.org/sg/fr/node/401528) that eight of its vehicles were seized from the Mokha humanitarian hub. That is a clear military and humanitarian-access change.
+**What happened:** Iraq said its authorities determined that the drones which struck Saudi Arabia's East-West pipeline originated from a site in Maysan province. Prime Minister Ali al-Zaidi dismissed the Maysan operations commander, later removed the provincial police chief, and referred security officials for investigation. The [Iraqi record](https://video-agencyia.iq/EN/Detail/4255) establishes those actions and Baghdad's finding; [Saudi Arabia separately alleged](https://www.spa.gov.sa/en/N2674116) that several drones came from Iraq and caused injuries and damage. The pipeline had already been [shut as a precaution](https://www.spa.gov.sa/en/N2674017).
 
 **Why it matters:**
 
-- Mokha is near the Bab el-Mandeb approaches, so its capture gives the Houthis a better position to pressure the anti-Houthi coalition and add risk to a major shipping corridor.
-- The strategic mechanism is not magic control of a chokepoint. It is a stronger local position that can raise the cost of shipping, insurance, escorts, and coalition operations before it demonstrably blocks a route.
-- The UN vehicle seizure immediately constrains aid work; it is not simply a map change.
+- The East-West line is Saudi Arabia's route to Red Sea export terminals when Hormuz traffic is disrupted. An attack on it turns redundancy into a second vulnerability.
+- Baghdad's response creates a possible off-ramp: Saudi Arabia can demand investigation and security action without immediately treating Iraqi territory as Iraqi state intent.
+- The attribution ladder is the story. Attack, launch site, operator, sponsor, and commander are five different propositions; the public evidence reaches only the first two.
 
-**Context:** “The Houthis now control Bab el-Mandeb” is not supported. Mokha does not establish control of both shores, navigation lanes, nearby islands, Dhubab, or Perim. Reuters' confidential-source reporting that Iranian officers directed the offensive is consequential but not independently inspectable; treat it as a claim, not a confirmed command relationship.
+**Context:** Iraq has not published radar, debris, imagery, flight paths, arrests, or a method supporting its launch-site finding. The dismissals are confirmed government actions. The location remains a government conclusion that overlaps with Saudi Arabia's allegation, not an independent forensic record. No inspected source established an Iraqi militia or Iranian order.
 
 **Watch next:**
 
-- Who holds the port facilities, Dhubab, Perim, and nearby islands after the takeover.
-- Post-takeover shipping data, attacks, insurance notices, or rerouting that show whether leverage has become disruption.
-- Evidence distinguishing Iranian supply or strategic encouragement from direct operational control.
+- Launch-site evidence, named suspects, arrests, prosecutions, or a joint Saudi-Iraqi investigation.
+- Pipeline restart, repair notices, throughput, or another attack.
+- Whether Riyadh preserves the distinction between Iraqi territory and responsibility for command.
 
-**Confidence:** **High** on Mokha's capture and the UN vehicle seizure; **Medium** on the shipping implications; **Low-to-Medium** on claims of direct Iranian command.
+**Confidence:** **High** on the shutdown, official accusations, dismissals, and investigation; **Medium** on the launch-site finding; **Low** on perpetrator or sponsor.
 
 ---
 
-### 2. JORDAN'S INTERCEPTION SCORECARD FACES A NEW DAMAGE TEST
+### 2. PERIM/MAYUN SHIFTS THE BAB EL-MANDEB THREAT - IT DOES NOT SETTLE CONTROL
 
-**What happened:** Jordan's armed forces said it engaged 20 Iranian ballistic missiles, destroyed 18, and that two fell in unpopulated areas without casualties. [CBS reported](https://www.cbsnews.com/news/multiple-us-military-aircraft-damaged-iran-strikes-military-base-jordan/) from people with direct knowledge that an A-10 lost a wing and roughly eight F-15s sustained light damage at Muwaffaq Salti Air Base; a [Reuters report](https://www.timesofisrael.com/liveblog_entry/trump-denies-reports-of-damage-to-us-aircraft-in-iranian-attack-on-jordan/) gave the same basic inventory through an unnamed U.S. official. President Trump publicly answered, “No damage. No nothing,” in that same Reuters-reported update.
+**What happened:** Separate [AP](https://apnews.com/article/mideast-yemen-iran-saudi-houthis-476237dd3bf568d946d2b16c7b45a687) and [Reuters](https://ca.investing.com/news/commodities-news/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane-4836948) reporting says Houthi forces seized Perim, also called Mayun, on September 11 after taking Mokha. AP relied on a Yemeni-government military official and a Houthi official; Reuters used several Yemeni-government sources. Those are two reporting efforts, but the underlying evidence is still participant-led and no public imagery was inspected in this audit.
 
 **Why it matters:**
 
-- If aircraft damage is confirmed, Iran imposed an operational cost despite the earlier clean public scorecard. If the F-15s quickly returned to service as reported, the immediate effect may still be limited.
-- It would be wrong to leap from damage reports to “air defence failed.” The public record does not give a common launch count, target set, engagement denominator, impact map, or damage mechanism.
-- This is a force-protection question, not an arithmetic contest. A reported 18 ÷ 20 equals 90%, but that is only a calculation inside Jordan's own asserted denominator—not an independently verified performance rate.
+- Perim sits at the Red Sea entrance. Holding positions there increases the Houthis' ability to threaten, observe, or selectively disrupt shipping even before they can demonstrate control of the strait.
+- The group singled out Saudi vessels while claiming other navigation was safe. Shipowners and insurers cannot treat that participant assurance as a reliable safety guarantee.
+- The move compounds pressure on Saudi export routing just as the pipeline feeding its Red Sea terminals is under attack.
 
-**Context:** The Jordanian account, unnamed U.S.-source damage reporting, and Trump's denial are different kinds of evidence. They should not be mechanically averaged. The damage account is more detailed than the denial but remains short of public physical confirmation; neither side has supplied a complete technical after-action record. [Jordan's original statement is here.](https://www.petra.gov.jo/en/news/jordan-armed-forces-intercept-18-iranian-ballistic-missiles-targeting-kingdom)
+**Context:** The strongest supported formulation is a reported territorial gain and increased coercive capacity. No inspected record establishes continuous control of both navigation lanes, a closure, an effective universal exclusion zone, or specific missile, mine, drone, or surveillance deployments on the island. Reuters' allegation of direct Iranian Revolutionary Guard guidance remains plausible but uncorroborated outside one anonymous-source chain.
 
 **Watch next:**
 
-- A Pentagon assessment, satellite imagery, repair data, debris, and disclosures about aircraft availability.
-- Whether Jordan clarifies whether 20 missiles was the full barrage or only the set it engaged.
-- Evidence on whether any damage came from direct impact, debris, or blast.
+- Who holds the island's facilities and nearby shore positions, and whether the presence persists.
+- UKMTO/JMIC alerts, verified attacks, mines, missile deployments, ship diversions, and insurance changes.
+- Evidence separating Iranian supply, encouragement, advice, and direct command.
 
-**Confidence:** **Medium.** The reported damage has detailed but anonymous sourcing and a direct presidential denial; the exact interception and damage totals remain unresolved.
+**Confidence:** **Medium-high** on the seizure; **Medium** on increased shipping leverage; **Low** on full strait control or direct Iranian command.
 
 ---
 
-### 3. CANADA AND UKRAINE OPEN A DEFENCE-INDUSTRIAL TRACK—BUT THE OUTPUT CLOCK HAS NOT STARTED
+### 3. NORTH KOREA FIRES A SHORT-RANGE SALVO AFTER FREEDOM EDGE
 
-**What happened:** Canada announced a government-to-government partnership with Ukraine to jointly produce uncrewed systems, counter-drone technologies, and priority munitions. The package also includes initial drone contracts worth up to C$50 million, a marketplace involving nearly 400 suppliers, about C$350 million for air-defence interceptors through JUMPSTART, and nearly C$435 million in EBRD loan guarantees for Ukrainian energy security. [Canada's release itemizes the commitments.](https://www.pm.gc.ca/en/news/news-releases/2026/09/10/canada-and-ukraine-scale-drone-production-build-canadas-defence)
+**What happened:** South Korea's Joint Chiefs of Staff said it detected several short-range ballistic missiles from the Wonsan area at about 05:20 Korea time on September 12. It reported that they flew roughly 250 kilometres into the sea. [Yonhap carries the detailed JCS account](https://m-en.yna.co.kr/view/AEN20260912000353315?section=national%2Fdefense); AP relies on the same military detection, so the two stories are not independent sensor confirmation. The launch came after the five-day U.S.-South Korea-Japan [Freedom Edge exercise](https://www.cpf.navy.mil/Newsroom/News/Article/4599379/freedom-edge-26-concludes-advancing-trilateral-readiness-across-indo-pacific/) ended.
 
 **Why it matters:**
 
-- This tries to turn Ukrainian battlefield experience into allied manufacturing, repair, procurement, and supply-chain capacity rather than treating Ukraine only as a recipient of finished systems.
-- Air-defence and energy support point at the same near-term vulnerability: Russia's ability to pressure Ukraine's cities and grid ahead of winter.
-- A shared industrial base can be more durable than a one-off transfer—but only after declarations become contracts, production, deliveries, training, and operations.
+- The timing keeps a fast action-reaction loop alive even after Washington reduced a separate bilateral drill.
+- Freedom Edge emphasized missile defence and real-time information sharing. The launch immediately tested the political and operational relevance of that cooperation, although it does not prove combat effectiveness.
+- Short-range launches can impose readiness costs and signal regional strike options without crossing the threshold of a long-range test.
 
-**Context:** Canada described capacity to produce millions of drones over two years as a goal. It did not announce millions delivered, an operating factory, a fixed allocation to Ukraine, or an absolute baseline behind its “tenfold” deployed-drone claim. Funding through JUMPSTART is not yet an interceptor in Ukrainian service.
+**Context:** North Korea's defence minister had threatened countermeasures before the launch. That makes the sequence meaningful but does not prove why this salvo was ordered. The exact count, model, payload, performance, and purpose remain unsettled. Yonhap's more specific Hwasong-11 and 600mm assessment comes from unnamed sources, not the JCS's public account.
 
 **Watch next:**
 
-- Production contracts, export approvals, delivery schedules, and actual output.
-- The number of air-defence interceptors funded, contracted, delivered, and integrated.
-- First winter-energy disbursements and evidence that they improve grid resilience.
+- A North Korean technical statement, additional launches, or a shift to longer-range or novel systems.
+- Independent Japanese flight data and details of trilateral tracking exchange.
+- Changes to the scale, location, and missile-defence content of future exercises.
 
-**Confidence:** **High** on the announced funding and partnerships; **Low-to-Medium** on future capacity and battlefield effect.
+**Confidence:** **High** that the JCS detected a short-range salvo; **Medium** on its strategic meaning; **Low** on technical novelty or motive.
 
 ---
 
-### 4. WASHINGTON TIGHTENS THE IRAN LICENSING VALVE, NOT JUST THE SANCTIONS LIST
+### 4. BRICS AGREES ON THE LANGUAGE OF RESISTANCE, NOT THE MACHINERY
 
-**What happened:** Treasury said OFAC designated networks it alleges support Kata'ib Hizballah and Lebanese Hizballah, then changed its Iran specific-licence policy to a presumption of denial except where law requires or limited safety circumstances apply. OFAC said it immediately began denying the vast majority of outstanding Iran-related specific-licence requests. [Treasury's September 10 release](https://home.treasury.gov/news/press-releases/sb0626/) is the primary record for the designations, policy language, and stated exceptions.
+**What happened:** BRICS leaders adopted a New Delhi declaration on September 12. The in-window [AP report](https://apnews.com/article/india-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a) records language calling for the elimination of unilateral measures the group describes as unlawful and expressing concern over attacks on civilian infrastructure and peaceful nuclear facilities under IAEA safeguards. A [government-distributed text mirror](https://ebs.publicnow.com/view/322C608779C3EE82D80D8869B7D797096FDC352E) helps check the scope, but AP remains the publication anchor inside the frozen window.
 
 **Why it matters:**
 
-- The licence-policy change reaches beyond the named targets: it can narrow the case-by-case legal pathway for transactions that require U.S. authorization.
-- The signal may cause banks, suppliers, insurers, and overseas firms to de-risk before a specific deal reaches OFAC.
-- The exceptions matter. Calling this an immediate total ban would erase the legal and life-, limb-, and environmental-safety carveouts that OFAC itself preserved.
+- A bloc that includes Iran, Russia, China, India, Brazil, South Africa, and five other members found common language against economic and secondary sanctions.
+- That consensus can give national resistance or hedging greater diplomatic cover.
+- The nuclear-facility language raises a protection norm but does not restore IAEA access, verify material, assign responsibility to a named state, or settle legality.
 
-**Context:** A designation confirms a U.S. legal action. It does not independently prove every alleged proxy, procurement, money-laundering, or sanctions-evasion relationship in Treasury's narrative, nor does it show how many transactions will fail or reroute.
+**Context:** The declaration did not name the United States or Israel in the relevant passages. Calling it a united endorsement of Iran would overstate both attribution and commitment. It changes no U.S. or European sanction by itself and creates no demonstrated payment, insurance, shipping, or enforcement mechanism.
 
 **Watch next:**
 
-- Published licensing guidance, the number and types of exceptions, and court or compliance responses.
-- Transaction-level evidence of disruption versus workarounds through non-U.S. channels.
-- Target-specific evidence that corroborates or narrows Treasury's conduct allegations.
+- Cross-border payment, insurance, trade, or shipping measures tied to the declaration.
+- National explanations or reservations that expose differences hidden by broad wording.
+- Whether members translate the nuclear language into specific UN or IAEA votes.
 
-**Confidence:** **High** on the legal-policy shift; **Low** on its eventual economic and coercive impact.
+**Confidence:** **High** on adoption and the reported language; **Low-to-Medium** on practical effect.
 
 ---
 
-### 5. THE IRAN NUCLEAR FILE MOVED PROCEDURALLY; THE BIG FACT IS STILL MISSING VISIBILITY
+### 5. MODI AND XI KEEP THE THAW PROCEDURAL
 
-**What happened:** In a September 9 statement published September 10, France, Germany, the UK, and the U.S. told the IAEA Board that the Agency had received no information about Iran's declared nuclear facilities and material during the reporting period and had no access to declared facilities since June. They said a U.S.-E3 draft, GOV/2026/60, was meant to complete a procedural step after the Board's June 2025 non-compliance finding. [Read the statement.](https://www.gov.uk/government/speeches/implementation-of-the-npt-safeguards-agreement-in-iran-quad-statement-to-the-iaea-board-of-governors-september-2026)
+**What happened:** Narendra Modi and Xi Jinping met on September 12 on the BRICS summit sidelines in New Delhi. [AP confirmed the meeting](https://apnews.com/article/india-china-brics-e51a7eb70cfb3c79c978fbf9cc9cbed5) and compared both public accounts. [China's account](https://geneva.china-mission.gov.cn/eng/zgyw/202609/t20260913_12021206.htm) called the countries partners rather than rivals and advocated continued exchanges, cooperation, and parallel work on the boundary question. India's account, as reported by AP, stressed that border peace is essential and restated support for a fair, mutually acceptable settlement.
 
 **Why it matters:**
 
-- The immediate strategic problem is an information gap: outside governments cannot responsibly treat unverified declared material or facilities as a known current baseline.
-- Formal Board or Security Council procedure can increase pressure, but it cannot substitute for inspectors' access.
-- That uncertainty can drive worst-case planning on all sides, even when the public evidence does not establish a specific stockpile, weapon decision, or breakout timeline.
+- Repeated leader-level contact can keep a border incident from automatically consuming the entire relationship.
+- Administrative normalization - flights, visas, trade, and military talks - gives both sides reversible gains without requiring a politically costly boundary compromise.
+- Lower friction gives India and China more room for strategic autonomy, but it is not evidence of an alliance or an Indian break with other partners.
 
-**Context:** This brief did not recover the final de-restricted text or vote for GOV/2026/60, nor a final legal consequence. The four-government statement is strong evidence of their position and of what it attributes to the Director General; it is not a substitute for the missing underlying IAEA records. Do not turn this item into “new automatic sanctions” or a claim of imminent weaponization.
+**Context:** No inspected record establishes a new boundary agreement, troop disengagement, trade settlement, or binding aviation measure from this meeting. This was maintenance diplomacy with strategic value, not a breakthrough.
 
 **Watch next:**
 
-- Publication of GOV/2026/60, including its vote and exact operative language.
-- Iranian access commitments, IAEA inspection resumption, and the Security Council's ability to agree on monitoring.
-- Any statement from the IAEA that narrows or revises the access and material-visibility gap.
+- Border patrol and commander arrangements, verified disengagement, direct flights, visas, and trade-rule changes.
+- Whether both governments maintain the partner language after the next military or political dispute.
 
-**Confidence:** **Medium** on the attributed safeguards-access concern; **Low-to-Medium** on the procedural consequences until the primary text is public.
+**Confidence:** **High** on the meeting and statements; **Medium** on continued normalization; **Low** on a near-term strategic realignment.
 
 ---
 
-### 6. THE ECB RAISES RATES AS THE ENERGY SHOCK MOVES INTO EUROPEAN POLICY
+### 6. NIGER CHANGES ITS TOP COMMAND AFTER A MUTINY - CAUSE UNSPECIFIED
 
-**What happened:** The ECB raised all three key policy rates by 25 basis points, effective September 16: the deposit rate to 2.50%, main refinancing rate to 2.65%, and marginal lending rate to 2.90%. It said the Middle East conflict “continues to generate inflation pressures” and projected headline inflation averaging 3.0% in 2026, 2.5% in 2027, and 2.1% in 2028. [The ECB decision is here.](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html)
-
-**Why it matters:**
-
-- The conflict is no longer only an oil-price or shipping story; it is now part of the central bank's stated inflation and financing calculus.
-- Higher rates can tighten conditions for households, firms, and governments while Europe is also weighing defence, energy-security, and Ukraine-related spending.
-- The ECB did not pre-commit to further hikes, which keeps the duration and severity of the energy shock central to its next decisions.
-
-**Context:** The ECB's language is an institutional assessment, not a controlled estimate of the war's share of inflation. Other causes matter, and the decision does not prove a direct hit to defence budgets or support for Ukraine.
-
-**Watch next:**
-
-- Energy-price duration, euro-area inflation releases, and government borrowing costs.
-- Whether the ECB's next meeting confirms, reverses, or extends the tightening path.
-
-**Confidence:** **High** on the decision and stated rationale; **Medium** on the wider geopolitical-economic consequences.
-
----
-
-### 7. ALGERIA BREAKS WITH THE UAE AND MAKES THE RUPTURE OPERATIONAL
-
-**What happened:** Algeria said it severed diplomatic ties with the UAE on September 10, then announced that from midnight on September 11 it would close its airspace to UAE-registered civilian and military aircraft, including flights arriving from or departing for the UAE. [APS reported the diplomatic decision](https://www.aps.dz/en/algeria/national-news/mtve4ktd-algeria-severs-diplomatic-ties-with-the-united-arab-emirates) and [the Defence Ministry's stated airspace scope](https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september).
+**What happened:** Niger's state news agency reported decrees dated September 11 appointing Brig. Gen. Mamane Sani Kiaou as armed-forces chief and changing several other senior posts. [The primary appointment record](https://anp.ne/niger-le-president-tiani-renouvelle-le-commandement-militaire/) gave no reason. [AP placed the reshuffle](https://apnews.com/article/12ecef2a363e00f825274ca712ef948b) less than two weeks after an August 28-29 mutiny at Base 101.
 
 **Why it matters:**
 
-- The airspace measure converts a diplomatic rupture into an operational cost for civil and military movement.
-- It may widen a North Africa–Gulf fault line and reduce already thin channels for managing competition.
-- Its political meaning remains uncertain because Algeria did not publicly establish a specific trigger.
+- A top-command turnover soon after soldiers took hostages and fired at sensitive sites keeps military cohesion and junta stability in focus.
+- Niger is simultaneously fighting insurgents and participating in a Sahel security arrangement with Mali and Burkina Faso. Command instability can affect all three without proving spillover.
+- Russia's Africa Corps presence is relevant context, not evidence that Russia caused, joined, or resolved the mutiny.
 
-**Context:** Western Sahara, the Sahel, Libya, and aviation disputes are plausible background, not demonstrated causes. The primary record establishes an announced decision, not its enforcement, commercial impact, duration, or a durable regional realignment.
+**Context:** The chronology supports “after,” not “because of.” The changes could reflect the mutiny, performance concerns, factional balancing, routine rotation, or several factors. No public record settles the motive or outcome.
 
 **Watch next:**
 
-- NOTAMs, rerouting, exceptions, enforcement, and a formal UAE response.
-- Any detailed Algerian account of the cause, or evidence that the measure spreads to trade, security, or third-country alignment.
+- Arrests, further removals, deployments, defections, or signs of a wider purge.
+- Counterinsurgency tempo and reactions from Mali, Burkina Faso, or Russian representatives.
 
-**Confidence:** **High** on the announced break and closure; **Low** on causation and downstream effect.
+**Confidence:** **High** on the appointments; **Medium** that cohesion is a live issue; **Low** on causation or stabilizing effect.
 
 ## RAPID FIRE
 
-- **Hormuz figures need a denominator firewall.** [AP's route analysis](https://apnews.com/article/iran-us-war-hormuz-trump-yemen-houthis-2b126da67b09de2f328846eb656abe0e) cited Kpler estimates of non-Iranian exports through Hormuz recovering from about 300,000 bpd at the disruption low point to 8.4 million bpd in September, against roughly 14 million bpd prewar. Do not treat regional exports that use bypass routes as “alternate-route capacity,” or treat a live tracking series as final customs data.
-
-- **The Makkah defence pact has not publicly demonstrated automatic activation.** Pakistan's Foreign Ministry said on September 10 that it was not discussing military action at that time; the pact's operational machinery and any formal Saudi request remain unclear. [Pakistan's briefing](https://mofa.gov.pk/press-releases/transcript-of-the-press-briefing-by-the-spokesperson-on-wednesday-10th-september-2026)
-
-- **Peru announced entry into the U.S.-led Shield of the Americas framework.** The public commitment is real, but membership mechanics, command rules, and operational commitments were not established by the announcement. [AP](https://apnews.com/article/rubio-peru-drug-trafficking-trump-b625fe79a901799707343ff5dd83b5f4)
+- **Putin raised the deterrent temperature around European forces.** He said a European deployment to Ukraine would amount to war with Russia. The statement matters to postwar-security discussions but does not establish a deployment decision or a new automatic Russian response. [AP](https://apnews.com/article/russia-ukraine-war-putin-europe-839f5b0fc5217afc4cb34e15b01b6eff)
+- **Russian strikes killed civilians across several Ukrainian regions, according to local officials.** AP aggregated eight deaths and dozens wounded, including 35 wounded around Odesa; the early totals and target descriptions were not independently reconciled. [AP](https://apnews.com/article/russia-ukraine-war-putin-europe-839f5b0fc5217afc4cb34e15b01b6eff)
+- **Israel-Lebanon formal talks slipped to October.** A State Department official said ambassadors would still meet in Washington the following week. A changed calendar is not evidence that disarmament or withdrawal terms are advancing. [AP](https://apnews.com/article/867b9fc371b7944264f8647f319520de)
+- **Iran announced a September 14 regional meeting in Oman on Hormuz traffic.** The announcement, which named Iraq and other coastal states, creates a concrete diplomatic test; it does not establish attendance or agreement. [AP](https://apnews.com/article/mideast-yemen-iran-saudi-houthis-476237dd3bf568d946d2b16c7b45a687)
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### Claim: Jordan independently established an 18-of-20 interception result with no consequential impact
+### Claim: The Saudi pipeline attack proves Iranian-directed Iraqi-militia responsibility
 
-**Who is making it:** Jordan's armed forces provided the 20, 18, two-fell, and no-casualty account.  
-**Evidence supporting it:** [Petra](https://www.petra.gov.jo/en/news/jordan-armed-forces-intercept-18-iranian-ballistic-missiles-targeting-kingdom) records a complete official scorecard.  
-**Evidence against / missing:** [CBS](https://www.cbsnews.com/news/multiple-us-military-aircraft-damaged-iran-strikes-military-base-jordan/) and a [Reuters report](https://www.timesofisrael.com/liveblog_entry/trump-denies-reports-of-damage-to-us-aircraft-in-iranian-attack-on-jordan/) describe U.S. aircraft damage, while Trump denied it. No public radar record, impact map, or common missile denominator reconciles the accounts.  
-**Assessment:** **Unclear.** The official scorecard is not independently verified; the damage reporting narrows its comforting reading but does not establish a full defence failure.
+**Who is making it:** Political commentary around the attack, including broader claims of a coordinated Iranian pressure campaign.  
+**Evidence supporting it:** Saudi Arabia said drones came from Iraq; Baghdad said its authorities traced the launch to Maysan and removed commanders.  
+**Evidence against / missing:** No inspected launch-site forensics, group claim, debris record, order, intercept, arrest, or public command evidence identifies the operator or sponsor.  
+**Assessment:** **Unsupported as stated.** The attack and an Iraqi territorial origin are supported at different confidence levels; militia authorship and Iranian command are separate, unproved claims.
 
-### Claim: Mokha's capture means the Houthis control or have closed Bab el-Mandeb
+### Claim: The Houthis now control or have closed Bab el-Mandeb
 
-**Who is making it:** Headline shorthand and post-takeover commentary.  
-**Evidence supporting it:** [AP](https://apnews.com/article/yemen-iran-houthi-rebels-red-sea-mokha-e4e799701b382799a955969c212800ea) supports the takeover and Mokha's strategic location.  
-**Evidence against / missing:** No inspected record establishes control of both shores, navigation lanes, nearby islands, or actual post-takeover traffic stoppage.  
-**Assessment:** **Weak as stated.** The supported claim is increased leverage and risk on the approaches.
+**Who is making it:** Headline shorthand and commentary around the Perim and Mokha captures.  
+**Evidence supporting it:** Separate AP and Reuters reports support a Houthi territorial advance onto Perim/Mayun and the nearby coast.  
+**Evidence against / missing:** No inspected record shows control of every lane and approach, a universal exclusion zone, stopped traffic, or sustained interdiction.  
+**Assessment:** **Weak as stated.** Increased ability to threaten or selectively disrupt shipping is supported; completed control or closure is not.
 
-### Claim: Iran directly commanded the Mokha offensive
+### Claim: Iran directly commanded the Houthi coastal offensive
 
-**Who is making it:** Reuters' confidential Yemeni, Iranian, and regional sources.  
-**Evidence supporting it:** The report describes alleged Iranian direction, additional support, and commander travel. [Reuters report](https://www.marketscreener.com/news/iranian-arms-and-advice-helped-yemen-s-houthis-seize-key-red-sea-city-sources-say-ce785bded18df525)  
-**Evidence against / missing:** A source in the same reporting chain described the move as a Houthi decision; no order, intercept, travel record, prisoner account, or supply-chain document was publicly inspectable.  
-**Assessment:** **Plausible but unclear.** Iranian support is a distinct and better-established proposition than direct tactical command.
+**Who is making it:** Reuters' anonymous Yemeni, Iranian, and regional sources.  
+**Evidence supporting it:** The reporting describes alleged Revolutionary Guard guidance and promised assistance.  
+**Evidence against / missing:** The sources remain inside one reporting chain, Iran denies military direction, and no order, intercept, adviser record, travel document, or independent command evidence was public.  
+**Assessment:** **Plausible but unclear.** Iranian support is a less demanding and distinct proposition from direct tactical command.
 
-### Claim: Iran damaged two U.S. destroyers, eight tankers, and ten additional ships
+### Claim: The BRICS declaration is a united endorsement of Iran and direct condemnation of the United States and Israel
 
-**Who is making it:** The IRGC through Iranian state media.  
-**Evidence supporting it:** Merchant-vessel incidents have a supported core, including reports to maritime authorities and a confirmed tanker incident. [AP](https://apnews.com/article/iran-strait-hormuz-yemen-houthi-israel-britain-ae03ad7a30b113a8acca045ea10ad8b2)  
-**Evidence against / missing:** No independent public evidence established damage to named U.S. destroyers, the full vessel count, Iranian attribution for every incident, or the claimed scale of damage. Translation differences may also double-count the asserted ships.  
-**Assessment:** **Unclear as a package.** Keep the merchant-attack core separate from the unproven naval-damage narrative.
+**Who is making it:** Commentary that adds named blame and operational alignment to the communiqué.  
+**Evidence supporting it:** The sanctions and nuclear-facility language is congenial to Iranian and Russian positions.  
+**Evidence against / missing:** The passages name no responsible country and create no military, financial, or trade commitment.  
+**Assessment:** **Qualified / materially overstated.** The defensible core is consensus around categories of conduct and coercion, not alliance with Iran.
 
 ## UPCOMING EVENTS
 
-- **2026-09-11:** Algeria's UAE airspace closure is scheduled to begin at midnight. [APS](https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september)
-- **2026-09-13:** Sweden holds elections for the Riksdag and regional and municipal councils. [Swedish Election Authority](https://valcentralen.val.se/download/18.332cf48819bd61ac1512e04/1772023692747/allt-du-behover-veta-om-valen.pdf)
-- **2026-09-14 to 2026-09-18:** The IAEA's 70th General Conference is scheduled in Vienna—watch for Iran safeguards documents and any effort to narrow the verification gap. [IAEA](https://www.iaea.org/about/governance/general-conference/gc70)
-- **2026-09-15:** The White House says changes to the Canadian product list under its Section 338 actions are due to take effect; separate import bans remain scheduled for September 29. [White House](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/)
-- **2026-09-16:** The ECB's new rates take effect. [ECB](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html)
+- **2026-09-13:** Sweden holds elections for the Riksdag and regional and municipal councils; polls close at 20:00 local time and preliminary counting follows. [Swedish Election Authority](https://www.val.se/english/future-elections/2026-elections---the-riksdag-and-regional-and-municipal-councils)
+- **2026-09-13:** The BRICS summit is scheduled to conclude in New Delhi. Watch for final national explanations, reservations, and any implementation detail. [Chinese Foreign Ministry schedule](https://www.fmprc.gov.cn/eng/xw/wsrc/202609/t20260910_12019894.html)
+- **2026-09-14:** Iran says a foreign-ministers' meeting of Gulf and Gulf-of-Oman coastal states will meet in Oman and discuss Hormuz traffic. Participation and agenda remain participant claims until confirmed. [AP](https://apnews.com/article/mideast-yemen-iran-saudi-houthis-476237dd3bf568d946d2b16c7b45a687)
+- **2026-09-14 to 2026-09-18:** The IAEA's 70th General Conference meets in Vienna. The Iran safeguards gap and protection of nuclear facilities are the most relevant watch points for this brief. [IAEA](https://www.iaea.org/about/governance/general-conference/gc70)
+- **2026-09-15:** U.S. additions and removals to the Canadian product list under its Section 338 actions are scheduled to take effect. [White House](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/)
+- **2026-09-16:** The ECB's new rates take effect: 2.50% deposit, 2.65% refinancing, and 2.90% marginal lending. [ECB](https://www.ecb.europa.eu/press/press_conference/html/index.en.html)
 
 ## SHOW FODDER
 
-### 1. Does taking Mokha change a chokepoint—or just the cost of defending one?
+### 1. How far can a launch-site finding carry an attribution?
 
-**Central question:** When does a territorial gain near a maritime chokepoint become effective control over the waterway?  
-**Competing interpretations:** The strong case says Mokha gives the Houthis a strategically meaningful position to expand Red Sea coercion while Hormuz is already under pressure. The cautionary case says the city is near, not synonymous with, Bab el-Mandeb, and no verified post-takeover blockade has appeared.  
-**Key fact:** Mokha's capture and the UN vehicle seizure are well supported; control of navigation lanes is not.  
-**Bad argument to avoid:** “They seized the strait.” The record supports a risk increase, not that conclusion.
+**Central question:** What should Saudi Arabia demand or do when Iraq accepts territorial origin but the operator and commander remain unknown?  
+**Competing interpretations:** One view says the Iraqi security failure is enough to justify strong pressure because states are responsible for preventing cross-border attacks. The competing view says retaliation against a militia or sponsor requires a separate evidentiary showing.  
+**Key fact:** Baghdad removed commanders after saying the drones came from Maysan; it did not publicly identify the attackers.  
+**Bad argument to avoid:** “Launched from Iraq” means “ordered by Iraq” or “ordered by Iran.”
 
-### 2. What is an interception rate worth without a shared denominator?
+### 2. When does geography become control of a chokepoint?
 
-**Central question:** How should audiences assess air-defence performance when official scorecards, anonymous damage reports, and political denials conflict?  
-**Competing interpretations:** Jordan's tally may describe a defined engagement set; the damage reports may reveal successful penetration; both could be partly true if they cover different missiles or effects.  
-**Key fact:** Detailed U.S.-source reporting describes aircraft damage, but no public record reconciles it with Jordan's 20-missile denominator.  
-**Bad argument to avoid:** Calling either the 90% figure or “air defence failed” a settled technical verdict.
+**Central question:** Does possession of Perim/Mokha amount to effective control, or merely a stronger threat position?  
+**Competing interpretations:** The strong case says positions at both the coast and island can impose selective shipping costs without a formal blockade. The cautionary case says control requires persistent surveillance, weapons, enforcement, and observed traffic effects that are not yet public.  
+**Key fact:** The territorial advance is supported; control of every navigation lane and actual closure are not.  
+**Bad argument to avoid:** Treating a map label as proof that all ships can be stopped.
 
-### 3. Can pressure work when verification is gone?
+### 3. What is a BRICS declaration worth without machinery?
 
-**Central question:** Are sanctions, licence denials, and formal IAEA procedure an effective substitute for on-the-ground visibility into Iran's declared nuclear program?  
-**Competing interpretations:** Pressure may create bargaining leverage and raise the price of defiance. The opposing view is that it can amplify worst-case assumptions while leaving the core information gap unsolved.  
-**Key fact:** The accessible four-government statement says the IAEA lacked access to declared facilities since June; this brief did not obtain the final Board resolution text.  
-**Bad argument to avoid:** Treating reduced visibility as proof of a known weapons decision or a specific hidden stockpile.
+**Central question:** Can common language against sanctions change state and private behaviour before BRICS builds an enforcement or payments mechanism?  
+**Competing interpretations:** Political consensus can lower the diplomatic cost of national workarounds. The opposing view is that firms, banks, and shippers still respond to law, market access, and risk, so broad language changes little.  
+**Key fact:** The declaration adopted common sanctions and nuclear-facility language but announced no demonstrated implementation mechanism.  
+**Bad argument to avoid:** Either “BRICS defeated sanctions” or “communiqués never matter.”
 
 ## LIMITATIONS
 
-- Fast-moving battlefield, shipping, and front-line claims may be revised. The brief distinguishes the actual event from the participant accounts of its targets, counts, causes, and effects.
-- Several direct pages intermittently resisted fetches during the run; all material claims are tied to sources inspected by a scout or final audit, with primary records preferred where accessible.
-- No claim-level rate is used for missile defence, shipping disruption, or broader conflict performance because the relevant denominators and source provenance remain incomplete.
+- Fast-moving military, maritime, casualty, and attribution claims may be revised. This edition freezes the record at 02:00 EDT and does not import later developments.
+- Several high-impact propositions rely on participant or anonymous-source reporting. The brief states what those sources can establish and leaves control, command, motive, and effect unresolved where the evidence does not close the gap.
+- No denominator-based performance or misinformation rate is used. Counts in this brief describe inspected claims and events, not the full output of any military, government, speaker, or media corpus.
+- Corrections should update the canonical dated brief and both convenience copies together, with the changed claim and reason made visible.
