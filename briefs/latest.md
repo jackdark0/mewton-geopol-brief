@@ -1,232 +1,240 @@
-# GEOPOLITICS DAILY - 2026-09-23
+# GEOPOLITICS DAILY — 2026-09-24
 
-**Research cutoff:** 2026-09-23 02:00 America/New_York
+**Research cutoff:** 2026-09-24 02:00:00 America/New_York
 
-**Research window:** approximately previous 30 hours
+**Research window:** approximately 2026-09-22 20:00:00 to 2026-09-24 02:00:00 America/New_York
 
 ## BLUF
 
-- **Washington and Tehran have a real channel, not a deal.** U.S. envoy Steve Witkoff said mediators shuttled between the sides on September 22. An unnamed Iranian official described a conditional offer to reopen Hormuz within seven days if the U.S. eased military pressure and lifted its blockade of Iranian ports.
-- **The U.S. secured a durable Arctic-access framework without acquiring Greenland.** Washington, Copenhagen and Nuuk signed an open-ended defense agreement covering new military sites, broad access rights and sensitive-investment screening, but it still needs Danish and Greenlandic parliamentary procedures.
-- **Europe made its Russia sanctions regime harder to veto and easier to criticize.** The EU renewed nearly 3,000 listings for three years while allowing high-profile exceptions; Latvia accepted the compromise and opened a separate deterrence dialogue with France.
-- **Ukraine’s winter diplomacy remains a proposal.** Trump and Zelensky discussed possible de-escalatory steps, and Macron has promoted reciprocal restraint on energy strikes, but Russia has not agreed and no ceasefire exists.
-- **China delivered a narrow pre-summit counternarcotics measure.** Two more drug precursors now require export permits to the U.S., Mexico and Canada. The rule is measurable, but it is not a ban and its enforcement effect is unknown.
+- **Northern Ethiopia's peace breakdown became a military fact.** Tigrayan forces seized the Mekelle, Axum and Shire airports as fighting spread across Tigray, Afar and Amhara. Who initiated the new phase and whether Eritrea is involved remain disputed.
+- **The U.S.-Iran channel survived, but there is no evidence it narrowed the gap.** Tehran is reviewing Washington's response while pressing for port access and a Hormuz arrangement; Washington is still centering nuclear restrictions, shipping security and military leverage.
+- **Gaza received a priced recovery blueprint, not reconstruction.** The Board of Peace proposed $2.45 billion for 66 projects over six months, but the money is not fully secured, access is unresolved and there is no fixed start calendar.
+- **Kyiv offered two narrow off-ramps; Moscow did not accept either.** Ukraine says it is ready for a Black Sea maritime truce and reciprocal energy restraint. Russia reiterated its war goals and rejected a temporary pause.
+- **Morocco's provisional result requires coalition politics.** PAM placed first with 97 of 395 seats and turnout near 38 percent. That is a plurality, not parliamentary control.
 
 ## MAJOR DEVELOPMENTS
 
-### 1. U.S.-Iran talks put a conditional Hormuz bargain on the table
+### 1. Tigrayan forces seize three airports as northern Ethiopia slides back toward wider war
 
-**What happened:** U.S. envoy Steve Witkoff said the United States and Iran held lengthy **indirect** talks on September 22, with mediators shuttling between the two sides. Separately, an unnamed senior Iranian official told Reuters that Iran could reopen the Strait of Hormuz within seven days if Washington eased military pressure and lifted its blockade of Iranian ports; the official said Tehran sent that proposal through mediators on September 16. Washington has not publicly accepted the terms, and no ceasefire or shipping arrangement has been announced. [Reuters on the talks](https://www.marketscreener.com/news/tehran-hints-at-hormuz-talks-with-us-as-leaders-gather-at-un-ce785ad8dd8dff27) [Reuters on the offer](https://www.marketscreener.com/news/iran-ready-to-reopen-strait-of-hormuz-if-us-eases-military-pressure-and-lifts-blockade-ce785ad8db81f02d)
+**What happened:** Tigrayan forces seized and occupied the airports at Mekelle, Axum and Shire, detained federal personnel and disrupted civilian aviation, according to the [African Union](https://www.au.int/en/pressreleases/20260923/chairperson-calls-restraint-and-immediate-de-escalation-northern-ethiopia). Ethiopian Airlines suspended flights to all three. Reuters, citing four sources, reported fighting in Tigray, Afar and Amhara involving Tigrayan forces and regional armed groups. The federal government and Tigrayan authorities blame each other for starting the new phase. [Reuters](https://www.internazionale.it/ultime-notizie-reuters/2026/09/23/tigrayan-leaders-say-new-war-with-ethiopian-government-has-begun-as-fighting-erupts)
 
-The channel opened amid open threats. Trump told the UN that he could destroy the Iranian state if there is no deal; Iran’s armed forces answered with a threat of harsher retaliation. Gulf and regional leaders then met Trump to discuss security, energy, postwar arrangements and diplomacy, according to an [official Qatari readout](https://www.diwan.gov.qa/en/briefing-room/news/international-occasions/2026/september/22/hh-the-amir-participates-in-multilateral-meeting-held-by-us-in-new-york).
-
-**Why it matters:**
-
-- Iran is converting control over a global energy chokepoint into explicit bargaining leverage. Before the war, Hormuz carried roughly one-fifth of global oil and gas shipments.
-- The reported terms create a sequencing test: Tehran wants reduced pressure before reopening; Washington will want a maritime result before surrendering leverage.
-- Gulf governments are not spectators. They host U.S. forces, face Iranian retaliation and need export routes, making them both vulnerable and useful as mediators.
-
-**Context:** The nearly seven-month war has widened into attacks on bases, energy infrastructure and shipping. Diplomatic activity has increased before, but this is the clearest public description in the current window of both a negotiating mechanism and a specific Iranian ask. The exact Iranian offer still rests on one unnamed official, so it should not be treated as published state policy.
-
-**Watch next:**
-
-- whether Washington acknowledges the reported conditions or proposes a different sequence;
-- any navigation notice, change in Iranian enforcement at Hormuz or reduction in attacks;
-- whether mediators announce another round, and whether it remains indirect;
-- whether military action resumes before the November 3 U.S. midterms.
-
-**Confidence:** High that indirect talks occurred; medium on the exact Iranian offer; low that an agreement is near.
-
-### 2. Greenland pact gives Washington wide Arctic access, not sovereignty
-
-**What happened:** The United States, Denmark and Greenland signed an amendment to the 1951 Greenland defense agreement. The [full text](https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/) lets the U.S. modernize Pituffik Space Base and provides for additional defense areas at Narsarsuaq and Mestersvig once the parties agree on technical details. It grants broad movement, overflight, landing and undersea-access rights connected to the defense mission; restricts persistent military installations by non-NATO states unless the parties agree otherwise; and directs Greenland to screen some investments in sensitive sectors.
-
-The agreement has no end date and can be amended only by mutual consent. If Greenland becomes independent, Denmark and Greenland are to ensure that the new state remains in or applies to NATO and assumes the agreement. It is **not yet in force**: Denmark’s prime minister’s office says Danish and Greenlandic parliamentary procedures must be completed first. [Danish government](https://stm.dk/en/press/press-releases/agreement-between-greenland-denmark-and-the-united-states/)
+The AU said the airport seizures were inconsistent with the 2022 Pretoria Agreement, called for an immediate cessation and tasked former Nigerian president Olusegun Obasanjo with engagement. That creates a mediation channel, but no halt in fighting was reported by the cutoff.
 
 **Why it matters:**
 
-- Washington obtained the military access it needs for Arctic surveillance, reinforcement and a possible Golden Dome architecture without a sovereignty transfer.
-- The pact tries to make U.S. access survive a future Greenlandic independence process.
-- Investment screening and the ban on non-NATO military presence narrow the space for Chinese or Russian strategic entry.
+- The airports are operational assets, not symbolic trophies. Control affects federal access, resupply, civilian travel and the ability to move officials or aid.
+- Fighting across three regions makes this more than a contained Tigray dispute. Armed groups in Afar and Amhara have their own grievances and can widen the conflict independently.
+- Eritrea's role is the dangerous unknown. Ethiopian federal authorities allege Eritrean support for Tigrayan forces; Eritrea denies it. Any verified intervention would add an interstate layer to a conflict that killed large numbers of people in 2020–2022.
+- The Pretoria framework is now being tested by facts on the ground. A peace agreement that cannot reverse an airport seizure or produce local talks may remain legally alive while becoming operationally irrelevant.
 
-**Context:** The operative clauses are more constrained than triumphalist political language. New defense areas require a proposal, consultation and mutual agreement. The preamble explicitly reaffirms the sovereignty and territorial integrity of the Kingdom of Denmark and Greenlanders’ right to self-determination. “Permanent U.S. control of Greenland” is therefore false; “an open-ended defense-access regime” is accurate.
+**Context:** Tigrayan leaders call this a new war and describe their offensive as defensive. Those are claims, not an agreed chronology. The evidence supports major renewed hostilities and three specific airport seizures; it does not yet support a complete territorial map, a reliable casualty count or a settled account of who moved first. [Reuters background](https://www.marketscreener.com/news/why-new-war-in-ethiopia-s-tigray-threatens-to-trigger-wider-conflict-ce785ad9d181f520)
 
 **Watch next:**
 
-- votes or other parliamentary steps in Denmark and Greenland;
-- technical plans, budgets and timelines for Narsarsuaq and Mestersvig;
-- domestic Greenlandic debate over the independence and investment-screening clauses;
-- whether Golden Dome infrastructure is proposed at any defense area.
+- whether federal forces attempt to retake the three airports;
+- restoration or further loss of civilian air service;
+- verifiable evidence of Eritrean personnel, equipment or command support;
+- an AU-announced cessation, direct talks or access for Obasanjo;
+- fighting moving deeper into Afar or Amhara.
 
-**Confidence:** High.
+**Confidence:** High on the airport seizures and aviation disruption; medium on the wider battlefield picture; low on initiation and Eritrean involvement.
 
-### 3. EU buys three years of sanctions stability with visible exceptions
+### 2. U.S.-Iran talks continue without visible convergence
 
-**What happened:** The EU extended individual sanctions tied to attacks on Ukraine’s territorial integrity for 36 months, until September 22, 2029. The measures cover more than 3,000 people and entities. The Council also said it would not renew three living people and one entity and removed three deceased people. [Council of the EU](https://www.consilium.europa.eu/lt/press/press-releases/2026/09/22/ukraine-s-territorial-integrity-eu-extends-individual-listings-for-further-three-years/)
+**What happened:** A senior Iranian official told Reuters that Tehran was reviewing Washington's response after the September 22 indirect talks, but that the sides remained far apart. The official said Iran was prioritizing an end to the U.S. blockade of Iranian ports and reopening the Strait of Hormuz, alongside broader war-ending terms and access to frozen assets. Those detailed terms come from one unnamed official, not a published Iranian proposal. [Reuters](https://www.streetinsider.com/Reuters/Iran%2C%2BUS%2Bstill%2Bfar%2Bapart%2Bin%2Bpeace%2Btalks%2C%2BIranian%2Bofficial%2Bsays%3B%2BPezeshkian%2Bvows%2Bno%2Bsurrender/27093045.html)
 
-EU diplomats told Reuters that the political compromise removed billionaires Alisher Usmanov and Mikhail Fridman. France had sought Usmanov’s removal on national-security grounds, while Luxembourg sought Fridman’s removal amid his $16 billion claim against the country. Latvia, the final holdout, abstained rather than block the package and said it would prepare national sanctions against both men. [Reuters](https://www.marketscreener.com/news/eu-renews-russia-sanctions-drops-russian-billionaires-usmanov-and-fridman-ce785ad8df8df226) [Latvian government](https://www.mk.gov.lv/lv/jaunums/ministru-prezidents-latvija-nepielaus-sankciju-rezima-sabrukumu-un-saglabas-stingru-nostaju-pret-krievijas-kara-atbalstitajiem)
+Secretary of State Marco Rubio presented a different sequence. He said Iran cannot be allowed to obtain a nuclear weapon, described the U.S. as keeping a southern shipping lane open and defending vessels, and kept military options in view. He also accused Iran of firing on ships that morning; the inspected incident reporting confirms that a cargo vessel was hit and evacuated after casualties, but does not independently establish responsibility. [Rubio press availability](https://pubt.io/view/F4387A41B4220FB296F1F65B59627CEE7BE0B141)
 
-Latvia also said Emmanuel Macron agreed to begin talks on Latvian participation in France’s Forward Nuclear Deterrence Initiative and to strengthen France’s military presence, especially air defense. No public document proves that this was a formal exchange for Latvia’s sanctions position. France’s published doctrine also says the initiative does **not** create a strict nuclear guarantee and leaves nuclear-use authority solely with the French president. [Élysée doctrine](https://www.elysee.fr/en/emmanuel-macron/2026/03/02/visit-to-the-ile-longue-operational-base)
+President Masoud Pezeshkian told the UN that Iran would not surrender while remaining open to dialogue. That combination is consistent with continued talks under pressure, not proof of movement toward agreement. [United Nations](https://www.un.org/fr/le-pr%C3%A9sident-iranien-refuse-de-%C2%AB%C2%A0courber-l%C3%A9chine%C2%A0%C2%BB-face-%C3%A0-trump-mais-reste-ouvert-au-dialogue)
 
 **Why it matters:**
 
-- Moving from six-month renewals to a three-year term reduces the frequency with which one government can threaten the entire sanctions regime.
-- The carve-outs expose the price of unanimity: national legal, security and commercial interests can still secure bespoke treatment.
-- French deterrence consultations are widening on NATO’s eastern flank, but political participation is not equivalent to a bilateral nuclear umbrella.
+- The channel now has to connect at least four files: nuclear limits, the U.S. blockade, commercial navigation and the wider war. A deal on one may be held hostage to sequencing on the others.
+- Iran's most useful near-term offer is a maritime result. Washington's strongest leverage is continued military and economic pressure. Each wants the other side to move first.
+- Keeping the channel open can reduce miscalculation, but it can also clarify targets and red lines without producing compromise.
+- The shipping incident shows why diplomacy is operating under a live escalation clock. Attribution errors could collapse talks even when both parties say diplomacy remains possible.
 
-**Context:** This is best understood as an institutional tradeoff, not simply sanctions weakening. The EU preserved almost the entire list and reduced future veto exposure, but it also showed that determined governments can extract exceptions for named individuals.
+**Context:** Yesterday's important change was that mediated contact occurred. Today's change is less optimistic but more informative: the first response did not produce a publicly visible narrowing of positions. “Talks continue” is accurate. “Talks are progressing” is not supported.
 
 **Watch next:**
 
-- Latvia’s legal basis and timing for national sanctions against Usmanov and Fridman;
-- whether frozen assets are released elsewhere in Europe;
-- the promised French delegation to Latvia and any participation model it proposes;
-- whether more EU states seek individual delistings before other sanctions reviews.
+- another mediator-announced round or exchange of written terms;
+- U.S. acknowledgement of the reported Iranian priorities;
+- a change in port-blockade enforcement or Hormuz navigation notices;
+- independently attributable attacks on commercial shipping;
+- any narrow nuclear or maritime confidence-building step.
 
-**Confidence:** High on the EU decision; medium-high on the named delistings; medium on the scope of French-Latvian talks.
+**Confidence:** High that the channel remains active; medium on Iran's detailed asks; low that an agreement is near.
 
-### 4. Ukraine tests a narrow winter de-escalation idea while preparing for failure
+### 3. Gaza has a $2.45 billion project list without the access or money to execute it
 
-**What happened:** After meeting Trump in New York, Zelensky said the two discussed “potential de-escalatory steps” that could open a path to diplomacy before winter. They also discussed a winter air-defense package and continued work on Patriot interceptor production in Ukraine. [Ukrainian presidency](https://www.president.gov.ua/en/news/prezidenti-ukrayini-ta-ssha-obgovorili-kroki-sho-mozhut-vidk-106501)
+**What happened:** The U.S.-backed Board of Peace released a proposed six-month Gaza recovery phase costing $2.45 billion and containing 66 projects. Reported items include border-crossing work, water and electricity restoration, 25,000 solar kits, rubble removal and tunnel filling. The same planning documents estimate $35.2 billion in physical damage and $71.4 billion for ten-year recovery. [Reuters](https://www.marketscreener.com/news/trump-s-board-of-peace-to-unveil-2-45-billion-gaza-recovery-plan-axios-reports-ce785ad9dd88f224)
 
-Macron has promoted a narrower concept: reciprocal restraint on attacks against energy infrastructure. Ukraine has signaled conditional support, but no Russian acceptance, text, protected-target list, monitoring system or start date was reported. Strikes continued around the meeting. [Le Monde](https://www.lemonde.fr/en/international/article/2026/09/22/macron-and-trump-discuss-ukraine-and-soaring-oil-prices-at-new-york-meeting_6757806_4.html) [AP](https://apnews.com/article/9c3d38e7e97132884f915e157dbf9ef1)
+The plan is not fully financed and has no fixed implementation calendar. AP described work as conditional and verification-driven. Israel and Hamas still dispute the security and political sequence around demilitarization, an international force, interim governance and Israeli withdrawal. [AP](https://abcnews.com/US/wireStory/trumps-board-peace-proposes-245-billion-blueprint-begin-136685552) [Axios](https://www.axios.com/2026/09/23/trump-board-of-peace-gaza-reconstruction-plan)
 
 **Why it matters:**
 
-- A limited energy arrangement is easier to discuss than a front-wide ceasefire and directly addresses civilian vulnerability before winter.
-- It could test whether Russia wants a diplomatic off-ramp or merely relief from Ukrainian strikes on its energy system.
-- Ukraine’s simultaneous demand for interceptors and air-defense support is a hedge: Kyiv is preparing for continued attacks, not acting as though a pause has been secured.
+- A priced project menu is more useful than a general reconstruction pledge. Donors can evaluate defined work instead of promising money to an undefined end state.
+- The first projects—crossings, water and power—would directly affect civilian survival and the feasibility of any political transition.
+- The plan also embeds the core political problem. Tunnel treatment, border control and force deployment cannot be treated as neutral engineering while Israel and Hamas disagree over disarmament and withdrawal.
+- The right denominator is projects funded, granted access and started, not projects listed. On the inspected evidence, the board has 66 proposals but no verified construction start.
 
-**Context:** The hard problem is verification. Power generation and transmission are easy to name, but fuel depots, rail lines, ports and dual-use industrial sites can be classified differently. Even a real decline in strikes could collapse after one disputed incident.
+**Context:** Gaza's ceasefire remains imperfect, and reconstruction has not begun at the scale implied by the damage estimates. The blueprint may become a coordination platform. It may also become a polished substitute for resolving the access and security conditions that block work.
 
 **Watch next:**
 
-- an explicit Russian response;
-- a written list of protected targets and rules for attribution;
-- a monitoring or notification channel;
-- a measurable decline in Russian and Ukrainian attacks on energy assets.
+- named donor commitments and money actually disbursed;
+- a published start calendar and implementing agencies;
+- border arrangements that permit equipment and workers to enter;
+- deployment commitments from states named for an international force;
+- verified mobilization on any of the 66 projects.
 
-**Confidence:** High that the proposal is active; low that an agreement is imminent.
+**Confidence:** High that the blueprint exists; low on timing and implementation.
 
-### 5. China expands precursor controls before Xi arrives in Washington
+### 4. Kyiv offers maritime and energy truces; Moscow rejects a temporary pause
 
-**What happened:** Five Chinese agencies added two drug-precursor chemicals to a country-specific export-control catalog on September 22. Exporters now need permits to ship 18 listed chemicals, including possible salts, to the United States, Mexico or Canada, up from 16. The rule took effect immediately; the same notice says exports of those chemicals to other countries do not require this permit. [Chinese government notice](https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202609/t20260922_717309.shtml) [official English account](https://english.scio.gov.cn/m/pressroom/2026-09/22/content_118708376.html)
+**What happened:** President Volodymyr Zelensky said Ukraine was ready for a Black Sea maritime truce based on proposals from Egypt, India and Turkey. He also kept open reciprocal restraint on attacks against energy infrastructure. Rubio said both sides had shown interest in limited grain and energy arrangements. Russia's Foreign Ministry then reaffirmed its commitment to its war objectives, while Foreign Minister Sergei Lavrov rejected a temporary pause at the UN Security Council. No ceasefire exists. [Reuters](https://www.internazionale.it/ultime-notizie-reuters/2026/09/23/zelenskiy-says-ukraine-ready-for-maritime-truce-and-puts-onus-on-russia-to-respond)
 
-The announcement came just before Xi Jinping’s September 23–25 state visit to the United States. AP notes that Washington has repeatedly pressed Beijing to do more against precursor flows used to make fentanyl, methamphetamine and other synthetic drugs. [AP](https://apnews.com/article/6e3012905f3263b796325c03e94d1e40)
+Ukraine separately signed a long-term cooperation framework with Australia covering continued assistance and possible work on training, intelligence, sanctions, cyber defense, energy, air defense, missiles and drones. The agreement is explicitly subject to domestic law, resources and capacity; it is a hedge for continued war, not a security guarantee. [Ukraine-Australia agreement](https://www.president.gov.ua/en/news/ugoda-pro-dovgostrokovu-pidtrimku-j-spivrobitnictvo-mizh-ukr-106529)
 
 **Why it matters:**
 
-- Beijing has supplied a concrete deliverable in a bilateral dispute that mixes public health, law enforcement and trade.
-- The licensing design preserves Chinese discretion. It can be tightened through denials and enforcement or softened through approvals.
-- Destination-specific rules leave a diversion problem: suppliers may route through countries outside the named regime.
+- Kyiv has put two narrower alternatives to a front-wide ceasefire on the table. Either could test whether limited compliance can precede a larger negotiation.
+- A maritime arrangement is relatively observable through port calls, vessel movements and attacks, but rules for mines, inspections and military cargo would still be contentious.
+- Energy restraint sounds precise until the parties classify refineries, fuel depots, rail links and dual-use industry differently.
+- Moscow's public response matters more than third-party optimism. At cutoff, it points away from a pause.
 
-**Context:** The timing makes the measure useful summit diplomacy, but timing does not prove motive. Nor is a new catalog entry proof that precursor availability will fall. The meaningful denominator is enforcement: licenses denied, shipments stopped and downstream supply disrupted.
+**Context:** This is a more concrete version of the winter de-escalation discussion covered yesterday, but it is not a diplomatic breakthrough. Ukraine has clarified what it would accept. Russia has not reciprocated.
 
 **Watch next:**
 
-- whether Trump and Xi announce joint enforcement or information-sharing steps;
-- Chinese license, inspection or seizure data;
-- U.S. and Mexican evidence of changing precursor flows;
-- diversion through third countries or substitutions with uncontrolled chemicals.
+- an explicit Russian answer to the Black Sea proposal;
+- text defining protected vessels, ports or energy targets;
+- a monitoring and attribution mechanism;
+- a start date or measurable decline in relevant attacks;
+- concrete Australian funding or joint-production projects under the new framework.
 
-**Confidence:** High on the rule; low on its practical effect.
+**Confidence:** High that Ukraine made the offers; high that no agreement exists.
+
+### 5. Morocco's election gives PAM first place and no one a majority
+
+**What happened:** Provisional results put the Authenticity and Modernity Party first with 97 of the 395 seats in Morocco's lower house. The National Rally of Independents followed with 66, Istiqlal with 65 and the Justice and Development Party with 54. Official turnout was roughly 38 percent. [Moroccan government](https://maroc.ma/fr/actualites/legislatives-2026-le-pam-en-tete-avec-97-sieges-selon-les-resultats-provisoires) [Reuters](https://www.fidelity.com/news/article/default/202609232356RTRSNEWSCOMBINED_KBN3VA0A4-OUSWD_1)
+
+**Why it matters:**
+
+- PAM won the first move in coalition bargaining, not control of parliament. Its 97 seats are less than one-quarter of the chamber.
+- The four-way distribution leaves multiple coalition paths and gives smaller parties leverage over cabinet formation.
+- Turnout near 38 percent limits claims of a broad mandate after youth-led protests and continuing concern over jobs, services and political responsiveness.
+- Government composition matters, but Morocco is not a fully parliamentary system. The king retains central authority over strategic state policy, including foreign and security affairs. [AP context](https://apnews.com/article/046460d3e478cce506e77be052dbaa36)
+
+**Context:** The result is provisional, and two official references differ slightly on turnout. “Roughly 38 percent” is more honest than false precision. The next meaningful development is the governing coalition and appointment process, not simply which party topped the count.
+
+**Watch next:**
+
+- final certification and any material seat changes;
+- the king's appointment of a head of government;
+- coalition terms among PAM, RNI, Istiqlal and smaller parties;
+- whether PJD enters government or opposition;
+- cabinet control of economic and social portfolios.
+
+**Confidence:** High on the announced provisional count; medium-high pending final results.
 
 ## RAPID FIRE
 
-- **Trump met Delcy Rodríguez.** The late September 22 pull-aside was their first in-person meeting since U.S. forces captured Nicolás Maduro. It normalizes a working relationship centered on energy, mining and investment, but no joint document or election timetable was announced. [Reuters](https://ca.marketscreener.com/news/trump-to-meet-venezuela-s-rodriguez-for-first-time-since-maduro-s-capture-ce785ad9d889f123)
-- **Sudan’s UN visa dispute is now part of ceasefire diplomacy.** Abdel Fattah al-Burhan’s visa had not been issued; Sudan’s UN ambassador asked the secretary-general to intervene. Reuters sources said Washington tied attendance to a 90-day ceasefire, but the State Department did not confirm that condition. [Reuters](https://www.internazionale.it/ultime-notizie-reuters/2026/09/22/exclusive-us-withholding-sudanese-leader-s-visa-over-ceasefire-plan-sources-say)
-- **U.S.-Japan talks stayed at the agenda-setting level.** Trump and Japanese Prime Minister Sanae Takaichi discussed AI, semiconductors, critical minerals and the alliance, but announced no new binding pact or deployment. [Japanese prime minister’s office](https://japan.kantei.go.jp/105/diplomatic/202609/22usa.html)
+- **Australia and Ukraine signed a broad but nonbinding support framework.** The document explores joint production of air-defense systems, missiles and drones and covers training, intelligence, sanctions, cyber and energy cooperation. It records A$1.6 billion in prior Australian military and financial support, but future commitments depend on law, resources and capacity. [Agreement](https://www.president.gov.ua/en/news/ugoda-pro-dovgostrokovu-pidtrimku-j-spivrobitnictvo-mizh-ukr-106529)
+- **The ICC convicted a former Séléka commander of four crimes against humanity.** Mahamat Said Abdel Kani was found guilty beyond reasonable doubt of imprisonment or severe deprivation of liberty, torture, persecution and other inhumane acts. Sentencing is pending. Several war-crime charges were dismissed, so “war-crimes conviction” is inaccurate. [ICC](https://icccpi-web.icccpi-prod.uniccloud.org/fr/news/mahamat-said-abdel-kani-declare-coupable-de-crimes-contre-lhumanite-commis-en-republique)
+- **Senate Democrats proposed sanctions over Israel's E1 settlement project.** More than 10 Democratic senators backed the bill, but it is not law; the House was out of session and passage before the midterms looked unlikely. [Reuters](https://www.streetinsider.com/Reuters/US%2BSenate%2BDemocrats%2Bseek%2Bsanctions%2Bover%2BIsraeli%2Bsettlements%2C%2Bbill%2Bsays/27092938.html)
+- **The AU and U.S. joined two Sudan mediation groups in one meeting.** The AU Commission chair co-chaired the first joint Quad-and-Quintet session and called for an immediate humanitarian truce. No belligerent accepted terms and no ceasefire followed. [African Union](https://au.int/en/pressreleases/20260923/auc-chairperson-co-chaired-us-meeting-quad-and-quintet-sudan)
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### “Washington and Tehran held a direct bilateral meeting”
+### “A new Ethiopia-Tigray war has begun, with Eritrean support”
 
-**Who is making it:** Broad political and media summaries of the September 22 contact.
+**Who is making it:** Tigrayan leaders use the “new war” framing; Ethiopian federal authorities allege Eritrean backing.
 
-**Evidence supporting it:** Both sides participated in a sustained negotiating session on the same day.
+**Evidence supporting it:** Major fighting spans three regions, Tigrayan forces hold three airports and civil aviation is disrupted. Eritrea intervened in the previous war.
 
-**Evidence against / missing:** Witkoff’s account says mediators shuttled between them; there is no verified face-to-face meeting.
+**Evidence against / missing:** The complete battlefield picture and initiation sequence are unknown. Eritrea denies involvement, and historical precedent is not current proof.
 
-**Assessment:** **Weak as stated.** The safe description is lengthy indirect talks. [Reuters](https://www.marketscreener.com/news/tehran-hints-at-hormuz-talks-with-us-as-leaders-gather-at-un-ce785ad8dd8dff27)
+**Assessment:** **Major renewed hostilities are verified; the initiation narrative and Eritrean role are unresolved.**
 
-### “The Greenland agreement gives the U.S. permanent control”
+### “U.S.-Iran talks are making progress”
 
-**Who is making it:** Expansive U.S. political messaging and online summaries.
+**Who is making it:** Optimistic summaries that treat continued contact as convergence.
 
-**Evidence supporting it:** The pact has no end date and grants wide military-access rights.
+**Evidence supporting it:** The channel remains open and both governments still leave room for diplomacy.
 
-**Evidence against / missing:** It reaffirms Danish sovereignty and Greenlandic self-determination; new defense areas require mutual agreement; parliamentary procedures remain.
+**Evidence against / missing:** The Iranian source says the parties remain far apart. Their public priorities differ, and no text, ceasefire or shipping arrangement exists.
 
-**Assessment:** **False as stated.** It is an open-ended defense-access agreement, not a transfer of sovereignty. [Agreement](https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/)
+**Assessment:** **Unsupported.** Continued talks are not demonstrated progress.
 
-### “Russia and Ukraine agreed to stop attacking energy infrastructure”
+### “The Board of Peace launched Gaza reconstruction”
 
-**Who is making it:** Overstated summaries of the Trump-Zelensky and Macron diplomacy.
+**Who is making it:** Promotional or compressed descriptions of the $2.45 billion announcement.
 
-**Evidence supporting it:** Ukraine and its partners are publicly discussing reciprocal de-escalation.
+**Evidence supporting it:** The board released a detailed list of 66 projects with a six-month price.
 
-**Evidence against / missing:** No Russian assent, operative text, start date or monitoring exists.
+**Evidence against / missing:** Funding is incomplete, access is contested, there is no fixed calendar and no verified project start in the inspected reporting.
 
-**Assessment:** **False / premature.** This is a proposal, not a ceasefire.
+**Assessment:** **False as stated.** It launched a blueprint, not reconstruction.
 
-### “Latvia received a French nuclear guarantee for accepting the sanctions deal”
+### “Russia and Ukraine agreed to limited ceasefires”
 
-**Who is making it:** Interpretations connecting the two outcomes from the same bargaining period.
+**Who is making it:** Summaries combining Ukraine's offers with U.S. descriptions of mutual interest.
 
-**Evidence supporting it:** Latvia announced its abstention and the opening of French deterrence talks together after leader-level contacts.
+**Evidence supporting it:** Kyiv is ready for maritime and reciprocal energy arrangements; U.S. officials see potential interest.
 
-**Evidence against / missing:** No formal exchange is public. France says the initiative is not a strict guarantee and retains sole authority over nuclear use.
+**Evidence against / missing:** Russia reiterated its war aims and rejected a pause. There is no text, date or monitoring system.
 
-**Assessment:** **Unclear linkage; false if described as a guarantee.**
+**Assessment:** **False / premature.** Ukraine offered; Russia did not agree.
 
-### “China banned two more fentanyl precursors”
+### “PAM won control of Morocco's parliament”
 
-**Who is making it:** Simplified headlines.
+**Who is making it:** Winner-take-all readings of the provisional result.
 
-**Evidence supporting it:** Two substances were added to a controlled list.
+**Evidence supporting it:** PAM placed first.
 
-**Evidence against / missing:** The rule requires export permits; it does not prohibit every shipment.
+**Evidence against / missing:** It won 97 of 395 seats, far short of a majority, and must form a coalition.
 
-**Assessment:** **Misleading.** Call it an expanded licensing requirement.
+**Assessment:** **Misleading.** PAM won a plurality and the first coalition move.
 
 ## UPCOMING EVENTS
 
-- **2026-09-23:** Xi Jinping is scheduled to begin a state visit to the United States and arrive at Joint Base Andrews. Watch for any early trade, Taiwan or counternarcotics framing. [Chinese foreign ministry](https://www.fmprc.gov.cn/eng/xw/zyxw/202609/t20260921_12027514.html)
-- **2026-09-23:** Morocco holds legislative elections for 395 seats. The official figures list 28 parties or coalitions and 15.8 million registered voters. [Moroccan government](https://www.maroc.ma/en/news/2026-legislative-elections-key-figures-glance)
-- **2026-09-23:** The UN holds a high-level meeting on climate action and a separate meeting marking the right-to-development declaration during the General Assembly. [UN schedule](https://www.un.org/en/ga/81/meetings/)
-- **2026-09-24:** Trump and Xi are scheduled for the formal White House state visit. The useful outputs will be operative texts on trade, technology, fentanyl enforcement or Taiwan—not ceremonial language. [White House](https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/)
-- **2026-09-24:** Burhan had been scheduled to address the UN General Assembly. Watch whether a visa issues, whether Sudan’s foreign minister substitutes and whether either side modifies the 90-day ceasefire position. [Reuters](https://www.internazionale.it/ultime-notizie-reuters/2026/09/22/exclusive-us-withholding-sudanese-leader-s-visa-over-ceasefire-plan-sources-say)
-- **2026-09-25:** Xi’s state visit is scheduled to conclude. Any signed annexes or enforcement plans may matter more than the leaders’ joint language. [Chinese foreign ministry](https://www.fmprc.gov.cn/eng/xw/zyxw/202609/t20260921_12027514.html)
-- **2026-09-28:** The UN General Debate’s final scheduled day may consolidate positions on the Iran war, Ukraine and Sudan after a week of bilateral diplomacy. [UN schedule](https://www.un.org/en/ga/81/meetings/)
+- **2026-09-24:** Trump and Xi Jinping are scheduled for the formal White House state visit. Watch for operative language on trade, technology controls, fentanyl enforcement and Taiwan; ceremony is not a deliverable. [White House](https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/)
+- **2026-09-25:** The UN high-level meeting on pandemic prevention is scheduled to seek adoption of a negotiated political declaration. The test is whether financing, access and compliance language survive consensus. [UN High-Level Week](https://www.un.org/en/high-level-week-2026)
+- **2026-09-27:** Switzerland votes on a neutrality initiative and a food-security initiative. The neutrality result could shape how Bern defines sanctions, alliances and security cooperation. [Swiss government](https://www.admin.ch/en/popular-vote-on-27-september-2026)
+- **2026-09-27:** France indirectly elects 178 senators, renewing roughly half of the 348-member chamber. Watch whether the balance changes the government's room on budgets, defense and constitutional legislation. [French Senate](https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/17-09-2026/elections-senatoriales-soiree-electorale-le-dimanche-27-septembre-2026-de-17h-a-23h.html)
+- **2026-09-28:** The UN General Debate is scheduled to conclude. Late speeches and bilateral readouts may clarify positions on Iran, Ukraine, Sudan and the next secretary-general. [UN High-Level Week](https://www.un.org/en/high-level-week-2026)
+- **2026-09-29:** The General Assembly holds its high-level plenary on the total elimination of nuclear weapons. Watch for concrete risk-reduction proposals rather than repeated disarmament principles. [United Nations](https://www.un.org/pga/81/event/high-level-plenary-meeting-to-commemorate-and-promote-the-international-day-for-the-total-elimination-of-nuclear-weapons/)
 
 ## SHOW FODDER
 
-### Can a Hormuz bargain end the Iran war?
+### Is the Pretoria peace agreement already dead in practice?
 
-**Central question:** Can the parties sequence pressure relief and maritime reopening when each wants the other to move first?
+**Central question:** Can a peace framework survive when one side holds three airports and fighting crosses multiple regional borders?
 
-**Competing interpretations:** The offer may be the first real off-ramp; it may instead be an Iranian attempt to split Gulf governments from Washington while preserving its strongest lever.
+**Competing interpretations:** The seizures may be leverage designed to force new talks; they may instead trigger a federal campaign and recreate the coalition dynamics of the last war.
 
-**Key fact:** Witkoff confirmed indirect talks, but the seven-day terms come from one unnamed Iranian official and have not been accepted by Washington.
+**Key fact:** The AU independently named Mekelle, Axum and Shire as seized and said the action was inconsistent with the Pretoria Agreement.
 
-**Bad argument to avoid:** “A direct U.S.-Iran summit produced a ceasefire framework.” Neither part is established.
+**Bad argument to avoid:** “Eritrea is definitely back in the war.” That is alleged and denied, not verified.
 
-### Did the U.S. get what it wanted in Greenland without owning it?
+### Are U.S.-Iran talks an off-ramp or a map of the next escalation?
 
-**Central question:** Is durable military access the strategic prize that matters more than sovereignty?
+**Central question:** Can mediators sequence nuclear limits, port access and Hormuz reopening when both sides want the other to concede first?
 
-**Competing interpretations:** The pact is a pragmatic NATO settlement that protects self-determination; the independence and investment clauses may still constrain Greenland’s future choices.
+**Competing interpretations:** The channel can turn coercion into a narrow maritime bargain; it can also expose irreconcilable terms while military action continues.
 
-**Key fact:** The text has no end date, but every future defense area is not automatic and the agreement is not yet in force.
+**Key fact:** The talks remain indirect, and the Iranian account itself says the parties are far apart.
 
-**Bad argument to avoid:** “Denmark sold Greenland.” There was no sovereignty transfer.
+**Bad argument to avoid:** “The two sides are making progress because they are still talking.” Contact and convergence are different claims.
 
-### Is the EU sanctions deal institutional strength or elite escape?
+### What would prove the Gaza plan is real?
 
-**Central question:** Does locking in nearly 3,000 listings for three years outweigh the precedent set by high-profile removals?
+**Central question:** Which threshold matters first—money committed, crossings opened, security terms agreed or a project visibly started?
 
-**Competing interpretations:** The EU neutralized repeated veto threats; France and Luxembourg showed that national pressure can still win exceptions for connected figures.
+**Competing interpretations:** A priced project list can organize donors and unlock work; without access and political agreement, it can become administrative theater.
 
-**Key fact:** The duration changed from recurring six-month renewals to 36 months, while Latvia plans national action against the two named billionaires.
+**Key fact:** The board lists 66 projects, but the $2.45 billion is not fully secured and there is no fixed implementation calendar.
 
-**Bad argument to avoid:** “France gave Latvia a nuclear guarantee to buy its vote.” The public record shows talks, not a strict guarantee or documented quid pro quo.
+**Bad argument to avoid:** “A reconstruction program has begun.” The evidence supports a blueprint, not execution.
