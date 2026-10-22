@@ -198,8 +198,8 @@
 
 - **2026-10-22 to 2026-10-23:** EU trade ministers meet in Dublin. Watch for action on strategic trade and economic-security tools. [Council of the EU](https://www.consilium.europa.eu/en/meetings/fac/2026/10/22-23/)
 - **2026-10-23:** Wang Yi is scheduled to attend the Xiong’an Global Governance Forum and deliver a keynote. Watch for how Beijing links institutional reform to its current security and trade campaigns. [Chinese Foreign Ministry](https://www.mfa.gov.cn/eng/xw/wsrc/202610/t20261021_12044253.html)
-- **2026-10-25:** Serbia holds a snap parliamentary election with implications for Belgrade’s balance between the EU, Russia, and China. [Government of Serbia](https://www.srbija.gov.rs/vest/en/287130/president-vucic-dissolves-national-assembly-calls-snap-elections-for-25-october.php)
-- **2026-10-26:** Egypt’s House is scheduled to reconvene on authorization for President Abdel Fattah al-Sisi to continue Saudi defense operations; the cited report says a two-thirds vote is required. [Egypt Today](https://www.egypttoday.com/Article/1/150144/Parliament-to-reconvene-Monday-to-vote-on-extension-of-Sisi)
+- **2026-10-25:** Serbia holds a snap parliamentary election with implications for Belgrade’s balance between the EU, Russia, and China. [Government of Serbia](https://www.srbija.gov.rs/vest/en/287130/president-of-republic-calls-parliamentary-elections-for-25-october.php)
+- **2026-10-26:** Egypt’s House is scheduled to reconvene on authorization for President Abdel Fattah al-Sisi to continue Saudi defense operations; the cited report says a two-thirds vote is required. [Egypt Today](https://www.egypttoday.com/Article/1/150144/Parliament-Speaker-adjourns-session-on-Sisi%E2%80%99s-request-for-authorization-to)
 - **Through 2026-10-29:** Japan-US exercise Keen Sword 27 continues. Japan’s Joint Staff lists roughly 45,000 JSDF personnel, 40 vessels, and 260 aircraft. [Japan Joint Staff PDF](https://www.mod.go.jp/js/pdf/2026/p20260929_01e.pdf)
 - **2026-10-29 to 2026-10-30:** The EU-Canada summit is scheduled in Montreal. [Council of the EU](https://www.consilium.europa.eu/en/meetings/international-summit/2026/10/29-30/)
 

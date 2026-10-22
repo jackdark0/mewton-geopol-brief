@@ -242,8 +242,8 @@ Both propositions come from the French presidency. They are verified as public c
 
 - **October 22–23:** EU trade ministers meet in Dublin. [Council of the EU](https://www.consilium.europa.eu/en/meetings/fac/2026/10/22-23/)
 - **October 23:** Wang Yi is scheduled to attend the Xiong’an Global Governance Forum and deliver a keynote. [Chinese Foreign Ministry](https://www.mfa.gov.cn/eng/xw/wsrc/202610/t20261021_12044253.html)
-- **October 25:** Serbia holds a snap parliamentary election. [Government of Serbia](https://www.srbija.gov.rs/vest/en/287130/president-vucic-dissolves-national-assembly-calls-snap-elections-for-25-october.php)
-- **October 26:** Egypt’s House is scheduled to reconvene on authorization for President Abdel Fattah al-Sisi to continue Saudi defense operations; the report says a two-thirds vote is required. [Egypt Today](https://www.egypttoday.com/Article/1/150144/Parliament-to-reconvene-Monday-to-vote-on-extension-of-Sisi)
+- **October 25:** Serbia holds a snap parliamentary election. [Government of Serbia](https://www.srbija.gov.rs/vest/en/287130/president-of-republic-calls-parliamentary-elections-for-25-october.php)
+- **October 26:** Egypt’s House is scheduled to reconvene on authorization for President Abdel Fattah al-Sisi to continue Saudi defense operations; the report says a two-thirds vote is required. [Egypt Today](https://www.egypttoday.com/Article/1/150144/Parliament-Speaker-adjourns-session-on-Sisi%E2%80%99s-request-for-authorization-to)
 - **Through October 29:** Japan-US exercise Keen Sword 27 continues; Japan’s Joint Staff says approximately 45,000 JSDF personnel, 40 vessels, and 260 aircraft are involved. [Japan Joint Staff PDF](https://www.mod.go.jp/js/pdf/2026/p20260929_01e.pdf)
 - **October 29–30:** The EU-Canada summit is scheduled in Montreal. [Council of the EU](https://www.consilium.europa.eu/en/meetings/international-summit/2026/10/29-30/)
 
