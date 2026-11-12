@@ -78,11 +78,11 @@ High on the projection and concession; medium on the downstream effect; no confi
 
 ### What changed
 
-The G7 collectively endorsed U.S. demining and vessel escorts, a French-UK verification role, unrestricted Hormuz passage, reimposed UN sanctions, and renewed IAEA access. It also adopted the UK's attribution of Iranian involvement in the RAF Fairford incident as a shared political position.
+The G7 collectively endorsed U.S. demining and vessel escorts, a French-UK verification role, unrestricted Hormuz passage, reimposed UN sanctions, and renewed IAEA access. Separately, Reuters corroborated an Iranian attack on navigation infrastructure on Oman's Didamar Island but could not establish what burned or whether systems were destroyed.
 
 ### Strategic significance
 
-The declaration makes allied support for maritime and economic pressure more durable. It can distribute verification and diplomatic costs even if the United States does not conduct new airstrikes. This sharpens the contradiction in Trump's “effectively over” framing: one form of force is paused while coercive operations and sanctions continue. Coalition language is not coalition capability, however; no new forces or rules were announced.
+The attack makes the maritime contest concrete: Iran can target infrastructure used to restore oil flows, while redundancy may limit the payoff from one strike. The G7 declaration can distribute verification and diplomatic costs even if the United States does not conduct new airstrikes, but coalition language is not coalition capability; no new forces or rules were announced.
 
 ### Actor incentives
 
@@ -97,6 +97,10 @@ The declaration makes allied support for maritime and economic pressure more dur
   - **Mechanism:** Trusted reporting can support reciprocal operational steps.
   - **Evidence:** The G7 explicitly identified a French-UK verification role.
   - **Confidence:** medium-low until authorities and reporting exist.
+- **Assessment:** Didamar shows Iranian reach more clearly than it shows strategic effect.
+  - **Mechanism:** A navigation node can be attacked, but distributed and redundant systems can preserve traffic.
+  - **Evidence:** Reuters verified smoke and thermal activity; it found no damage assessment and reported limited expected impact.
+  - **Confidence:** medium.
 - **Assessment:** The same structure can entrench confrontation if sanctions and escorts persist without a negotiated off-ramp.
   - **Mechanism:** Coalition support lowers the political cost of maintaining pressure.
   - **Evidence:** The declaration couples navigation operations with sanctions and nuclear demands.
@@ -107,10 +111,50 @@ The declaration makes allied support for maritime and economic pressure more dur
 - Named forces, authorities, and public reporting for the French-UK initiative.
 - IAEA access or a reciprocal Iranian operational step.
 - Any change to blockade enforcement, escort rules, or sanctions implementation.
+- Operator reports, notices to mariners, imagery, or traffic data showing whether Didamar lost service.
 
 ### Confidence
 
 High on the G7 position; medium on its operational and bargaining effects.
+
+## Indonesia: a vice-presidential exit opens a controlled succession inside an uncontrolled rupture
+
+### What changed
+
+Gibran formally submitted his resignation after court rulings disputed the education documents used to establish his eligibility and 120 lawmakers initiated an impeachment path. The Assembly must choose a replacement from two Prabowo nominees within 60 days. In a separate case, the police chief told parliament that illegal surveillance of Prabowo extended across the political and state system.
+
+### Strategic significance
+
+The Constitution contains the vacancy: there is no automatic presidential election, and Prabowo controls the shortlist. The larger risk comes from the overlap of succession politics, an alleged security-service abuse, and the breakup of Prabowo's alliance with former President Widodo. Gibran's departure removes Widodo's son from the executive; it does not prove that Widodo directed the wiretaps or that the state is destabilizing.
+
+### Actor incentives
+
+- **Prabowo:** install a replacement who strengthens his coalition while demonstrating control over the security apparatus.
+- **Widodo network:** protect political influence and resist guilt by association with implicated officials.
+- **Parliament:** use public hearings and the replacement vote to assert constitutional control.
+- **Police leadership:** isolate individual culpability and preserve institutional legitimacy.
+
+### Second-order possibilities
+
+- **Assessment:** Prabowo can consolidate authority if the replacement process is orderly and the wiretap investigation remains evidence-led.
+  - **Mechanism:** Presidential nomination power plus an Assembly vote can rebuild the governing coalition around a new vice president.
+  - **Evidence:** The Constitution supplies a 60-day procedure; Prabowo submits two names.
+  - **Confidence:** medium.
+- **Assessment:** Unproven attribution to Widodo could turn an accountability process into factional retaliation.
+  - **Mechanism:** Suspects' institutional ties can be rhetorically inflated into command evidence.
+  - **Evidence:** Widodo had not been implicated and investigators had not identified who ordered the surveillance.
+  - **Confidence:** medium-high as a framing risk, not a forecast.
+
+### Watch indicators
+
+- Formal declaration of the vacancy and Prabowo's two nominees.
+- Assembly vote timing and coalition support.
+- Evidence identifying who ordered the surveillance.
+- Whether deployments remain precautionary or become visible coercive politics.
+
+### Confidence
+
+High on the resignation and succession procedure; medium on coalition effects; low on any command attribution in the wiretap case.
 
 ## South China Sea: the missing 20% may contain the whole problem
 
@@ -225,12 +269,13 @@ High on NATO's own statements; low-to-medium on how much real capability the hea
 
 # Editorial ranking
 
-1. Abu Dhabi outcome - the only new Russia-Ukraine agreement is humanitarian, while the enforcement architecture remains absent.
-2. G7 Hormuz alignment - allied support makes continuing Iran pressure more durable despite de-escalatory rhetoric.
-3. South Sudan election risk - a near-term institutional collision with potential for renewed violence.
-4. Mississippi Senate projection - changes the width of the incoming constraint on U.S. foreign policy.
-5. South China Sea code delay - preserves a crisis-management gap at a treaty flashpoint.
-6. NATO conversion bottleneck - strategically important but based on NATO's unreplicated aggregate figures.
+1. Indonesia resignation and wiretap rupture - a top-level succession inside Southeast Asia's largest state amid a security-service scandal.
+2. Didamar strike and G7 Hormuz alignment - a physical attack meets a more explicit allied enforcement agenda.
+3. Abu Dhabi outcome - the only new Russia-Ukraine agreement is humanitarian, while the enforcement architecture remains absent.
+4. South Sudan election risk - a near-term institutional collision with potential for renewed violence.
+5. Mississippi Senate projection - changes the width of the incoming constraint on U.S. foreign policy.
+6. South China Sea code delay - preserves a crisis-management gap at a treaty flashpoint.
+7. NATO conversion bottleneck - strategically important but based on NATO's unreplicated aggregate figures.
 
 # Best show-discussion candidates
 

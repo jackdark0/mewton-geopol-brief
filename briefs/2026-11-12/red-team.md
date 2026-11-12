@@ -3,6 +3,33 @@
 **Cutoff:** 2026-11-12 02:00:00 America/New_York (07:00:00 UTC)
 **Research window:** approximately 2026-11-10 20:00 through 2026-11-12 02:00 America/New_York
 
+## Finding: Keep Indonesia's two scandals separate
+
+- **Severity:** critical
+- **Targets:** Indonesia analysis and final framing.
+- **Problem:** Gibran's credential dispute and resignation are separate from the illegal surveillance investigation. Political and family links do not establish that Gibran or Widodo ordered, knew of, or benefited from the wiretaps.
+- **Evidence or reasoning:** AP says investigators had not identified the origin of the order and Widodo had not been implicated.
+- **Best competing interpretation:** The events converge politically by weakening the Prabowo-Widodo alliance, while remaining legally and evidentially distinct.
+- **Required editorial action:** correct. State the separation explicitly and make command attribution an unresolved claim.
+
+## Finding: A constitutional succession path limits immediate regime-risk claims
+
+- **Severity:** major
+- **Targets:** Indonesia strategic significance.
+- **Problem:** “Political uncertainty” can become an empty escalation phrase. Indonesia has a defined 60-day Assembly replacement process based on two presidential nominees.
+- **Evidence or reasoning:** AP describes the constitutional mechanism; no new popular election is triggered.
+- **Best competing interpretation:** Prabowo may consolidate power through an orderly replacement rather than face instability.
+- **Required editorial action:** add the mechanism and use watch indicators instead of forecasting instability.
+
+## Finding: Didamar attack and Didamar destruction are different propositions
+
+- **Severity:** critical
+- **Targets:** G7/Hormuz story.
+- **Problem:** Three sources plus smoke and thermal evidence support an attack. They do not establish Iran's state-media claim that navigation systems were destroyed or that shipping capacity fell.
+- **Evidence or reasoning:** Reuters could not determine what burned or obtain a damage assessment; other sources cited redundancy and limited expected impact.
+- **Best competing interpretation:** Iran hit or approached the target successfully but achieved little operational effect.
+- **Required editorial action:** correct. Use “attack corroborated; damage unclear” and place destruction in contested claims.
+
 ## Finding: Do not turn Europe's absence into proof of a defective settlement
 
 - **Severity:** major
@@ -101,7 +128,9 @@
 - The South China Sea 80% figure cannot be converted into substantive completion.
 - South Sudan faces documented readiness and inclusion gaps, while renewed war remains a risk rather than a forecast.
 - NATO's budget-to-capability conversion problem is valid as a question; the headline quantities cannot be independently reproduced.
+- Gibran's resignation and the 60-day replacement mechanism are established; broader regime effects and wiretap command are not.
+- Reuters' evidence supports a Didamar attack but not destruction or measured shipping disruption.
 
 # Highest-risk unresolved issue
 
-The edition's highest-risk inference is treating policy declarations and in-principle agreements as operational change. The editor must keep implementation tests visible in every major story and must not reuse prior-edition claims as current evidence without a current source.
+The edition's highest-risk inference is collapsing temporal coincidence and political association into causal attribution—especially in Indonesia—and treating policy declarations, attack claims, or in-principle agreements as operational change. The editor must keep evidence boundaries and implementation tests visible.

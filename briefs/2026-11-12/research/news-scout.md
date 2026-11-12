@@ -3,6 +3,30 @@
 **Cutoff:** 2026-11-12 02:00:00 America/New_York (07:00:00 UTC)
 **Window:** approximately 2026-11-10 20:00 through 2026-11-12 02:00 America/New_York
 
+## Candidate: Indonesia's vice president resigns into a wider political-security rupture
+
+- **Event time/date:** Resignation reported November 11; letter submitted to the People's Consultative Assembly before cutoff on November 12.
+- **Region / actors:** Indonesia; Gibran Rakabuming Raka, President Prabowo Subianto, former President Joko Widodo, parliament.
+- **What changed:** Gibran formally submitted his resignation after both top courts disputed the education documents used to establish his eligibility. The Constitution gives the Assembly 60 days to elect a replacement from two presidential nominees. Separately, the police chief told parliament that illegal surveillance of Prabowo extended across the state and political system.
+- **Why this may matter:** The resignation removes the institutional link between Prabowo and Widodo just as a wiretap investigation implicates senior security officials and deepens their political split.
+- **Initial priority:** high.
+- **Confidence in basic event:** high.
+- **Source chain:** AP directly observed the Assembly submission and separately reported the parliamentary hearing; Reuters had earlier confirmed the resignation through an aide and parliamentary sources.
+- **Sources:** [AP resignation report](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0); [AP wiretap report](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4); [Reuters](https://www.marketscreener.com/news/indonesia-s-vice-president-has-resigned-aide-says-stoking-political-uncertainty-ce785edbda8df724).
+- **Questions for auditor:** When does the vacancy become legally effective? Who will Prabowo nominate, and what evidence links the wiretap order to any political principal?
+
+## Candidate: Reuters corroborates an Iranian strike on Omani navigation infrastructure
+
+- **Event time/date:** Iranian claim on November 10; Reuters corroboration published November 11.
+- **Region / actors:** Iran, Oman, Strait of Hormuz, commercial shipping.
+- **What changed:** Three informed sources told Reuters that Iran struck navigation systems on Didamar Island. Reuters verified smoke in video and thermal activity in Copernicus imagery but could not determine what burned or whether systems were destroyed.
+- **Why this may matter:** The attack targets infrastructure used to restore Gulf oil flows and makes G7 maritime-enforcement language more than an abstract policy debate.
+- **Initial priority:** high.
+- **Confidence in basic event:** supported; damage and operational effect unclear.
+- **Source chain:** Three sources plus observable smoke/thermal evidence; Iranian state media is the source for the destruction claim; Oman and CENTCOM did not comment.
+- **Sources:** [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420).
+- **Questions for auditor:** What was hit, what failed, and did shipping capacity change?
+
 ## Candidate: Abu Dhabi talks yield an in-principle prisoner exchange, not a peace breakthrough
 
 - **Event time/date:** 2026-11-11.
@@ -149,13 +173,13 @@
 
 # Scout shortlist
 
-1. Abu Dhabi outcome and follow-on diplomacy.
-2. Mississippi projection and incoming Senate margin.
-3. G7 Hormuz/Iran declaration.
-4. Missed China-ASEAN code deadline.
-5. South Sudan election-risk warning.
-6. NATO spending-versus-production gap.
-7. COP31 opening without an implementation result.
-8. Israeli caretaker-military dispute.
-9. U.S.-China leader-travel planning.
-10. Irish alumina sanctions gap claim.
+1. Indonesia vice-presidential resignation and security rupture.
+2. Didamar strike plus G7 Hormuz enforcement.
+3. Abu Dhabi outcome and follow-on diplomacy.
+4. Mississippi projection and incoming Senate margin.
+5. Missed China-ASEAN code deadline.
+6. South Sudan election-risk warning.
+7. NATO spending-versus-production gap.
+8. COP31 opening without an implementation result.
+9. Israeli caretaker-military dispute.
+10. U.S.-China leader-travel planning.

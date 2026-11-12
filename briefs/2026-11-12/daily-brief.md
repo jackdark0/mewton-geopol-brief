@@ -5,10 +5,10 @@
 
 ## BLUF
 
+- **Indonesia's vice president resigned into a wider political-security rupture.** Gibran Rakabuming Raka formally submitted his resignation; a constitutional replacement path exists, while a separate illegal-wiretap investigation is testing Prabowo's control of the security establishment and his alliance with former President Widodo.
+- **The Hormuz confrontation stayed physical while the G7 lined up behind enforcement.** Reuters corroborated an Iranian attack on Omani navigation infrastructure but not Iran's destruction claim; the G7 backed U.S. demining and escorts plus a French-UK verification role.
 - **The Abu Dhabi talks produced one bounded result, not a peace framework.** Russia and Ukraine accepted a large POW exchange in principle, but the numbers were still unfinished and the parties announced no common answer on territory, guarantees, or Europe's role.
-- **The G7 lined up behind continuing pressure on Iran.** It backed U.S. demining and escorts in Hormuz, a French-UK verification role, reimposed UN sanctions, and renewed IAEA access—evidence of an enforcement agenda, not an end to the confrontation.
 - **Mississippi widened the incoming Democratic Senate majority.** AP projected Scott Colom the winner and Cindy Hyde-Smith conceded; certification and the exact national seat split remain outstanding.
-- **China and ASEAN will miss their South China Sea code deadline, according to diplomats inside the talks.** Their “80%” progress estimate is a paragraph count without a public denominator or text; the unresolved provisions may be the ones that matter.
 - **South Sudan is 40 days from a planned election with major peace-agreement tasks unfinished.** UN officials identify security, logistics, participation, and timing risks; that supports urgent concern, not a prediction that war is inevitable.
 
 ## MAJOR DEVELOPMENTS
@@ -35,24 +35,25 @@
 
 ### 2. G7 turns Iran de-escalation talk into a maritime enforcement agenda
 
-**What happened:** G7 foreign ministers and the EU high representative jointly backed U.S. demining and civilian-vessel escorts in the Strait of Hormuz, endorsed a French-UK role in restoring traffic and verifying mine removal, rejected tolls or other limits on passage, and called for full enforcement of UN sanctions reimposed in 2025. They also demanded renewed Iranian cooperation with the IAEA. [G7 joint declaration](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris)
+**What happened:** Reuters corroborated an Iranian attack on navigation systems on Oman's Didamar Island through three informed sources, verified smoke in video, and identified thermal activity in Copernicus imagery. It could not determine what burned or whether a system was destroyed. Separately, G7 foreign ministers and the EU high representative backed U.S. demining and civilian-vessel escorts, endorsed a French-UK role in restoring traffic and verifying mine removal, and called for full enforcement of UN sanctions reimposed in 2025. [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420); [G7 joint declaration](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris)
 
 **Why it matters:**
 
+- The Didamar attack shows Iranian reach against infrastructure used to restore Gulf oil flows. It does not yet show a meaningful loss of shipping capacity.
 - The declaration gives allied political support to maritime and economic pressure even without another U.S. airstrike.
 - A verification mechanism could support de-escalation if it generates trusted evidence that mines are removed and passage is restored.
-- The same structure can prolong confrontation if escorts and sanctions continue without a reciprocal sequence acceptable to Iran.
 
-**Context:** This is a common policy statement, not a new military treaty. It announces no additional forces, authorities, budget, or rules of engagement. The G7 also recognized the UK's attribution of Iranian involvement in a September 27 RAF Fairford incident. That establishes a joint political position; it does not independently reproduce the attribution evidence.
+**Context:** Iranian state media said the IRGC destroyed “enemy navigation systems.” Reuters did not verify destruction; three other maritime/security sources said redundant systems should limit impact, and Oman and CENTCOM did not comment. The G7 declaration is a common policy statement, not a new military treaty. It announces no additional forces, authorities, budget, or rules of engagement.
 
 **Watch next:**
 
 - named forces, authorities, and public reporting for the French-UK initiative;
+- operator statements, imagery, notices to mariners, or traffic data showing whether Didamar lost service;
 - an Iranian step tied to a specific allied operational change;
 - restored IAEA access;
 - any announced change to escort operations or sanctions implementation.
 
-**Confidence:** High on the joint position; medium on whether it changes operational capacity or bargaining leverage.
+**Confidence:** High on the G7 position; medium-high that an Iranian attack occurred; low on destruction or shipping impact.
 
 ### 3. Mississippi adds another Democratic senator—but do not invent the denominator
 
@@ -116,6 +117,27 @@
 
 **Confidence:** High that readiness and inclusion risks are material; low on any categorical forecast of renewed war.
 
+### 6. Indonesia's vice president exits; the succession is orderly, the rupture is not
+
+**What happened:** Vice President Gibran Rakabuming Raka formally submitted his resignation to the People's Consultative Assembly before cutoff. Both Indonesia's Constitutional Court and Supreme Court had disputed the education documents used to establish his eligibility, and 120 lawmakers from eight parties had opened an impeachment path. A vice-presidential vacancy does not trigger a new popular election: the Assembly must choose from two candidates nominated by President Prabowo Subianto within 60 days. [AP resignation report](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0); [AP impeachment-process report](https://apnews.com/article/indonesia-vice-president-raka-impeachment-process-5d90e45eaa627513e83f5b5861e87d9e)
+
+**Why it matters:**
+
+- The Constitution contains the immediate succession risk: Prabowo controls the shortlist, and the Assembly controls the vote.
+- Gibran is former President Joko Widodo's son. His departure removes the clearest institutional link in the alliance that brought Prabowo to power.
+- A separate illegal-wiretap investigation now tests civilian control of the security establishment: the police chief told parliament that surveillance targeting Prabowo extended to senior officials, politicians, activists, and law-enforcement personnel. [AP](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4)
+
+**Context:** Do not merge the cases. The credential dispute drove the resignation. The surveillance investigation implicates or has detained senior police officials, including figures with ties to Widodo, but investigators had not identified who ordered the operation and Widodo had not been implicated. Political association is not command evidence.
+
+**Watch next:**
+
+- formal declaration of the vacancy and Prabowo's two nominees;
+- timing and coalition support for the Assembly vote;
+- evidence identifying who ordered the surveillance;
+- whether precautionary troop deployments remain in barracks or become visible political coercion.
+
+**Confidence:** High on the resignation and 60-day replacement procedure; medium on coalition effects; low on any attribution of the wiretap order.
+
 ## RAPID FIRE
 
 - **NATO's spending headline lacks a reproducible denominator:** Mark Rutte said European allies and Canada added more than $250 billion in defense investment across 2025-26 and that five allies would reach the full 5% target in 2026. The speech does not supply the baseline, price basis, country list, or share converted into delivered capability; Rutte also said demand still exceeds supply. [NATO transcript](https://www.nato.int/en/news-and-events/events/transcripts/2026/11/11/keynote-speech-by-the-nato-secretary-general-at-the-atlantic-future-forum); [NATO deep-strike industry meeting](https://nato.int/en/news-and-events/articles/news/2026/11/10/nato-discusses-deep-precision-strike-capabilities-for-deterrence-and-defence)
@@ -152,6 +174,13 @@
 **Evidence supporting it:** NATO says defense investment increased and identifies priority capability programs.
 **Evidence against / missing:** The public speech lacks price, baseline, outlay, delivery, and readiness denominators; it separately acknowledges a supply shortage. [NATO](https://www.nato.int/en/news-and-events/events/transcripts/2026/11/11/keynote-speech-by-the-nato-secretary-general-at-the-atlantic-future-forum)
 **Assessment:** **Supported only as NATO's nominal investment statement; unclear as delivered real capability. Confidence: high / low respectively.**
+
+### “Iran destroyed the navigation systems on Didamar Island”
+
+**Who is making it:** Iranian state media, attributing the strike to the IRGC.
+**Evidence supporting it:** Three sources confirmed an Iranian attack; Reuters verified smoke in video and thermal activity in satellite imagery.
+**Evidence against / missing:** Reuters could not identify what burned or obtain a damage assessment. Maritime sources said redundant systems should limit the effect; Oman and CENTCOM did not comment. [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420)
+**Assessment:** **Supported that an attack occurred; unclear that navigation systems were destroyed. Confidence: medium-high / low respectively.**
 
 ## UPCOMING EVENTS
 

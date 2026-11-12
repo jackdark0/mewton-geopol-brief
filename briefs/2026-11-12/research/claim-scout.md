@@ -3,6 +3,30 @@
 **Cutoff:** 2026-11-12 02:00:00 America/New_York (07:00:00 UTC)
 **Window:** approximately 2026-11-10 20:00 through 2026-11-12 02:00 America/New_York
 
+## Claim: Iran destroyed the navigation systems on Didamar Island
+
+- **Origin / principal promoters:** Iranian state media, citing an IRGC strike.
+- **Why it matters:** Destruction could impair infrastructure used to restore Gulf oil flows and would test the G7's maritime response.
+- **Evidence offered for it:** Three informed sources confirmed an Iranian attack; Reuters verified smoke in video and thermal activity in Copernicus imagery.
+- **Evidence against it / missing evidence:** Reuters could not identify what burned or whether systems were destroyed; no damage assessment exists; other maritime sources said redundant systems should limit shipping effects; Oman and CENTCOM did not comment.
+- **Independent corroboration:** partial on an attack; no on destruction or operational impact.
+- **Current assessment:** supported that an attack occurred; unclear that navigation systems were destroyed.
+- **Confidence:** medium-high / low respectively.
+- **Sources:** [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420).
+- **Questions for auditor:** Obtain operator statements, imagery, service status, and shipping-flow data.
+
+## Claim: Indonesia's vice-presidential resignation proves Widodo directed the wiretap operation
+
+- **Origin / principal promoters:** A political inference from Gibran's resignation, the Prabowo-Widodo split, and suspects' ties to the former president.
+- **Why it matters:** It would turn a succession crisis into an allegation of former-presidential involvement in illegal surveillance.
+- **Evidence offered for it:** Senior police officials were implicated; a former police chief close to Widodo was detained; the political alliance is breaking.
+- **Evidence against it / missing evidence:** Investigators had not identified the origin of the order, Widodo had not been implicated, and the credential case was separate from the wiretap investigation.
+- **Independent corroboration:** no.
+- **Current assessment:** unsupported.
+- **Confidence:** high.
+- **Sources:** [AP](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4); [AP resignation](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0).
+- **Questions for auditor:** Preserve the separation between institutional ties, motive, and evidence of command.
+
 ## Claim: The Abu Dhabi talks put a broad peace deal within reach
 
 - **Origin / principal promoters:** Optimistic descriptions by participants and commentary treating continued meetings as convergence.
@@ -77,9 +101,9 @@
 
 # Claims most worth carrying into verification
 
-1. Abu Dhabi means peace is close.
-2. The G7 declaration means the Iran confrontation is ending.
-3. The South China Sea code is 80% substantively complete.
-4. Colom's win yields an exact 55-seat Democratic Senate.
-5. South Sudan's election will inevitably restart war.
-6. NATO's $250 billion equals delivered capability.
+1. Iran destroyed Didamar's navigation systems.
+2. Gibran's resignation proves Widodo directed the wiretap operation.
+3. Abu Dhabi means peace is close.
+4. The G7 declaration means the Iran confrontation is ending.
+5. The South China Sea code is 80% substantively complete.
+6. Colom's win yields an exact 55-seat Democratic Senate.

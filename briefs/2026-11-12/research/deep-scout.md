@@ -3,6 +3,28 @@
 **Cutoff:** 2026-11-12 02:00:00 America/New_York (07:00:00 UTC)
 **Window:** approximately 2026-11-10 20:00 through 2026-11-12 02:00 America/New_York
 
+## Candidate: Indonesia's resignation is a succession mechanism inside a security rupture
+
+- **Underlying development:** Gibran formally resigned while parliament investigated both his eligibility and a separate illegal surveillance operation targeting Prabowo and a wide range of state and political actors.
+- **Why it may be under-covered:** The credential dispute is the trigger; the strategic mechanism is the breakdown of Prabowo's alliance with Widodo amid alleged security-service misconduct.
+- **Strategic mechanism:** Prabowo can nominate two replacement candidates for an Assembly election within 60 days, giving him a chance to rebuild the vice presidency around his own coalition while investigations test civilian control of the police.
+- **What evidence is observable now:** The resignation letter, court rulings described by AP, the constitutional replacement procedure, police-chief testimony, detained senior police officials, and a parliamentary investigation.
+- **What remains inference:** Who ordered the surveillance, whether Widodo or allies were involved, which replacement Prabowo wants, and whether the split produces wider instability.
+- **Initial priority:** high.
+- **Sources:** [AP resignation](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0); [AP wiretap hearing](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4); [Reuters](https://www.marketscreener.com/news/indonesia-s-vice-president-has-resigned-aide-says-stoking-political-uncertainty-ce785edbda8df724).
+- **Questions for auditor:** Lock the legal effective date and keep proven surveillance targets separate from unproven command attribution.
+
+## Candidate: Redundancy, not denial, may limit Iran's Didamar strike
+
+- **Underlying development:** Reuters corroborated an Iranian attack on navigation infrastructure used for Hormuz shipping but found no damage assessment; maritime sources said redundant systems should limit impact.
+- **Why it may be under-covered:** Physical attack and operational effect are distinct. Smoke and thermal activity prove an incident more strongly than they prove shipping disruption.
+- **Strategic mechanism:** Iran can raise the cost of alternative navigation routes, while redundancy and distributed systems reduce the leverage gained from one target.
+- **What evidence is observable now:** Three-source corroboration, verified smoke, Copernicus thermal activity, no Omani or CENTCOM confirmation, and no measured flow loss.
+- **What remains inference:** Exact weapon, damage, service outage, and Iranian command intent beyond the state-media claim.
+- **Initial priority:** high.
+- **Sources:** [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420).
+- **Questions for auditor:** Seek imagery, notices to mariners, operator statements, and traffic data.
+
 ## Candidate: Abu Dhabi produced a humanitarian channel but exposed the representation problem
 
 - **Underlying development:** Russia and Ukraine accepted a large POW exchange in principle, while Europe remained outside the trilateral room and core territorial and guarantee disputes persisted.
@@ -82,10 +104,11 @@
 
 # Ranked shortlist
 
-1. Abu Dhabi's bounded outcome and Europe problem.
-2. G7 operational alignment on Hormuz.
-3. South China Sea code delay.
-4. South Sudan's election/peace-framework collision.
-5. Mississippi's wider incoming Senate majority.
-6. NATO spending conversion bottleneck.
-7. COP31 implementation gap.
+1. Indonesia's succession and security rupture.
+2. Didamar attack plus G7 operational alignment on Hormuz.
+3. Abu Dhabi's bounded outcome and Europe problem.
+4. South China Sea code delay.
+5. South Sudan's election/peace-framework collision.
+6. Mississippi's wider incoming Senate majority.
+7. NATO spending conversion bottleneck.
+8. COP31 implementation gap.

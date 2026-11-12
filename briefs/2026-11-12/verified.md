@@ -2,7 +2,7 @@
 
 **Cutoff:** 2026-11-12 02:00:00 America/New_York (07:00:00 UTC)
 **Research window:** approximately 2026-11-10 20:00 through 2026-11-12 02:00 America/New_York
-**Sources inspected:** 24 direct pages or records, plus discovery results rejected as evidence
+**Sources inspected:** 29 direct pages or records, plus discovery results rejected as evidence
 
 ## Story: Abu Dhabi talks produce an in-principle POW exchange but no peace formula
 
@@ -76,25 +76,62 @@
 - **[CONFIRMED]** The declaration opposed tolls, fees, discrimination, and limits on Hormuz passage; endorsed U.S. Central Command demining and escorts; and identified a French-UK initiative as useful for restoring traffic and verifying mine removal. [G7 declaration](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris)
 - **[CONFIRMED]** The G7 called for full implementation of UN sanctions reinstated in September 2025 and for Iran to resume full IAEA cooperation. [G7 declaration](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris)
 - **[CONFIRMED]** The G7 recognized the UK's attribution of Iranian involvement in a September 27 RAF Fairford incident. The declaration establishes the shared political position, not independent proof of that attribution. [G7 declaration](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris)
+- **[SUPPORTED]** Three informed sources confirmed to Reuters that Iran attacked navigation systems on Oman's Didamar Island. Reuters verified smoke in video and thermal activity in Copernicus imagery, but could not identify what burned or determine whether a system was destroyed. [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420)
+- **[SUPPORTED]** Reuters reported that the target supports infrastructure used to restore Gulf oil flows; three other maritime/security sources assessed that redundant systems would likely limit the shipping effect. Oman and CENTCOM did not comment. [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420)
 
 ### Material claims not established
 
 - New force contributions, rules of engagement, completed mine clearance, or a legal instrument created by the declaration.
 - Independent public proof of Iran's responsibility for every cited maritime or RAF incident.
+- Iran's claim that it destroyed “enemy navigation systems” on Didamar, and any measurable loss of shipping capacity.
 - That the Iran confrontation is ending. The declaration preserves coercive maritime and economic measures.
 
 ### Source provenance
 
 - One joint primary source proves consensus among signatories. It does not provide independent corroboration for underlying allegations.
+- Reuters' Didamar report combines three informed sources with observable evidence of an incident; its destruction claim still originates with Iranian state media.
 
 ### Open questions
 
 - Will the French-UK verification initiative receive forces, authorities, and public reporting?
 - Will any reciprocal Iranian step alter blockade or escort operations?
+- What equipment on Didamar was damaged, and did operators lose service?
 
 ### Recommendation
 
 - include major; keep operational effects and attribution limits explicit.
+
+## Story: Indonesia's vice president resigns amid a wider political-security rupture
+
+**Priority:** high
+
+### Verified propositions
+
+- **[CONFIRMED]** Gibran Rakabuming Raka submitted his resignation to the leadership of Indonesia's People's Consultative Assembly before cutoff on November 12. AP observed and photographed the submission; Reuters had reported his resignation through an aide and parliamentary sources on November 11. [AP](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0) [Reuters](https://www.marketscreener.com/news/indonesia-s-vice-president-has-resigned-aide-says-stoking-political-uncertainty-ce785edbda8df724)
+- **[CONFIRMED]** AP reports that the Constitutional Court and Supreme Court had ruled that documents concerning Gibran's overseas education did not meet election requirements, and 120 lawmakers from eight parties had started a process that could lead to impeachment. [AP](https://apnews.com/article/indonesia-vice-president-raka-impeachment-process-5d90e45eaa627513e83f5b5861e87d9e)
+- **[CONFIRMED]** A vacancy does not trigger a new popular election. The People's Consultative Assembly elects a replacement from two candidates nominated by the president within 60 days. [AP](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0)
+- **[SUPPORTED]** In a separate parliamentary hearing, Indonesia's police chief said illegal surveillance targeting President Prabowo also covered senior officials, politicians, activists, and law-enforcement personnel. Several senior police officials are implicated or detained, and investigators had not identified the origin of the order. [AP](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4)
+- **[CONFIRMED]** Gibran is former President Joko Widodo's son. His exit removes the most direct institutional link in Prabowo's alliance with Widodo while the separate surveillance case deepens their political split. The direction and durability of that split remain assessments, not adjudicated facts. [AP](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4) [Reuters](https://www.marketscreener.com/news/indonesia-s-vice-president-has-resigned-aide-says-stoking-political-uncertainty-ce785edbda8df724)
+
+### Material claims not established
+
+- The exact legal effective moment of the vacancy or the identities of Prabowo's two nominees.
+- That Widodo ordered, knew of, or benefited from the surveillance operation; AP explicitly reports he had not been implicated.
+- That the resignation will cause economic or regime instability.
+
+### Source provenance
+
+- AP directly observed the letter submission and separately reported the police chief's public testimony.
+- Reuters' earlier report relied on an aide and two parliamentary sources; it independently corroborates the resignation sequence but shares official actors with AP.
+
+### Open questions
+
+- Who will Prabowo nominate, and how will the Assembly organize the replacement vote?
+- Who ordered the surveillance, and will the investigation establish political command rather than institutional association?
+
+### Recommendation
+
+- include major; separate the credential case, resignation procedure, and wiretap attribution.
 
 ## Story: China and ASEAN miss the 2026 South China Sea code deadline
 
