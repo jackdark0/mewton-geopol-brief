@@ -1,215 +1,238 @@
-# GEOPOLITICS DAILY - 2026-11-12
+# GEOPOLITICS DAILY - 2026-11-13
 
-**Research cutoff:** 2026-11-12 02:00:00 America/New_York (07:00:00 UTC)
-**Research window:** approximately 2026-11-10 20:00 through 2026-11-12 02:00 America/New_York
+**Research cutoff:** 2026-11-13 02:00:00 America/New_York (07:00:00 UTC)
+**Research window:** approximately 2026-11-11 20:00 through 2026-11-13 02:00 America/New_York
 
 ## BLUF
 
-- **Indonesia's vice president resigned into a wider political-security rupture.** Gibran Rakabuming Raka formally submitted his resignation; a constitutional replacement path exists, while a separate illegal-wiretap investigation is testing Prabowo's control of the security establishment and his alliance with former President Widodo.
-- **The Hormuz confrontation stayed physical while the G7 lined up behind enforcement.** Reuters corroborated an Iranian attack on Omani navigation infrastructure but not Iran's destruction claim; the G7 backed U.S. demining and escorts plus a French-UK verification role.
-- **The Abu Dhabi talks produced one bounded result, not a peace framework.** Russia and Ukraine accepted a large POW exchange in principle, but the numbers were still unfinished and the parties announced no common answer on territory, guarantees, or Europe's role.
-- **Mississippi widened the incoming Democratic Senate majority.** AP projected Scott Colom the winner and Cindy Hyde-Smith conceded; certification and the exact national seat split remain outstanding.
-- **South Sudan is 40 days from a planned election with major peace-agreement tasks unfinished.** UN officials identify security, logistics, participation, and timing risks; that supports urgent concern, not a prediction that war is inevitable.
+- **Europe may enter the next Ukraine negotiating round, but nobody has published the seating chart.** U.S. and Ukrainian participants announced European participation; Moscow's precise commitment, Europe's representative, and every hard settlement term remain unresolved.
+- **Trump publicly narrowed the Iran off-ramp while Gulf shipping took more hits.** He removed JD Vance from the Iran portfolio and said no deal was needed; UKMTO confirmed two tanker strikes by unknown projectiles and did not name an attacker.
+- **Ukraine's Starshield dispute exposed a wartime veto point.** Kyiv says a speed limit returned and hurt drone interception; SpaceX says nothing changed. The strategic fact is the dependency, not an unproved motive.
+- **China's silent naval surge made ambiguity part of the pressure.** Taiwan reported more than 100 vessels and cross-theater coordination; the scale and attack simulation are not independently reproducible from the public record.
+- **Britain broadened Russia energy sanctions, while two other economic stories stayed murky.** The UK legal package is real but its revenue effect is not; a Venezuela review tracks $12.26 billion without resolving who ultimately benefited; Trump's Mexico tariff threat names neither a rate base nor a legal action.
 
 ## MAJOR DEVELOPMENTS
 
-### 1. Abu Dhabi gets to “in principle”—and no further
+### 1. Europe gets closer to the Ukraine table—not to a settlement
 
-**What happened:** Two days of U.S.-mediated Russia-Ukraine talks ended with an agreement **in principle** on a large prisoner exchange. U.S. envoy Jared Kushner said the numbers would be finalized November 12; Russian negotiator Vladimir Medinsky and Ukrainian negotiator Rustem Umerov confirmed the plan. The talks did not produce a ceasefire, territorial formula, or security guarantee. [AP](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64); [UAE Foreign Ministry](https://www.mofa.gov.ae/en/MediaHub/News/2026/11/10/10-11-2026-UAE-Russia-Ukraine-USA)
-
-**Why it matters:**
-
-- A completed exchange would prove that the channel can deliver a bounded humanitarian bargain. The announcement alone does not.
-- U.S. envoys said they would meet Vladimir Putin in Moscow on November 12 and Volodymyr Zelenskyy in Dublin afterward, keeping the process moving without showing that the positions are converging.
-- European, EU, and NATO representatives were in Abu Dhabi but outside the trilateral room. That may simplify early bargaining, but it leaves an unresolved design question: how can governments expected to supply money, forces, sanctions policy, or guarantees own the eventual obligations?
-
-**Context:** Russia and Ukraine remain divided over occupied territory, postwar guarantees, and Europe's role. Moscow opposed European participation in the direct talks. Kyiv welcomed the separate European presence but rejected giving up occupied territory for peace. A humanitarian agreement and a political settlement are different claim classes; success on the first does not establish proximity to the second.
-
-**Watch next:**
-
-- identical exchange numbers, a timetable, and completed transfers;
-- whether Putin accepts European participation in later rounds;
-- a joint text naming guarantors, triggers, and enforcement—not parallel descriptions of a productive meeting.
-
-**Confidence:** High on what was and was not announced; medium until the exchange terms are finalized; low that a broad deal is close.
-
-### 2. G7 turns Iran de-escalation talk into a maritime enforcement agenda
-
-**What happened:** Reuters corroborated an Iranian attack on navigation systems on Oman's Didamar Island through three informed sources, verified smoke in video, and identified thermal activity in Copernicus imagery. It could not determine what burned or whether a system was destroyed. Separately, G7 foreign ministers and the EU high representative backed U.S. demining and civilian-vessel escorts, endorsed a French-UK role in restoring traffic and verifying mine removal, and called for full enforcement of UN sanctions reimposed in 2025. [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420); [G7 joint declaration](https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris)
+**What happened:** After U.S. envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow and Volodymyr Zelenskyy in Dublin, Witkoff and Zelenskyy said another negotiating round had been agreed and Europe would join. Kushner said Putin was willing to try European participation, but there is no common participant list, date, agenda, or communiqué. Putin simultaneously renewed demands for NATO force rollback in Central and Eastern Europe and rejected European forces in postwar Ukraine. [AP on the meetings](https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23); [AP on Europe's representation problem](https://apnews.com/article/dublin-epc-europe-ukraine-russia-war-2a96d57210055edd2e76f71693e0a37c)
 
 **Why it matters:**
 
-- The Didamar attack shows Iranian reach against infrastructure used to restore Gulf oil flows. It does not yet show a meaningful loss of shipping capacity.
-- The declaration gives allied political support to maritime and economic pressure even without another U.S. airstrike.
-- A verification mechanism could support de-escalation if it generates trusted evidence that mines are removed and passage is restored.
+- European governments would supply much of the money, sanctions policy, weapons, and potential guarantees needed to implement a deal. A direct role can make promises more credible.
+- Europe still has no single negotiating voice. EU institutions, the E3, NATO members, and the Coalition of the Willing do not have identical interests or authority.
+- Putin's NATO demand reaches beyond Ukraine. Process movement does not mean the territorial or security gap narrowed.
 
-**Context:** Iranian state media said the IRGC destroyed “enemy navigation systems.” Reuters did not verify destruction; three other maritime/security sources said redundant systems should limit impact, and Oman and CENTCOM did not comment. The G7 declaration is a common policy statement, not a new military treaty. It announces no additional forces, authorities, budget, or rules of engagement.
+**Context:** More than 40 leaders at the European Political Community said Ukraine must choose its own alliances and that European security cannot be negotiated without Europe. They did not select a representative. The EU separately said it had been present in Abu Dhabi and would remain involved. [European Political Community chair's summary](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/12/); [EU-Zelenskyy joint statement](https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/)
 
 **Watch next:**
 
-- named forces, authorities, and public reporting for the French-UK initiative;
-- operator statements, imagery, notices to mariners, or traffic data showing whether Didamar lost service;
-- an Iranian step tied to a specific allied operational change;
-- restored IAEA access;
-- any announced change to escort operations or sanctions implementation.
+- one participant list accepted by Russia, Ukraine, the United States, and European governments;
+- a named European delegation with authority to negotiate guarantees and sanctions;
+- written sequencing on ceasefire, territory, forces, and enforcement.
 
-**Confidence:** High on the G7 position; medium-high that an Iranian attack occurred; low on destruction or shipping impact.
+**Confidence:** High on the announcement; medium on Moscow accepting the same format; low that a broad deal is close.
 
-### 3. Mississippi adds another Democratic senator—but do not invent the denominator
+### 2. Trump sidelines Vance on Iran as tankers keep getting hit
 
-**What happened:** AP projected Democrat Scott Colom the winner just before 18:00 America/New_York on November 11 after a Jackson County update put him 4,669 votes ahead out of 962,237 counted. AP estimated fewer than 12,000 ballots remained for review, many of them provisional; Hyde-Smith conceded. Counties face a November 13 certification deadline. [AP race-call explanation](https://apnews.com/article/mississippi-senate-colom-hydesmith-midterm-7f098b8834f598c923ba73572ea2223f); [Mississippi Today](https://mississippitoday.org/2026/11/11/scott-colom-wins-senate-mississippi-hyde-smith/)
+**What happened:** Trump directed Vice President JD Vance away from Iran diplomacy and toward domestic corruption and crime, saying the United States did not need a deal. He also left open renewed strikes. Separately, UKMTO confirmed that an unknown projectile hit a tanker in the Arabian Gulf on November 10, causing multiple casualties, and that another unknown projectile hit a second tanker's engine room northwest of Ra's al Khaymah on November 11, prompting a safe evacuation. [AP](https://apnews.com/article/trump-iran-vance-negotiations-d9671cbf66e3c2e337f4fb3485ad07d0); [UKMTO 203-26](https://www.ukmto.org/-/media/ukmto/products/20261112-ukmto_warning_203-26.pdf?rev=724ce0c8e4a8458badd1f98205c92c4e); [UKMTO 204-26](https://www.ukmto.org/-/media/ukmto/products/20261112-ukmto_warning_204-26-1.pdf?rev=ddd6808104d549258f9c47d71449746d)
 
 **Why it matters:**
 
-- The result widens a Democratic Senate majority after Democrats had already been reported to take both chambers. It does not create that takeover by itself.
-- A larger cushion can reduce the leverage of individual defectors on nominations, investigations, appropriations, sanctions, and war-powers measures after the new Congress begins.
-- The immediate institutional effect is limited: the sitting Congress remains in office, and committee ratios will be negotiated later.
+- The White House is publicly devaluing a negotiated off-ramp while keeping military options visible.
+- Repeated attacks can raise insurance, routing, and escort costs before they measurably reduce oil flow.
+- Removing diplomatic reassurance while attacks remain unattributed increases the chance that one side reads an ambiguous event as deliberate escalation.
 
-**Context:** Some derivative reports say Democrats will hold 55 seats, but the material inspected for this edition did not define the full national denominator or the unresolved seat clearly enough to repeat that number. Today's established facts are narrower: AP made a projection, Hyde-Smith conceded, and certification remains pending.
+**Context:** Trump's order does not prove every backchannel closed. UKMTO called both projectiles unknown and named no attacker. Temporal proximity is not attribution.
 
 **Watch next:**
 
-- the November 13 certified Mississippi result and final margin;
-- the complete incoming Senate composition and treatment of independents;
-- committee ratios and lame-duck confirmations before January.
+- who, if anyone, replaces Vance in direct or indirect contacts;
+- Omani or other mediation and any reciprocal Iranian step;
+- UKMTO attribution updates, shipping traffic, and insurance changes;
+- renewed U.S. strike orders.
 
-**Confidence:** High on the projection and concession; medium on downstream foreign-policy effects; no verdict on the unverified 55-seat claim.
+**Confidence:** High on Trump's signal and the two incidents; low on diplomatic finality and attacker identity.
 
-### 4. The South China Sea code misses 2026; “80%” answers the wrong question
+### 3. Starshield becomes a control dispute inside Ukraine's kill chain
 
-**What happened:** China and ASEAN will not finish their long-negotiated South China Sea code this year as planned, three Southeast Asian diplomats with direct knowledge told AP. Negotiations will continue in 2027 under Singapore's ASEAN chairmanship. The diplomats said roughly 80% of draft paragraphs were provisionally agreed after the final 2026 round. [AP](https://apnews.com/article/south-china-sea-code-of-conduct-southeast-asia-8ef757e6ed486a5632e4c2299ee00064)
+**What happened:** Zelenskyy said a 161 km/h Starshield speed limit had returned in occupied territory and was disrupting interception of jet-powered Shahed drones. SpaceX responded: “This is false. There has been no change.” No public telemetry, configuration order, or contract instruction resolves the conflict. [Ukraine statement at 18:12](https://www.president.gov.ua/en/news/mi-znovu-zafiksuvali-obmezhennya-shvidkosti-starshield-na-na-107285); [Ukraine statement at 20:42](https://www.president.gov.ua/en/news/situaciya-z-pereboyami-v-roboti-starshield-i-neobhidnist-pos-107301); [Ars Technica with SpaceX's response](https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/)
 
 **Why it matters:**
 
-- The delay leaves crisis management dependent on existing rules and deterrence while confrontations continue in waters covered by competing sovereignty claims and U.S.-Philippine treaty warnings.
-- A paragraph share is not a strategic-progress metric. A few unresolved clauses on geography, legal force, enforcement, resource activity, or outside militaries can contain the whole dispute.
-- Continuing talks are better than collapse, but negotiation activity does not itself restrain coast guards, naval forces, or maritime militias.
+- A geofence or speed setting can affect a wartime interception chain without moving a weapon or changing an alliance treaty.
+- Even a technical or configuration failure creates operational risk when no redundant navigation path is ready.
+- The dispute makes accountability unclear: the relevant control could sit with SpaceX, a Pentagon contract, a field configuration, or another layer.
 
-**Context:** The reporting is strong but not public-record proof. AP's three diplomatic sources may all be reading the same negotiating text; neither that text nor a common China-ASEAN confirmation was available in the inspected record. The 80% figure should be understood as an attributed claim with an undefined denominator, not as evidence that the flashpoint is 80% safer.
+**Context:** Ukraine's operational claim is specific, but specificity is not independent proof. SpaceX's denial blocks a causal verdict. There is no evidence that the company restored a limit to pressure Kyiv.
 
 **Watch next:**
 
-- official confirmation of the revised timetable;
-- publication of the unresolved provisions or a credible summary;
-- whether any code is binding, geographically defined, and connected to incident investigation;
-- actual coercive behavior during the 2027 negotiating period.
+- Pentagon or SpaceX disclosure on configuration authority;
+- telemetry from affected units and the geographic scope;
+- restored interception performance or an alternative navigation link.
 
-**Confidence:** Medium-high that the deadline will be missed; low on what the 80% figure means.
+**Confidence:** High that the dependency is strategically important; medium that units experienced a material problem; low on cause or intent.
 
-### 5. South Sudan's election clock is outrunning its peace machinery
+### 4. Taiwan says China's biggest drill arrived without a name
 
-**What happened:** On November 10, UNMISS said South Sudan was 42 days from its first planned sovereign election and still faced concerns over security, logistics, compressed timing, and unfinished peace-agreement benchmarks. AP reports that Riek Machar remains detained and on trial, his party links participation in dialogue to his release, other parties show limited electoral activity, and the election commission had not announced the start of party registration. [UNMISS](https://unmiss.unmissions.org/en/press-releases/press-release-unmiss-urges-inclusive-dialogue-protection-of-civilians-and); [AP](https://apnews.com/article/south-sudan-election-kiir-machar-2f416a2ec9a0d6e11f492a19f7418154)
+**What happened:** Taiwanese officials told Reuters that China sent more than 100 naval and coast-guard vessels into an early-November operation involving the northern, eastern, and southern theater commands and the Liaoning carrier. Taiwan says the force simulated attacks and exceeded Justice Mission 2025. China called the carrier activity routine and not directed at any country. [Reuters via Investing.com](https://www.investing.com/news/world-news/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say-5024072)
 
 **Why it matters:**
 
-- The December 22 vote is supposed to end a repeatedly extended transition. A disputed process could instead weaken the 2018 peace agreement as the shared political rulebook.
-- The risk mechanism is exclusion plus missing procedure—not the simplistic claim that elections cause war.
-- Another unilateral delay could also destroy legitimacy. The least dangerous path is a mutually agreed, funded process with explicit rules, participation, security, and dispute resolution.
+- An unannounced surge compresses warning time: defenders must decide whether “routine” movement is becoming a crisis.
+- Cross-theater and coast-guard coordination is relevant to quarantine, blockade, and attack scenarios even if no one scenario is proven.
+- Repeated ambiguous operations can normalize the indicators analysts would otherwise use to detect preparations for force.
 
-**Context:** South Sudan's government says elections are essential to consolidating peace, and the election commission promises impartiality. Those are real competing positions, not proof that readiness gaps are solved. UNMISS framed the test correctly: not merely whether voting occurs, but whether the rest of the transition preserves peace and public confidence.
+**Context:** The public record does not contain a ship-by-ship count or imagery sufficient to reproduce Taiwan's total. A foreign intelligence source called the silence deliberate intimidation; seasonal training is a plausible alternative explanation. Do not call this a verified blockade rehearsal.
 
 **Watch next:**
 
-- a funded registration and operations calendar;
-- Machar's legal status and opposition participation;
-- agreed election-security and dispute-resolution rules;
-- whether any date change follows a recognized peace-agreement mechanism rather than unilateral action.
+- public tracks or imagery and any operating boxes;
+- missile, air, and logistics activity that distinguishes exercise from routine training;
+- recurrence and changes in Taiwanese or allied alert posture.
 
-**Confidence:** High that readiness and inclusion risks are material; low on any categorical forecast of renewed war.
+**Confidence:** Medium-high that a large coordinated operation occurred; medium on scale; low on intent.
 
-### 6. Indonesia's vice president exits; the succession is orderly, the rupture is not
+### 5. Britain sanctions the chain around Russian energy—not its output
 
-**What happened:** Vice President Gibran Rakabuming Raka formally submitted his resignation to the People's Consultative Assembly before cutoff. Both Indonesia's Constitutional Court and Supreme Court had disputed the education documents used to establish his eligibility, and 120 lawmakers from eight parties had opened an impeachment path. A vice-presidential vacancy does not trigger a new popular election: the Assembly must choose from two candidates nominated by President Prabowo Subianto within 60 days. [AP resignation report](https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0); [AP impeachment-process report](https://apnews.com/article/indonesia-vice-president-raka-impeachment-process-5d90e45eaa627513e83f5b5861e87d9e)
+**What happened:** Britain designated Slavneft and Vostok Oil and says it is now the first country to sanction all ten producers it classifies as Russia's largest. The legal notice also covers gas-processing, petrochemical, coal, trading, shipping, and vessel targets. [UK government release](https://www.gov.uk/government/news/ukraine-set-to-be-focus-of-epc-summit-as-uk-sanctions-russias-top-ten-oil-producers); [official designation notice](https://assets.publishing.service.gov.uk/media/6af5ad18cc0dbfec767a509f/Sanctions_Notice__Russia__12_November_2026.pdf)
 
 **Why it matters:**
 
-- The Constitution contains the immediate succession risk: Prabowo controls the shortlist, and the Assembly controls the vote.
-- Gibran is former President Joko Widodo's son. His departure removes the clearest institutional link in the alliance that brought Prabowo to power.
-- A separate illegal-wiretap investigation now tests civilian control of the security establishment: the police chief told parliament that surveillance targeting Prabowo extended to senior officials, politicians, activists, and law-enforcement personnel. [AP](https://apnews.com/article/indonesia-prabowo-wiretap-police-jokowi-f51d8a85a34cb3f3db4640602d4c8de4)
+- Covering producers, processors, traders, and transporters creates more compliance and financing chokepoints than a producer-only list.
+- The effect depends on enforcement, allied alignment, and Russia's rerouting cost—not the number of names.
+- The package sets up a test of whether broader legal coverage produces observable revenue pressure.
 
-**Context:** Do not merge the cases. The credential dispute drove the resignation. The surveillance investigation implicates or has detained senior police officials, including figures with ties to Widodo, but investigators had not identified who ordered the operation and Widodo had not been implicated. Political association is not command evidence.
+**Context:** “Top ten” and “nearly every part” are UK government classifications. The release supplies no reproducible ranking, newly exposed trade volume, or revenue estimate. A designation is not a production shutdown.
 
 **Watch next:**
 
-- formal declaration of the vacancy and Prabowo's two nominees;
-- timing and coalition support for the Assembly vote;
-- evidence identifying who ordered the surveillance;
-- whether precautionary troop deployments remain in barracks or become visible political coercion.
+- enforcement cases and allied matching designations;
+- vessel and cargo diversions or wider discounts;
+- Russian export volume and realized revenue rather than headline list counts.
 
-**Confidence:** High on the resignation and 60-day replacement procedure; medium on coalition effects; low on any attribution of the wiretap order.
+**Confidence:** High on the legal action; medium on breadth; low on near-term economic effect.
+
+### 6. Venezuela's $12.26 billion review still cannot answer “who benefited?”
+
+**What happened:** A U.S. State Department-released KPMG report accounts for $12.26 billion in Venezuelan oil and smaller commodity proceeds and says $168.6 million remained on September 30. That means about 98.6% moved out of the custodial account. Most disbursement ran through foreign-exchange transactions to people and businesses; 20 buyers were redacted and selected payments were sampled. [AP](https://apnews.com/article/venezuela-oil-sales-maduro-trump-6982bfdc5d64482e3500eea39891f0d1); [Reuters via Investing.com](https://www.investing.com/news/economy-news/us-handled-12-billion-of-venezuelas-oil-revenues-report-says-5023141)
+
+**Why it matters:**
+
+- The review gives a serious aggregate for a custody system that has operated with thin public visibility.
+- Moving 98.6% out of an account is not the same denominator as returning 98.6% to intended beneficiaries.
+- Redacted counterparties leave the core governance question—who received value, under what rule—partly open.
+
+**Context:** A Senate Finance Committee letter had sought fuller disclosure of custodial operations. The new review improves the aggregate picture but does not independently trace every buyer or final recipient. [Senate Finance Committee letter](https://www.finance.senate.gov/wp-content/uploads/media/doc/09172026lettertotreasuryandstaterevenezuelanresourcestransactions.pdf)
+
+**Watch next:**
+
+- fuller audit scope and congressional access;
+- buyer identities and recipient-level sampling;
+- reconciliation of foreign-exchange transactions with end use.
+
+**Confidence:** High on what the report says; medium on aggregate accounting; low on final distribution and public benefit.
+
+### 7. Trump turns a disputed caravan into an unspecified Mexico tariff threat
+
+**What happened:** Trump threatened to double tariffs on Mexico unless it stopped what he called “huge caravans.” Mexican President Claudia Sheinbaum said no caravan had reached northern Mexico since January 2025 and described a roughly 600-person group that largely dispersed. Trump named no tariff base, products, authority, date, or formal order. [AP](https://apnews.com/article/mexico-us-sheinbaum-trump-d9829fe92a0ce9afecb909cb35a2977d)
+
+**Why it matters:**
+
+- An underspecified threat can change business behavior before becoming law because firms must price an unknown product scope.
+- It bundles migration leverage into the active USMCA review.
+- “Double” is impossible to evaluate without a base rate; existing U.S. tariffs already vary by product and trade status.
+
+**Context:** Trump and Sheinbaum offer competing accounts, not an independent migration denominator. The immediate change is trade uncertainty, not an enacted tariff.
+
+**Watch next:**
+
+- a White House, Commerce, or USTR document naming authority and coverage;
+- independent migration data and Mexican enforcement changes;
+- whether the threat enters USMCA bargaining.
+
+**Confidence:** High on the threat; medium on the caravan facts; low on implementation.
 
 ## RAPID FIRE
 
-- **NATO's spending headline lacks a reproducible denominator:** Mark Rutte said European allies and Canada added more than $250 billion in defense investment across 2025-26 and that five allies would reach the full 5% target in 2026. The speech does not supply the baseline, price basis, country list, or share converted into delivered capability; Rutte also said demand still exceeds supply. [NATO transcript](https://www.nato.int/en/news-and-events/events/transcripts/2026/11/11/keynote-speech-by-the-nato-secretary-general-at-the-atlantic-future-forum); [NATO deep-strike industry meeting](https://nato.int/en/news-and-events/articles/news/2026/11/10/nato-discusses-deep-precision-strike-capabilities-for-deterrence-and-defence)
-- **COP31 opened with proposals, not an implementation result:** Turkey promoted electrification and a zero-waste initiative, but no funded or binding outcome appeared before cutoff. [AP](https://apnews.com/article/climate-cop31-turkey-waste-recycling-a72471f4211e539980bfe6f0a5dc6005)
-- **Israel's coalition transition now includes a public military-restraint fight:** Gadi Eisenkot warned caretaker Prime Minister Benjamin Netanyahu not to deploy forces absent a direct, immediate, and urgent threat; Netanyahu called the warning political gamesmanship. The exchange is verified, but its legal effect and Eisenkot's ability to form a government are unresolved. [AP](https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b)
-- **Russia retaliated against France with entry bans:** Moscow barred two French lawmakers and two journalists. It marks worsening bilateral relations but does not by itself change military or economic capability. [Le Monde](https://www.lemonde.fr/en/international/article/2026/11/11/a-new-low-in-paris-moscow-relations-four-french-journalists-and-mps-banned-from-entry_6778147_4.html)
+- **Yemen sanctions get another year and a maritime specialist:** The Security Council unanimously renewed the travel ban and asset freeze through November 14, 2027 and the Panel of Experts through December 15, 2027, expanding it to six members with dedicated maritime expertise. Resolution 2837 does not create automatic interdiction authority. [Security Council Report](https://www.securitycouncilreport.org/whatsinblue/2026/11/yemen-vote-on-a-draft-resolution-renewing-the-sanctions-regime-2.php); [UK vote explanation](https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo)
+- **MINUSCA's ceiling falls 14.6%:** Resolution 2836 extended the Central African Republic mission to November 15, 2027 while reducing the authorized military ceiling from 14,046 to 12,000. A ceiling cut is not an immediate withdrawal count. [UN Security Council](https://press.un.org/en/2026/sc16507.doc.htm); [Security Council Report](https://www.securitycouncilreport.org/whatsinblue/2026/11/central-african-republic-vote-on-minuscas-mandate-renewal-4.php)
+- **Britain wants Ukrainian drone boats built at home:** A UK-Ukrainian initiative promises British factories, jobs, apprenticeships, and more than 70% British content in each UK-built drone boat. No plant list, budget, delivery schedule, or unit target is public. [UK government](https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain)
+- **South Africa arrests an alleged Russia-recruitment network:** Authorities announced arrests over alleged recruitment of men for Russian forces. The arrests and allegations are verified; guilt is not. [AP](https://apnews.com/article/997e065eeeff10b062500ed7db89ee0c)
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### “Abu Dhabi put a broad peace deal within reach”
+### “Putin accepted Europe as a full negotiating party”
 
-**Who is making it:** An inference encouraged by positive participant language and the announcement of follow-on meetings.
-**Evidence supporting it:** Direct talks resumed, a large POW exchange was accepted in principle, and U.S. envoys scheduled meetings with both presidents.
-**Evidence against / missing:** No final exchange terms, ceasefire sequence, territorial formula, guarantee architecture, or agreement on Europe's role existed at cutoff. [AP](https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64)
-**Assessment:** **Weak as a peace-deal claim; supported only as evidence that a bounded humanitarian bargain may be possible. Confidence: high.**
+**Who is making it:** The strongest reading of Kushner's account and U.S.-Ukrainian announcements.
+**Evidence supporting it:** Kushner said Putin was willing to try European participation; Witkoff and Zelenskyy announced Europe would join the next round.
+**Evidence against / missing:** No common participant list, mandate, country list, date, or Russian text exists. [AP](https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23)
+**Assessment:** **Plausible that Europe will participate; unclear in what capacity. Confidence: medium.**
 
-### “The South China Sea code is 80% complete”
+### “The tanker attacks show Iran rejected diplomacy”
 
-**Who is making it:** Three diplomats inside the negotiation, quoted anonymously by AP.
-**Evidence supporting it:** They report provisional agreement on about 80% of draft paragraphs.
-**Evidence against / missing:** No public text, paragraph denominator, legal status, or list of unresolved clauses exists. The parties missed the 2026 completion target. [AP](https://apnews.com/article/south-china-sea-code-of-conduct-southeast-asia-8ef757e6ed486a5632e4c2299ee00064)
-**Assessment:** **Plausible as a paragraph count; unclear and potentially misleading as a measure of substantive progress. Confidence: medium.**
+**Who is making it:** A narrative linking Trump's policy shift and the Gulf incidents.
+**Evidence supporting it:** The incidents occurred amid confrontation and repeated regional attacks.
+**Evidence against / missing:** UKMTO calls both projectiles unknown and names no attacker; timing does not establish command or motive. [UKMTO incident summary](https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_113_12-nov.pdf?rev=7fe7908661f24d2ebb037b750628f240)
+**Assessment:** **Unsupported on the inspected record. Confidence: high that attribution is unresolved.**
 
-### “South Sudan's December election will restart the civil war”
+### “SpaceX restored a limit to pressure Ukraine”
 
-**Who is making it:** The categorical version is an escalation of serious AU, UN, and analyst warnings.
-**Evidence supporting it:** Outstanding peace benchmarks, compressed logistics, Machar's detention, limited opposition activity, and ongoing violence create a credible risk.
-**Evidence against / missing:** The government argues the vote can consolidate peace; no inevitable causal chain is established; rules and timing can still change. [UNMISS](https://unmiss.unmissions.org/en/press-releases/press-release-unmiss-urges-inclusive-dialogue-protection-of-civilians-and); [AP](https://apnews.com/article/south-sudan-election-kiir-machar-2f416a2ec9a0d6e11f492a19f7418154)
-**Assessment:** **Plausible risk; unsupported as an inevitable outcome. Confidence: high on elevated risk, low on the forecast.**
+**Who is making it:** An inference from Ukraine's operational complaint.
+**Evidence supporting it:** Ukraine reported the same numerical limit and a concrete interception effect.
+**Evidence against / missing:** SpaceX denies any change; no telemetry, order, contract instruction, or motive evidence is public. [Ars Technica](https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/)
+**Assessment:** **Unclear that the configuration changed; unsupported as a motive claim. Confidence: medium / high respectively.**
 
-### “NATO added more than $250 billion of real military capability”
+### “China rehearsed a blockade with more than 100 vessels”
 
-**Who is making it:** This stronger formulation is an inference from Rutte's investment claim.
-**Evidence supporting it:** NATO says defense investment increased and identifies priority capability programs.
-**Evidence against / missing:** The public speech lacks price, baseline, outlay, delivery, and readiness denominators; it separately acknowledges a supply shortage. [NATO](https://www.nato.int/en/news-and-events/events/transcripts/2026/11/11/keynote-speech-by-the-nato-secretary-general-at-the-atlantic-future-forum)
-**Assessment:** **Supported only as NATO's nominal investment statement; unclear as delivered real capability. Confidence: high / low respectively.**
+**Who is making it:** Taiwanese officials and a stronger interpretation of the operation.
+**Evidence supporting it:** Taiwan reported more than 100 vessels, cross-theater coordination, coast-guard participation, and simulated attacks.
+**Evidence against / missing:** No public ship-level denominator or imagery reproduces the count; China calls the carrier activity routine; seasonal training is an alternative explanation. [Reuters via Investing.com](https://www.investing.com/news/world-news/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say-5024072)
+**Assessment:** **Supported that a large operation occurred; plausible but unproved as a blockade-relevant rehearsal. Confidence: medium-high / low.**
 
-### “Iran destroyed the navigation systems on Didamar Island”
+### “Britain has now sanctioned Russia's top ten oil producers”
 
-**Who is making it:** Iranian state media, attributing the strike to the IRGC.
-**Evidence supporting it:** Three sources confirmed an Iranian attack; Reuters verified smoke in video and thermal activity in satellite imagery.
-**Evidence against / missing:** Reuters could not identify what burned or obtain a damage assessment. Maritime sources said redundant systems should limit the effect; Oman and CENTCOM did not comment. [Reuters](https://www.marketscreener.com/news/iran-attacks-shipping-navigation-systems-on-oman-s-didamar-island-sources-say-ce785edbde80f420)
-**Assessment:** **Supported that an attack occurred; unclear that navigation systems were destroyed. Confidence: medium-high / low respectively.**
+**Who is making it:** The UK government.
+**Evidence supporting it:** The legal notice confirms the latest named designations.
+**Evidence against / missing:** The government does not publish the ranking method, production denominator, or newly exposed trade volume. [UK release](https://www.gov.uk/government/news/ukraine-set-to-be-focus-of-epc-summit-as-uk-sanctions-russias-top-ten-oil-producers)
+**Assessment:** **Supported as a UK classification; unclear as an independent market ranking or measure of effect. Confidence: high / low.**
+
+### “Almost 99% of Venezuela's money was returned”
+
+**Who is making it:** The state-released report's summary framing.
+**Evidence supporting it:** $168.6 million remained from $12.26 billion, so about 98.6% left the account.
+**Evidence against / missing:** Account outflow is not beneficiary receipt; buyers were redacted and only selected payments were sampled. [AP](https://apnews.com/article/venezuela-oil-sales-maduro-trump-6982bfdc5d64482e3500eea39891f0d1)
+**Assessment:** **Supported as an account-balance calculation; unclear as a claim about public benefit. Confidence: high / low.**
 
 ## UPCOMING EVENTS
 
-- **2026-11-12:** The European Political Community meets in Dublin on competitiveness, connectivity, energy, security, and democratic defense. Watch for decisions or joint commitments, not the agenda itself. [European Council](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/12/)
-- **2026-11-13:** EU heads of state or government hold an informal meeting in Dublin. Any common position on Ukraine guarantees, defense finance, or Iran would matter; an informal meeting does not automatically produce binding conclusions. [European Council media advisory](https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/pdf/)
+- **2026-11-13:** EU heads hold an informal meeting in Dublin on AI sovereignty, security, and Europe's Ukraine role. Watch for a named negotiating structure, not another principle statement. [European Council](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/)
 - **2026-11-15:** Cape Verde holds its presidential election. The election commission lists six admitted candidates and polling from 08:00 to 18:00. [Cape Verde election commission](https://presidenciais2026.cne.cv/)
-- **2026-11-16:** EU foreign ministers meet on Ukraine's winter needs and Russian hybrid activity, plus Syria, Israel, and Palestine. Watch for resources, sanctions, or mandates—not discussion alone. [Council of the EU](https://www.consilium.europa.eu/en/meetings/fac/2026/11/16/)
-- **2026-11-17:** EU defense ministers meet on EU-China security dependencies, Ukrainian air defense and industrial integration, and transatlantic defense. [Council of the EU](https://www.consilium.europa.eu/en/meetings/fac/2026/11/17/)
-- **2026-11-18 to 2026-11-19:** APEC leaders meet in Shenzhen. Trade imbalances, supply chains, Taiwan's participation, and possible leader meetings make the sidelines as important as the communiqué. [Official Shenzhen host page](https://www.szns.gov.cn/english/apec2026shenzhen/)
+- **2026-11-16:** EU foreign ministers meet on Ukraine, Syria, Israel, and Palestine. Watch for resources, sanctions, or mandates. [Council of the EU](https://www.consilium.europa.eu/en/meetings/fac/2026/11/16/)
+- **2026-11-17:** EU defense ministers meet on Ukraine, EU-China security dependencies, and transatlantic defense. [Council of the EU](https://www.consilium.europa.eu/en/meetings/fac/2026/11/17/)
+- **2026-11-17:** Serbia's new National Assembly holds its constitutive session at 10:00, including mandate confirmation and election of parliamentary leadership. [Serbian government](https://www.srbija.gov.rs/vest/en/290961/constitutive-session-of-national-assembly-scheduled-for-17-november.php)
+- **2026-11-18 to 2026-11-19:** APEC leaders meet in Shenzhen. Trade, supply chains, Taiwan's participation, and leader-level sidelines will matter more than generic communiqué language. [Official Shenzhen host page](https://www.szns.gov.cn/english/apec2026shenzhen/)
 
 ## SHOW FODDER
 
-### Ukraine: what does a POW deal actually prove?
+### Ukraine: who can credibly bind “Europe”?
 
-**Central question:** When does a humanitarian agreement become evidence that the parties are closer on the political terms of war?
-**Competing interpretations:** One reading is that a successful exchange creates trust and a repeatable channel. The other is that prisoner swaps can coexist indefinitely with incompatible territorial and security demands.
-**Key fact:** The exchange was only in principle at cutoff, while territory, guarantees, and Europe's role remained unresolved.
-**Bad argument to avoid:** “Any agreement means the hard issues are now mostly solved.”
+**Central question:** Does adding Europe make a Ukraine settlement more executable, or create another veto layer before the parties have common terms?
+**Competing interpretations:** One view is that guarantors must be in the room to own sanctions, money, and forces. The other is that Europe's fragmented representation lets every side claim inclusion without delegating authority.
+**Key fact:** Europe stated common principles but named no representative, while no common negotiating format was published.
+**Bad argument to avoid:** “More participants automatically mean either a better deal or a dead process.”
 
-### Iran: off-ramp or a more sustainable form of pressure?
+### Starshield: can a private setting become foreign policy?
 
-**Central question:** Does allied maritime verification create a path out of the Iran confrontation, or make continuing coercion easier to sustain?
-**Competing interpretations:** Shared verification could support reciprocal mine removal and restored passage. It could also spread the political cost of escorts and sanctions without producing a settlement.
-**Key fact:** The G7 named operational roles and sanctions goals but announced no new forces, authorities, or reciprocal Iranian step.
-**Bad argument to avoid:** “No new airstrike means the confrontation is over.”
+**Central question:** When a commercial communications control affects a wartime kill chain, who should have legal and operational authority over it?
+**Competing interpretations:** Central provider control may prevent uncontrolled escalation and misuse. The same control can become an unaccountable veto over an ally's defense.
+**Key fact:** Ukraine describes a precise operational failure; SpaceX denies any change; no public control log resolves the dispute.
+**Bad argument to avoid:** “The outage proves corporate sabotage” or “the denial proves no unit had a problem.”
 
-### South Sudan: when does an election deadline become anti-democratic?
+### Venezuela: what does “returned” mean?
 
-**Central question:** Is holding the first vote on schedule more legitimate than delaying again when the rules, participation, and logistics remain incomplete?
-**Competing interpretations:** A vote can end an indefinite transition and give citizens a choice. A rushed, exclusionary process can turn administrative completion into a conflict over legitimacy.
-**Key fact:** UNMISS identified security, logistics, compressed timing, and outstanding peace benchmarks 42 days before the planned vote.
-**Bad argument to avoid:** “Elections are always stabilizing” or “delay is always safer.”
+**Central question:** Is moving 98.6% of custodial proceeds out of an account evidence of successful stewardship if final recipients remain partly hidden?
+**Competing interpretations:** Aggregate accounting shows the money was not simply frozen or disappeared. Redacted buyers and foreign-exchange channels mean the crucial distribution question is still open.
+**Key fact:** The report reconciles $12.26 billion to a $168.6 million balance but does not publish every buyer or beneficiary.
+**Bad argument to avoid:** “Money left the account, therefore Venezuelans received the benefit.”
