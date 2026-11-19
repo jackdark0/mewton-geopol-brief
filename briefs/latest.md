@@ -1,225 +1,238 @@
-# GEOPOLITICS DAILY - 2026-11-18
+# GEOPOLITICS DAILY - 2026-11-19
 
-**Research cutoff:** 2026-11-18 02:00:00 America/New_York (07:00:00 UTC)
+**Research cutoff:** 2026-11-19 02:00:00 America/New_York (07:00:00 UTC)
 
-**Research window:** approximately 2026-11-16 20:00 through 2026-11-18 02:00 America/New_York
+**Research window:** approximately 2026-11-17 20:00 through 2026-11-19 02:00 America/New_York
 
 ## BLUF
 
-- **Washington and major European allies now disagree in public about Ukrainian deep strikes.** The United States says they do not blunt Russia's front-line advance or help end the war; Germany and Britain say lawful strikes on military-linked targets degrade Russia's war machine. The dispute is real, but no new binding U.S. aid restriction was established by cutoff.
-- **Iran and the United States exchanged attacks around Bahrain and Hormuz.** Iran launched another drone attack at a U.S. radar facility in Bahrain; the United States then struck an alleged IRGC missile-launch site on Qeshm Island. Participant accounts say damage was limited, but the public record is too thin for a confident battle-damage assessment.
-- **Iraq is approaching a direct test of state authority over Kataib Hezbollah.** The prime minister says government forces will enter the militia's Jurf al-Sakhar stronghold; the group says it will fight if war is imposed. The announced operation had not begun by cutoff.
-- **Gaza's ceasefire architecture exists on paper but still cannot execute its transition.** The Board of Peace says the civil administration, police, stabilization force, Israeli withdrawal, Hamas disarmament and reconstruction remain blocked by missing decisions and reciprocal nonperformance.
-- **A new chemical-weapons packet requires strict provenance.** OPCW-designated laboratories verified CS-related chemicals in evidence from one incident. Ukraine's national investigation—not the OPCW—attributed the attack and munition supply system to Russian forces.
+- **Trump, Xi and Putin created a channel, not an arms-control process.** Their first three-leader meeting produced reported language on nuclear risk, energy, the U.N. and the ICC, but no U.S.-released common text, negotiators or timetable by cutoff.
+- **Iran widened the latest exchange to Kuwait and kept firing toward Bahrain.** Host states reported interceptions; Iran's claims that it hit U.S. military equipment remain unverified. Preliminary shipping data show severe Hormuz disruption, but not a total regional oil-flow collapse.
+- **The Yemen war is moving into a larger air campaign.** The Saudi-led coalition announced broad strikes on Houthi territory, while one unnamed diplomat described a months-long Saudi horizon and pressure for U.S. offensive support. Neither the target effects nor an adopted six-month plan are established.
+- **Washington and Caracas announced military integration before publishing the rules.** Joint training, intelligence sharing and equipment are in; the agreement text, legal authority, duration and any operational rights are still out of public view.
+- **Europe proposed another major Ukraine financing package, but it is not money in the bank.** The Commission wants up to EUR 45 billion in additional 2027 support; lawmakers and member states still have to approve it.
 
 ## MAJOR DEVELOPMENTS
 
-### 1. Allies split over what Ukrainian deep strikes are supposed to achieve
+### 1. Trump, Xi and Putin open a three-power channel with few guardrails
 
-**What happened:** U.S. Under Secretary of Defense Elbridge Colby told the Ukraine Defense Contact Group that deep strikes had not helped end the war or blunt Russian advances and urged support for front-line and midrange operations. German Defense Minister Boris Pistorius called criticism of lawful strikes on non-civilian targets “quite a stupid thing,” while British Defense Secretary Wes Streeting said deep strikes had degraded Russia's war machine and saved lives. [AP](https://apnews.com/article/colby-ukraine-deep-long-nato-strikes-starshield-e570c549277a14f97ad24319f2f1bf7e) Ukraine, meanwhile, asked partners for technology and weapons to strike ballistic-missile launchers and defended its attack on the Kerch Bridge. [Ukrainian presidency](https://www.president.gov.ua/en/news/shorazu-rosiya-obiraye-novu-eskalaciyu-tozh-ukrayinski-raket-107369)
-
-**Why it matters:**
-
-- The argument can shape which weapons allies fund, which target sets they enable and what intelligence support they provide.
-- The sides are using different scoreboards. Washington stresses front-line movement and war termination; Berlin, London and Kyiv stress rear-area degradation, reciprocal pressure and lives saved.
-- Both positions may contain a true core: a strike can impose costs without changing the front or negotiations. The inspected record cannot measure the net effect.
-
-**Context:** This is an open policy disagreement, not evidence that NATO support has broken. The same meeting produced continued agreement on air defense and front-line requirements. No inspected U.S. directive newly restricted transfers, intelligence or Ukrainian targeting.
-
-**Watch next:**
-
-- U.S. transfer conditions, target guidance or intelligence limits;
-- new European long-range packages and their permitted targets;
-- repair times, production losses and front-line effects that can test competing claims of effectiveness.
-
-**Confidence:** High on the public disagreement; low on either side's causal claims about Russian resolve, war termination or lives saved.
-
-### 2. Iran and the United States resume reciprocal attacks around Bahrain and Hormuz
-
-**What happened:** Iran launched drones on November 17 at a U.S. radar site in Bahrain, its third attack on American military targets there in five days. Bahrain said its defenses intercepted the attack, and the U.S. said no personnel or equipment were harmed. Hours later, a U.S. fighter struck what an unnamed U.S. official described as an IRGC missile-launch site on Qeshm Island with precision munitions. An Iranian local official said civilian and commercial areas were not damaged. [AP](https://apnews.com/article/iran-trump-israel-bahrain-attacks-582e0b5d51be06f0ed630fac24f39b72)
+**What happened:** Donald Trump, Xi Jinping and Vladimir Putin held their first three-leader meeting on the APEC sidelines in Shenzhen. Chinese and Russian officials described a declaration on U.N. reform, stable oil-product supply, nuclear-risk and nonproliferation dialogue, and limits on ICC jurisdiction over state officials. The United States had not released the document by cutoff, and the reported declaration did not mention Ukraine or Iran even though Trump said both wars were discussed. [AP](https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a)
 
 **Why it matters:**
 
-- Bahrain hosts major U.S. military infrastructure; even low-damage attacks create a direct U.S.-Iran escalation channel.
-- Qeshm sits along the Strait of Hormuz, linking force protection, Iranian coastal systems and commercial transit in one battlespace.
-- Repeated bounded retaliation can still produce miscalculation if one attack kills personnel or is read as preparation for a wider campaign.
+- A leader-level channel among the three powers can reduce miscalculation even before it produces a formal negotiation.
+- It is not yet arms control. No inspected source named negotiators, a working group, verification terms or a next meeting.
+- The format gives Moscow direct access and diplomatic parity while Ukraine, European allies, Japan and South Korea are outside the room.
+- The difference between political authorization and diplomatic theater will show up in follow-through, not the summit photo.
 
-**Context:** Egypt, Qatar, Saudi Arabia and the United Arab Emirates condemned Iran's Bahrain attack. Qatar said continued attacks undermine mediation. That regional alignment raises Tehran's diplomatic cost without proving that mediation has ended. The later November 18 attacks on Bahrain and Kuwait, and the later Yemen air campaign, occurred after this edition's cutoff and are excluded.
+**Context:** The last U.S.-Russia nuclear-arms pact, New START, expired in February. Trump has said he wants a replacement that includes China, but the declaration language reported by AP only supports dialogue. It does not establish agreed arsenal limits. The strongest fair-minded reading is “channel created, implementation unproven.”
 
 **Watch next:**
 
-- independent imagery or official battle-damage details from Bahrain and Qeshm;
-- changes in U.S. force-protection posture or Iranian launch tempo;
-- whether mediators pause, narrow or revive talks.
+- a U.S. release or explicit endorsement of the declaration's exact text;
+- named nuclear negotiators, crisis-communication mechanisms or a follow-up date;
+- consultations with Ukraine and U.S. allies before any conflict proposal advances;
+- quantified oil-supply action or a sanctions change.
 
-**Confidence:** High that the exchange occurred; medium on the claim of no damage in Bahrain; low-to-medium on the Qeshm target and effects.
+**Confidence:** High on the meeting; medium on the full common wording; low that a concrete arms-control process exists yet.
 
-### 3. Iraq's government and Kataib Hezbollah approach a test of armed sovereignty
+### 2. Iran widens the exchange to Kuwait while Gulf states try to contain it
 
-**What happened:** Iraqi Prime Minister Ali al-Zaidi said government forces would enter Jurf al-Sakhar later this week as part of an investigation into alleged oil smuggling. Kataib Hezbollah representative Abu Taleb al-Saidi said the militia would fight if war were imposed. The government has also pledged to disarm powerful Iran-backed groups by mid-2027. [AP](https://apnews.com/article/iraq-iran-kataib-hezbollah-jurf-alsakhar-fed4063af6dbf61fd4fb6f5f5c3d278d)
+**What happened:** Iran launched attacks toward Kuwait and Bahrain early November 18 after a U.S. strike on an IRGC missile-launch site on Qeshm Island. Iran's army said it targeted Patriot defenses and drone and missile platforms at Kuwait's Ali Al Salem Air Base. Kuwait said it intercepted drones and reported no immediate damage; Bahrain said it repelled several attacks. No inspected independent evidence established impacts on the claimed U.S. equipment. [AP](https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a)
 
 **Why it matters:**
 
-- The confrontation tests whether Baghdad's disarmament timetable has enforceable content.
-- Jurf al-Sakhar has been under the group's influence for more than a decade; state entry would be a practical sovereignty claim, not another policy statement.
-- Open fighting risks intra-Shiite conflict. A government retreat, however, would advertise the limits of state authority.
+- Kuwait is now part of the renewed exchange, widening the number of U.S. host states exposed to Iranian fire.
+- Reported interceptions still consume defenses, disrupt commercial activity and create pressure for retaliation. A later successful strike with casualties could change the U.S. response.
+- Regional governments must protect U.S. facilities while trying to prevent a larger U.S.-Israeli air campaign.
+- Energy disruption is large but easy to misstate. Route definitions matter.
 
-**Context:** An Iraqi committee alleges that thermal imagery showed 25 tankers with capacity of 36,000 liters each. The underlying images, time period and evidence of illicit sale were not inspected. Kataib Hezbollah acknowledges two refining facilities but says their fuel serves its own vehicles and generators. Two anonymous militia officials told AP that IRGC Quds Force commander Esmail Qaani was mediating; that remains unconfirmed.
+**Context:** AP reported, citing four anonymous regional officials, that Gulf governments, Pakistan and Turkey were pressing to prevent a return to all-out war. The source supports the existence of a reported diplomatic effort, not proof that it has restrained Washington, Israel or Iran. [AP](https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94)
+
+Kpler's preliminary data through November 16 put **strait-only crude** at 8.5 million barrels per day, 50% of its prewar baseline. **All Middle East crude export routes** carried 15 million barrels per day, 64% of that baseline. The figures could be revised upward. In other words: severe disruption, but not “all regional oil flows halved.” [AP](https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a)
 
 **Watch next:**
 
-- actual force movement and the reported Friday deadline;
-- warrants, oil records or release of the thermal imagery;
-- negotiated inspection, militia redeployment or armed resistance.
+- imagery or official detail showing impacts, debris, casualties or base damage;
+- U.S. force-protection changes and strike tempo;
+- diplomacy that produces a reciprocal operational pause rather than another statement;
+- revised, route-comparable oil-flow data.
 
-**Confidence:** High on the stated positions; medium that the state will attempt entry; low on the smuggling scale and mediation details.
+**Confidence:** High that Iran launched attacks and host states reported interceptions; low on Iran's hit claims; medium on the preliminary shipping estimates.
 
-### 4. Gaza's transition mechanism is still not operating
+### 3. Saudi Arabia's coalition launches a large Yemen strike wave
 
-**What happened:** The Board of Peace's November 17 report to the U.N. Security Council said the gap between the agreement and conditions on the ground is the process's principal risk. It cited continued Israeli strikes, Hamas military activity, Israeli restrictions on supplies, funding shortfalls and the absence of Israeli decisions needed for civilian police and the technocratic administration to deploy. [AP, which inspected the report](https://apnews.com/article/board-of-peace-us-israel-gaza-hamas-189d58d05fa984cc9573f98ec7d638be)
+**What happened:** The Saudi-led coalition announced a broad November 18 air campaign against claimed Houthi ballistic-missile warehouses and drone workshops. The Houthis said at least 17 people were killed, including people at a sponge factory in Hodeida; the inspected record did not independently establish the total or civilian/combatant breakdown. [AP](https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a)
 
 **Why it matters:**
 
-- Civil administration, policing and the international stabilization force are prerequisites for withdrawal and reconstruction; none is operating in Gaza.
-- Each side can cite another's delay as a reason for its own inaction, sustaining a ceasefire in name while blocking the transition.
-- The result can be prolonged instability rather than one dramatic collapse: recurrent strikes, inadequate aid and no political handoff.
+- The confirmed fact is a larger air campaign. Claims about destroyed Houthi capability remain unverified.
+- One unnamed diplomat told AP that Saudi officials were preparing allies for another six months of conflict and wanted heavier Houthi losses before talks. That may describe strategy, bargaining for U.S. support or both; it is not a public Saudi war plan.
+- The United States is the external decision point. Trump had not accepted Saudi requests for U.S. strikes on the Houthis by cutoff.
+- Direct U.S. entry would tie the Yemen campaign more tightly to the Iran escalation and widen the retaliation map.
 
-**Context:** This is not a newly discovered problem. A September U.N. report already said the technocratic committee had not entered Gaza, the stabilization force had not deployed and financing had not produced recovery at scale. [U.N. report](https://www.un.org/unispal/document/unsco-report-to-the-ad-hoc-liaison-committee-september-2026/) The new Board report matters because it shows that the core sequence remained blocked two months later. Its warning describes a collapse risk, not an inevitable forecast.
+**Context:** The humanitarian totals are cumulative, not a damage report for the latest strikes. UNICEF said at least 64 children had been killed and 64 injured **since September 3**, with more than 330,000 people—including an estimated 174,000 children—displaced during that escalation. UNICEF did not attribute every case to one side. [UNICEF](https://www.unicef.org/press-releases/least-64-children-killed-and-64-injured-yemen-intensified-hostilities-approach-three)
 
 **Watch next:**
 
-- Israeli approvals for the technocratic administration, police and humanitarian equipment;
-- a verifiable Hamas disarmament step;
-- an announced stabilization-force deployment date or an agreed sequencing change.
+- independent evidence of Houthi launchers, stockpiles or workshops actually lost;
+- U.S. intelligence, munitions or direct-strike support;
+- Houthi attack tempo against Saudi territory and shipping;
+- verified civilian casualties and humanitarian access.
 
-**Confidence:** High on persistent implementation gaps; medium on the Board's allocation of responsibility; low on the timing of any ceasefire collapse.
+**Confidence:** High on the strike wave; medium on the reported Saudi horizon; low on target effects and casualty attribution.
 
-### 5. OPCW laboratories verify CS; Ukraine attributes the attack to Russian forces
+### 4. The U.S. and Venezuela sign a military pact whose text is still missing
 
-**What happened:** Ukraine circulated a national investigation into a September 20, 2024 drone attack. OPCW-designated laboratories independently confirmed CS, related compounds and degradation products in a recovered RG-Vo grenade and a soil sample. [OPCW Secretariat](https://www.opcw.org/sites/default/files/documents/2026/11/c31s01%28e%29.pdf) Ukraine's investigation says Russian forces dropped the grenade and describes military logistics and training material that, in its assessment, show an organized Russian production, supply and tactical-use system. [Ukrainian report circulated by the OPCW](https://www.opcw.org/sites/default/files/documents/2026/11/c31nat01%28e%29.pdf)
+**What happened:** U.S. Defense Secretary Pete Hegseth and acting Venezuelan President Delcy Rodriguez announced a signed military-cooperation agreement in Caracas. They said it covers joint training, intelligence sharing, defense equipment and other capabilities. AP and Reuters independently reported the public announcement, but neither had the agreement text. [AP](https://apnews.com/article/hegseth-venezuela-maduro-trump-e02dd6173e575c644a37dd417d84296d) [Reuters](https://www.investing.com/news/world-news/us-defense-secretary-hegseth-vows-to-boost-venezuela-military-cooperation-5036784)
 
 **Why it matters:**
 
-- Physical evidence and independent laboratory analysis make this stronger than a battlefield allegation about an unknown substance.
-- The Chemical Weapons Convention prohibits using riot-control agents as a method of warfare. [OPCW](https://www.opcw.org/media-centre/featured-topics/ukraine)
-- Credibility depends on the provenance firewall: the OPCW verified chemistry and circulated the report; Ukraine made the attribution and broader system finding.
+- Training, intelligence systems and equipment can create durable military ties, but the depth of integration is unknown.
+- No inspected source disclosed basing rights, deployment authority, mutual-defense obligations, duration, oversight or an implementation calendar.
+- The accord institutionalizes security cooperation while Venezuela still has no announced presidential-election date.
+- Hegseth called Venezuela a “compliant security partner.” That is his political characterization, not an independent finding about Venezuelan sovereignty or stability.
 
-**Context:** The public packet describes witness evidence, physical custody, military documents, a video and alternative-hypothesis testing, but not every underlying item is publicly inspectable. It concerns one investigated incident. It does not independently prove Ukraine's claim of thousands of similar events or identify a publicly adjudicated command chain.
+**Context:** The narrow fact is a military-cooperation agreement in named fields. Calling it an alliance, basing deal or transfer of operational control would outrun the evidence. It may prove to be a thin memorandum; it may become deeper integration. The document decides which.
 
 **Watch next:**
 
-- a Russian incident-specific response addressing the physical evidence;
-- states-party action at next week's OPCW conference;
-- release or authentication of the logistics and training records, and identification of a responsible unit.
+- publication of the text, signatories and domestic legal authority;
+- exercises, deployments, equipment transfers or joint intelligence cells;
+- legislative or judicial review in either country;
+- an election timetable and civilian-oversight rules.
 
-**Confidence:** High on CS identification and the division of evidentiary roles; medium on Russian-force attribution; low-to-medium on an organized system beyond this incident.
+**Confidence:** High on the announcement and named fields; low on legal reach and implementation.
 
-### 6. Britain turns settlement policy into nine targeted sanctions
+### 5. Europe proposes an additional EUR 45 billion for Ukraine—and now has to pass it
 
-**What happened:** The U.K. added eight construction, property and architecture businesses linked by the government to West Bank settlement activity, plus the activist group Tzav 9, under its expanded Global Human Rights and International Humanitarian Law sanctions regime. The measures include asset freezes and, for relevant companies, director-disqualification sanctions. [U.K. announcement](https://www.gov.uk/government/news/uk-cracks-down-on-companies-building-settlements-in-the-west-bank-and-groups-blocking-aid-access-into-gaza) [designation notice](https://assets.publishing.service.gov.uk/media/6afc3069fa213984592843e8/Sanctions_Notice__Global_Human_Rights_and_International_Humanitarian_Law__17_November_2026.pdf)
+**What happened:** The European Commission adopted proposals for up to **EUR 45 billion in additional 2027 support** to Ukraine: as much as EUR 25 billion for defense and EUR 20 billion for budget support. The Commission says that would cover about two-thirds of an estimated EUR 70 billion 2027 financing gap. It would borrow on capital markets, backed by the EU budget. [European Commission](https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en)
 
 **Why it matters:**
 
-- Britain converted its September promise of action into specific financial restrictions before final E1 tender deadlines.
-- Targeting businesses, rather than only violent individuals, puts settlement construction and its service network inside the sanctions perimeter.
-- The indirect compliance effect—banks and counterparties avoiding exposure—may matter more than frozen assets, but no asset total was published.
+- Predictable 2027 financing could sustain both Ukraine's state functions and defense procurement.
+- This is **additional** to the existing EUR 90 billion Ukraine Support Loan for 2026-27. The identical EUR 45 billion figures in different tranches make double counting an easy mistake.
+- Ukraine would repay principal only after receiving Russian reparations; budget disbursement would carry rule-of-law and anti-corruption conditions.
+- The Commission still needs the European Parliament and Council to adopt the package. “Proposed” is doing real work here.
 
-**Context:** The notice states the secretary of state's reasonable-grounds assessment. It is an executive sanctions decision, not a judicial finding that each entity committed a violation. The government says Tzav 9 organized aid blockades into Gaza as recently as October; independent adjudication of each designation ground was not available in the inspected record.
+**Context:** AP reported that the Czech Republic, Hungary and Slovakia declined to participate in the previous loan and were threatening to do so again. The final voting path, participation and timing remain unsettled. The Commission also wants international partners to cover the remaining one-third of its estimated gap; those contributions are not yet secured. [AP](https://apnews.com/article/europe-ukraine-loan-russia-summit-8c1baf00b55973a3534096aae2cc73a2)
 
 **Watch next:**
 
-- disclosed asset freezes, director actions and disrupted payments;
-- participation in E1 tenders and any allied follow-on measures;
-- legal challenges or requests for delisting.
+- Parliament and Council positions, including any unanimity fight or opt-outs;
+- non-EU pledges toward the remaining financing gap;
+- adoption, borrowing and first-disbursement dates;
+- whether the defense and budget legs stay at the proposed amounts.
 
-**Confidence:** High on the legal action and its stated grounds; low on economic effect.
+**Confidence:** High on the proposal and its present legal status; medium on adoption, participation and timing.
+
+### 6. Ethiopia and Eritrea move forces closer; evidence of direct clashes conflicts
+
+**What happened:** Reuters reported, citing ACLED, International Crisis Group and people linked to opposing militias in Tigray, that Ethiopia and Eritrea had amassed forces close enough to strike one another along their border. ACLED said Ethiopian drones targeted likely Eritrean positions on November 12 and regular forces clashed on November 13. A rebel-linked source supported that account; a pro-government militia source denied direct clashes, ICG did not confirm them and Reuters could not independently verify them. [Reuters republication](https://www.streetinsider.com/Reuters/Ethiopia%2Band%2BEritrea%2Bamass%2Bforces%2Balong%2Bborder,%2Bheightening%2Bwar%2Bfears,%2Csources%2Bsay/27366323.html)
+
+**Why it matters:**
+
+- The material change is dangerous force geometry, not a proven resumption of interstate war.
+- Ethiopian operations against Tigrayan rebels are occurring close enough to Eritrean forces for pursuit, misidentification or intervention to create a state-to-state exchange.
+- Badme's history raises the political cost of even localized incidents.
+- The evidence comes through one reporting chain; force size, border crossings, casualties and command intent are not established.
+
+**Context:** Eritrea's information minister rejected Ethiopian ruling-party “propaganda” but did not directly answer the build-up or clash reports. Ethiopia did not respond to Reuters before publication. Defensive readiness, operations against Tigrayan forces and preparation for interstate combat can produce similar visible movements. The current record cannot choose confidently among them.
+
+**Watch next:**
+
+- commercial imagery of troop and heavy-equipment movement;
+- acknowledged regular-unit casualties, prisoners or cross-border strikes;
+- mobilization, evacuation or airspace measures;
+- third-party mediation or a monitored disengagement proposal.
+
+**Confidence:** Medium on the build-up; low on direct-clash details and intent.
 
 ## RAPID FIRE
 
-- **Japan and the IEA establish an Oil Security Hub for Asia.** Prime Minister Sanae Takaichi presented it inside a broader POWERR Asia/AZEC 2.0 push for stockpile and emergency coordination. The primary summary does not establish pooled reserves or binding release authority. [Japanese Prime Minister's Office](https://japan.kantei.go.jp/105/diplomatic/202611/1117azec.html)
-- **North Macedonia arrests five people over an alleged Iran-linked assassination plot in Greece.** The arrests are established; the target, plot maturity and Iranian command link remain official allegations rather than adjudicated facts. [AP](https://apnews.com/article/449228844460fe264a7a0da5f50b3fd1)
-- **A Russian military An-12 transport crashes near Kemerovo, killing all 19 aboard.** Russia's Defense Ministry gave equipment failure as a preliminary explanation. One crash is a readiness datapoint, not evidence of a fleet-wide failure. [AP](https://apnews.com/article/bb68e35e985a5e72786d813cf0ce598d)
-- **More than 11,000 migrants reached Spain's Canary Islands in the first half of November.** The abrupt rise is straining small-island services and entering the November 29 election campaign. Precise comparisons require the same people/arrival definitions across periods. [AP](https://apnews.com/article/6f445ec34948037742cc83aea6e5ea82)
+- **Myanmar threatens to review its ASEAN relationship, but did not announce withdrawal.** Min Aung Hlaing said Naypyitaw would review future ties while continuing bilateral talks with member states, after ASEAN renewed top-level restrictions over insufficient progress on its peace plan. No operational downgrade was visible by cutoff. [AP](https://apnews.com/article/min-aung-hlaing-asean-peace-plan-turmoil-97e863b842b3a3ad805635b11a7aea8c) [ASEAN](https://asean.org/wp-content/uploads/2026/11/FINAL-ASEAN-Leaders-Review-and-Decision-on-the-Implementation-of-the-Five-Point-Consensus-15-November-2026.pdf)
+- **Salvadoran forces struck the home of Haitian gang leader Jeff Larose.** Nayib Bukele claimed responsibility and published attack footage, but Larose's presence or death was not established. Haitian police and military participation was unclear; the U.N.-backed force said it was not involved. [AP](https://apnews.com/article/haiti-bukele-jeff-canaan-gangs-attack-home-4397ab6847be1d1dcc9c5bc600a4953f)
+- **U.S. Treasury designated a Lebanese charity and a Lebanon-Turkey gold-and-cash network it says support Hezbollah and the IRGC-QF.** The legal action is confirmed; the alleged transactions and direction rely on the U.S. designation record, with no independent public evidence inspected. [U.S. Treasury](https://home.treasury.gov/news/press-releases/sb0692)
+- **The U.S. carrier presence near Iran returned from three to two.** USS George Washington left after a brief overlap with USS Theodore Roosevelt; USS George H.W. Bush remains. The move looks like rotation, not proof of either a surge or retreat. [AP](https://apnews.com/article/iran-war-aircraft-carrier-uss-george-washington-f72d5aa085500412989183e606bfadfd)
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### Ukrainian deep strikes are counterproductive
+### The trilateral launched arms control
 
-**Who is making it:** U.S. Under Secretary of Defense Elbridge Colby. [AP](https://apnews.com/article/colby-ukraine-deep-long-nato-strikes-starshield-e570c549277a14f97ad24319f2f1bf7e)
+**Who is making it:** An expansive reading of leader rhetoric and the reported Shenzhen declaration.
 
-**Evidence supporting it:** Deep strikes have not visibly ended the war or stopped Russian advances. Attacks on disputed civilian/commercial targets could create political costs and escalation risk.
+**Evidence supporting it:** Chinese and Russian officials described shared nuclear-risk and nonproliferation dialogue; Trump advocated reductions.
 
-**Evidence against / missing:** Germany and Britain say lawful strikes degrade military capacity and save lives. No disclosed common dataset measures launch cost, target function, repair time, displaced air defenses, front-line effect, Russian morale and bargaining effect together.
+**Evidence against / missing:** No U.S.-released common text, negotiators, mandate, timetable, limits or verification terms.
 
-**Assessment:** **Unclear.** High confidence that allies disagree; low confidence in a single net causal verdict.
+**Assessment:** **Unclear.** A channel exists; an arms-control process is not established. [AP](https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a)
 
-### The OPCW concluded that Russia used tear gas in the investigated attack
+### Iran hit U.S. military systems in Kuwait and Bahrain
 
-**Who is making it:** This formulation appears in compressed coverage of the circulated documents.
+**Who is making it:** Iranian military and state media.
 
-**Evidence supporting it:** OPCW-designated laboratories confirmed CS-related compounds in the grenade and soil. [OPCW](https://www.opcw.org/sites/default/files/documents/2026/11/c31s01%28e%29.pdf)
+**Evidence supporting it:** Iran named U.S. radar, Patriot, drone and missile infrastructure as targets.
 
-**Evidence against / missing:** The OPCW Secretariat provided technical expertise and circulated the Ukrainian report. Ukraine's national investigation made the attribution to Russian forces. [Ukraine report](https://www.opcw.org/sites/default/files/documents/2026/11/c31nat01%28e%29.pdf)
+**Evidence against / missing:** Kuwait and Bahrain reported interceptions; Kuwait reported no immediate damage; no inspected independent evidence showed the claimed hits.
 
-**Assessment:** **False as an OPCW-attribution claim.** High confidence. The narrower Ukrainian attribution is supported by a detailed national packet but remains distinct from an OPCW finding.
+**Assessment:** **Weak.** Attack attempts are confirmed; successful impacts are unsupported. [AP](https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a)
 
-### Kataib Hezbollah smuggled the oil represented by 25 tanker trucks
+### Ethiopia and Eritrea have resumed direct war
 
-**Who is making it:** Iraqi officials involved in a parliamentary/government investigation. [AP](https://apnews.com/article/iraq-iran-kataib-hezbollah-jurf-alsakhar-fed4063af6dbf61fd4fb6f5f5c3d278d)
+**Who is making it:** ACLED and a rebel-linked source report direct clashes; other commentary escalates that into renewed war.
 
-**Evidence supporting it:** Officials cite thermal imagery, documents and two refining facilities; the committee described 25 tankers with 36,000-liter capacity.
+**Evidence supporting it:** ACLED described drone, artillery and ground incidents on November 12-13.
 
-**Evidence against / missing:** The underlying evidence was not public in the inspected record. The time period, whether capacity equaled actual volume and the evidence of illicit sale remain unknown. Kataib Hezbollah says the fuel served its own operations.
+**Evidence against / missing:** A pro-government militia source denied direct clashes, ICG did not confirm them and Reuters could not independently verify them.
 
-**Assessment:** **Unclear.** Low-to-medium confidence.
+**Assessment:** **Unclear.** The build-up is credible; direct clashes are disputed; sustained interstate war is not established. [Reuters republication](https://www.streetinsider.com/Reuters/Ethiopia%2Band%2BEritrea%2Bamass%2Bforces%2Balong%2Bborder,%2Bheightening%2Bwar%2Bfears,%2Csources%2Bsay/27366323.html)
 
-### The Gaza ceasefire will collapse without immediate action
+### The Yemen strike wave destroyed Houthi missile and drone capacity
 
-**Who is making it:** The Board of Peace warns that the implementation gap is the principal risk and that the ceasefire cannot be sustained indefinitely. [AP](https://apnews.com/article/board-of-peace-us-israel-gaza-hamas-189d58d05fa984cc9573f98ec7d638be)
+**Who is making it:** Saudi-led coalition.
 
-**Evidence supporting it:** Continued strikes, armed activity, aid restrictions and absent transition deployments create repeated failure points.
+**Evidence supporting it:** The coalition said it struck warehouses and workshops across Houthi territory.
 
-**Evidence against / missing:** The ceasefire has survived substantial noncompliance, and no time horizon or collapse threshold is specified. Guarantors may sustain a degraded arrangement without unlocking the political transition.
+**Evidence against / missing:** No inspected imagery or independent battle-damage assessment established what was destroyed or how capability changed. Houthi casualty claims are also unverified.
 
-**Assessment:** **Plausible risk, not an established forecast.** Medium confidence.
+**Assessment:** **Unclear.** The campaign occurred; its military effect is not established. [AP](https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a)
 
 ## UPCOMING EVENTS
 
-- **2026-11-18 to 2026-11-19:** The APEC Economic Leaders' Meeting runs in Shenzhen. Watch the adopted declaration and any commitments on trade, connectivity, energy resilience and AI—not arrival rhetoric. [Chinese Foreign Ministry](https://www.fmprc.gov.cn/mfa_eng./xw/zyxw/202611/t20261113_12058556.html)
-- **2026-11-19:** Xi Jinping, Donald Trump and Vladimir Putin are scheduled for their first trilateral meeting. Nuclear arms, Iran and—after Trump's public shift—Ukraine are in the frame; U.S. officials had warned that no agreement was expected. [AP](https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72)
-- **2026-11-19:** The BIS remote-advanced-compute rule is scheduled for Federal Register publication and becomes effective on publication. Watch implementation guidance and provider compliance, not the earlier incorrect claim that it took effect November 16. [Federal Register public-inspection text](https://public-inspection.federalregister.gov/2026-23529.pdf)
-- **2026-11-20:** COP31 is scheduled to close in Antalya. Watch the adopted texts and finance/implementation decisions rather than draft negotiating language. [UNFCCC](https://unfccc.int/cop31)
-- **2026-11-20:** The EU and United Kingdom hold their second summit in Brussels, covering defense and security, Ukraine, energy, migration, internal security and economic cooperation. [European Council](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/)
-- **2026-11-23:** The OPCW's 31st Conference of the States Parties opens in The Hague. The new Ukraine/CS packet gives states a specific provenance and compliance question to address. [OPCW](https://www.opcw.org/calendar/csp)
+- **2026-11-19:** The APEC Economic Leaders' Meeting concludes in Shenzhen. Watch whether the 21 members produce usable language on trade, AI, supply chains and energy beyond the separate Trump-Xi-Putin meeting. [APEC](https://www.apec.org/press/blogs/2026/apec-economic-leaders-week-2026-why-it-matters)
+- **2026-11-20:** The second EU-U.K. summit meets in Brussels. Leaders are scheduled to cover European security and defense, Ukraine, the Middle East, the Indo-Pacific, trade and migration, with a joint declaration expected. [European Council](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/)
+- **2026-11-20:** COP31 is scheduled to close in Antalya. The closing plenaries are where negotiating texts on finance, adaptation, loss and damage, and implementation either become decisions or remain unresolved. [UNFCCC](https://unfccc.int/cop31)
+- **2026-11-23:** The OPCW Conference of the States Parties opens in The Hague and runs through November 27. Compliance, treaty implementation and national submissions will matter against the background of chemical-agent allegations in active wars. [OPCW](https://www.opcw.org/calendar/csp)
+- **2026-11-25:** The U.N. Security Council is scheduled to consider the 2713 Al-Shabaab sanctions file, followed by closed consultations on the 1718 North Korea sanctions committee. Watch renewals, enforcement language and any sign of major-power deadlock. [Security Council programme](https://main.un.org/securitycouncil/en/events/10111th-meeting-minusca) [1718 consultation](https://main.un.org/securitycouncil/en/events/1718-committee-6)
 
 ## SHOW FODDER
 
-### What does “effective” mean in a deep-strike campaign?
+### Great-power diplomacy without the affected states
 
-**Central question:** Should Ukraine's deep strikes be judged by movement at the front, damaged production, Russian repair cost, displaced air defenses, bargaining leverage or civilian risk?
+**Central question:** Does the Trump-Xi-Putin channel reduce nuclear and war risk, or normalize bargaining over Ukraine and allies without them?
 
-**Competing interpretations:** Washington says scarce support should serve direct front-line defense and midrange targets; Germany, Britain and Ukraine argue that rear-area pressure degrades Russia's capacity and protects Ukrainians.
+**Competing interpretations:** One reading says first meetings create political permission for useful technical talks. The other says a leader-only format gives Putin status and all three leaders optics without enforceable commitments.
 
-**Key fact:** No inspected common dataset measures all of those outcomes, so the public dispute cannot be settled by pointing only to the unchanged front line or only to a damaged target.
+**Key fact:** No inspected source named negotiators, a timetable or verification terms, and the U.S. had not released the declaration by cutoff.
 
-**Bad argument to avoid:** “The strikes have not ended the war, therefore they do nothing.” That substitutes an unrealistically high threshold for a net-effect analysis.
+**Bad argument to avoid:** “No treaty on day one means the meeting was meaningless.” Access can matter; it just cannot be confused with an agreement.
 
-### Can Iraq disarm a powerful militia without producing the war it wants to prevent?
+### How long can “contained” Gulf retaliation stay contained?
 
-**Central question:** What would count as a real assertion of Iraqi state authority—physical entry, transparent investigation, militia withdrawal or eventual weapons transfer?
+**Central question:** Are repeated intercepted attacks a stable pressure-release valve, or a lottery that eventually produces casualties and a larger war?
 
-**Competing interpretations:** A firm entry could establish that the mid-2027 disarmament plan is credible; a negotiated inspection could achieve incremental control with less bloodshed; a retreat could entrench militia autonomy.
+**Competing interpretations:** Bounded strikes let each side signal resolve without escalation. Alternatively, widening the target map to more U.S. host states increases the number of ways deterrence can fail.
 
-**Key fact:** The government announced an entry, but it had not occurred by cutoff, and the oil-smuggling evidence was not publicly inspectable.
+**Key fact:** Attack attempts are confirmed; successful Iranian hits on claimed U.S. systems are not.
 
-**Bad argument to avoid:** “Negotiation proves the state is weak.” A negotiated outcome may be coercively produced; the observable terms matter more than the absence of fighting.
+**Bad argument to avoid:** “No verified damage means no strategic effect.” Defense consumption, commercial disruption and political pressure occur even when interceptors work.
 
-### Is Gaza's ceasefire failing, or is it becoming a permanent holding pattern?
+### Should military integration wait for political rules?
 
-**Central question:** Can guarantors sustain a ceasefire when the civil administration, police, stabilization force, disarmament, withdrawal and reconstruction sequence never begins?
+**Central question:** Is the U.S.-Venezuela pact pragmatic stabilization, or security lock-in before voters and legislatures know the terms?
 
-**Competing interpretations:** One reading sees cumulative nonperformance leading to collapse; another sees a durable but violent suspension that all major actors prefer to renewed full war.
+**Competing interpretations:** Training and intelligence cooperation can rebuild capacity against armed groups and trafficking. The same tools can deepen dependence and empower interim authorities before an election timetable and oversight framework exist.
 
-**Key fact:** The technocratic administration and stabilization force still had not deployed, two months after a U.N. report documented the same gap.
+**Key fact:** The agreement was announced by both governments, but its text, duration, legal authority and operational rights were not public in the inspected record.
 
-**Bad argument to avoid:** “The ceasefire still exists, so the plan is working.” Survival of a truce and implementation of its political transition are different claims.
+**Bad argument to avoid:** Calling it either a normal alliance or a U.S. occupation. The public evidence supports neither label yet.
