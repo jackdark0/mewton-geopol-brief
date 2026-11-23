@@ -1,216 +1,186 @@
-# GEOPOLITICS DAILY — 2026-11-22
+# GEOPOLITICS DAILY - 2026-11-23
 
-**Research cutoff:** 2026-11-22 02:00:00 America/New_York (07:00 UTC)
+**Research cutoff:** 2026-11-23 02:00 America/New_York
+**Research window:** approximately 2026-11-21 20:00 to 2026-11-23 02:00 America/New_York
 
-**Research window:** approximately 2026-11-20 20:00 America/New_York through the cutoff
-
-**Cutoff rule:** This edition freezes events at 02:00 ET. Later COP31 decisions, Bahrain casualty updates and other Sunday developments are excluded.
+This edition is frozen at the stated cutoff. Later developments are not included.
 
 ## BLUF
 
-- **Gulf escalation spread across land and sea, but not along one proven attack chain.** Bahrain reported an Iranian strike on a civilian industrial facility; separately, UKMTO logged two outbound tankers hit by unknown projectiles near Khasab. The incidents increase pressure on air defenses, shipping and energy risk even though the maritime attacker is unresolved.
-- **The Ukraine war spilled into Finnish incident management.** A drone-struck Russian cargo ship drifted into Finnish waters, forcing a NATO state to coordinate rescue activity involving Finnish, Estonian and Russian assets while investigating a suspected Russian helicopter incursion.
-- **COP31 was converging on an implementation package without a fossil-fuel formula.** The newest presidency draft kept a target for electricity to reach 35 percent of global final energy consumption by 2035 but omitted fossil-fuel language. It was not adopted by the cutoff.
-- **Autonomous-weapons diplomacy produced a process, not rules.** CCW states opened a two-year track to elaborate an instrument, but whether it becomes legally binding remains undecided.
-- **Germany and Qatar created a defense-law framework without revealing the mission.** Their new Status of Forces Agreement can enable deeper cooperation, but the public record does not show a German base or deployment.
+- **Trump put a public horizon on the Iran decision without making it final.** Reports of his Fox interview say he is "inclined" to resume strikes after the New Year if talks fail and threatened ships that try to break the U.S. blockade. That is coercive signaling, not a strike order or a fixed deadline. ([Iran International](https://www.iranintl.com/en/202611224547), [Daily Beast](https://www.thedailybeast.com/trump-drops-ominous-hint-about-his-new-years-plans-for-iran/))
+- **A Russian corvette was severely damaged and capsized at Benghazi, but the attacker was still unverified at cutoff.** Two unnamed eastern Libyan officials blamed Ukrainian sea drones launched from western Libya; no actor had publicly claimed the strike. ([AP](https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b))
+- **COP31 failed to agree its two Presidency-led decisions.** Other negotiating work continued, so this was a serious failure of the umbrella political package, not a zero-outcome conference. ([UNFCCC](https://unfccc.int/news/un-climate-change-executive-secretary-simon-stiell-remarks-at-the-closing-plenary-of-cop31), [AP](https://apnews.com/article/cop31-climate-talks-united-nations-global-warming-baed7f1491d16a00ee9b60a35596e1f6))
+- **Denmark and Poland described two alleged Russian-directed assassination plots against the same target.** Arrests and charges are real; Russian direction remains an intelligence and prosecutorial allegation, not a court finding. ([Danish PET](https://pet.dk/pet/nyhedsliste/rusland-udnytter-danske-kriminelle-miljoeer-til-likvideringsforsoeg-paa-dansk-grund/2026/11/20), [AP](https://apnews.com/article/poland-denmark-russia-ukraine-rapper-plots-291d2e6c33441c06963c4807c32eb7cd))
+- **Democrats reached at least 258 House seats, creating a large governing and oversight majority.** The immediate change is institutional capacity; the caucus's eventual choices on Iran, Ukraine, sanctions, and defense spending are not yet settled. ([AP](https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb))
 
 ## MAJOR DEVELOPMENTS
 
-### 1. Gulf escalation widens — and attribution remains the tripwire
+### 1. Trump links Iran diplomacy, blockade enforcement, and a New Year strike horizon
 
-**What happened:** Bahrain's Interior Ministry said an Iranian attack caused a fire and material damage at an unnamed civilian industrial facility on November 21. Its preliminary report at the cutoff said there were no injuries, and it said air defenses intercepted several other projectiles. The IRGC claimed it targeted U.S. positions at al-Riffa and Awali, but the inspected evidence did not establish hits on those positions. [Al Jazeera](https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility)
-
-Separately, UKMTO recorded two outbound tankers struck near Khasab: one by an unknown projectile on the stern at 05:00 UTC, another in the engine room at 05:50 UTC. Both crews reported no casualties; environmental impact was unknown. UKMTO did not identify an attacker. [UKMTO incident log](https://www.ukmto.org/recent-incidents); [UKMTO Warning 216-26](https://www.ukmto.org/-/media/ukmto/products/20261121-ukmto_warning_216-26.pdf?rev=98c26e7c459246539923ed000abcdf27)
-
-Iran's navy separately said a tanker struck a mine east of the strait. Reuters could not verify that account or connect it to either UKMTO projectile report. [Reuters](https://malaysia.news.yahoo.com/tanker-hit-unknown-projectile-near-075656148.html)
+**What happened:** Reports of Trump's Fox interview say he is "inclined" to resume strikes against Iran after the New Year if there is no deal, while also threatening Iranian ships that try to run the U.S. blockade. The full interview transcript was not available in the inspected record, and the reports trace to the same interview rather than independent sourcing. ([Iran International](https://www.iranintl.com/en/202611224547), [Daily Beast](https://www.thedailybeast.com/trump-drops-ominous-hint-about-his-new-years-plans-for-iran/)) Separately, UKMTO recorded an incident between a tanker and military forces off Chabahar at 14:25 UTC on November 22 but named neither the ship nor the force. ([UKMTO Advisory 217-26](https://www.ukmto.org/-/media/ukmto/products/20261122_ukmto_-advisory_217-26.pdf)) Iran also claimed two tankers struck mines in a prohibited area east of Hormuz; that account was not independently verified and did not name the ships. ([Press TV](https://www.presstv.co.uk/Detail/2026/11/22/781348/irans-army-two-violating-tankers-catch-fire-after-striking-naval-mines-in-strait-of-hormuz))
 
 **Why it matters:**
 
-- Territorial defense, U.S.-Iran signaling and commercial shipping risk are now operating in the same escalation space.
-- An unattributed attack can raise freight and insurance costs before governments establish responsibility.
-- Ambiguity gives attackers room to deny involvement, but it also makes retaliatory mistakes more likely.
+- Trump has publicly placed negotiations, blockade enforcement, and renewed air strikes on one escalation ladder.
+- A confrontation at sea could compress the political decision cycle before the stated New Year horizon.
+- Ambiguous incidents raise the risk that governments retaliate from different factual pictures.
 
-**Context:** The strategic effect is shared even if the evidence is not: Gulf governments, U.S. forces, shippers and energy markets must price a wider conflict. Do not collapse Bahrain's attribution, the IRGC's target claim, UKMTO's reports and Iran's mine account into one verified Iranian operation.
+**Context:** Bahrain revised the injury count from the prior day's Iranian attack to two, while the IRGC claimed strikes on U.S. positions whose effects were not independently established. ([Reuters via Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/bahrain-warns-residents-of-potential-threat-as-iran-conflict-persists)) The Bahrain update, the UKMTO incident, and Iran's mine claims are separate evidence strands; the inspected record does not prove that they were coordinated.
 
 **Watch next:**
 
-- named vessels, imagery, debris or an allied forensic attribution;
-- Bahrain's damage assessment and any U.S. force-protection changes;
-- war-risk premiums, rerouting or convoy measures around Hormuz.
+- a full Fox transcript or White House clarification of whether the New Year language is a bargaining horizon or an operational decision point;
+- identification of the tanker and military force in the UKMTO incident, plus any imagery or damage report;
+- changes to naval rules of engagement, blockade enforcement, shipping routes, or insurance pricing.
 
-**Confidence:** High that the Bahrain and tanker incidents occurred; low on a common perpetrator for the maritime incidents.
+**Confidence:** Medium on the reported interview wording; High that no strike order or fixed deadline was established by the cutoff.
 
-### 2. A drone-struck Russian ship pulls Finland into live spillover management
+### 2. Russian corvette capsizes after a strike at Benghazi
 
-**What happened:** The Russian cargo vessel *Sparta II* was struck by drones in international waters west of Suursaari, caught fire and drifted into Finnish territorial waters. Finland's Border Guard said the crew was evacuated, the ship remained anchored off Loviisa, and Finnish, Estonian and Russian assets were involved in the response. Authorities reported no current danger to maritime traffic and planned a tow toward Russia's area of responsibility. [Finnish Border Guard](https://www.epressi.com/tiedotteet/turvallisuus/the-finnish-border-guard-continues-to-lead-the-rescue-operations-in-the-gulf-of-finland..html?c=Uskonto)
-
-Finland's military assessed a Ukrainian attack as likely, while Russia's Leningrad governor said two drones hit the ship. No Ukrainian acknowledgment or independently published forensic attribution was available at the cutoff. Finland also investigated a suspected Russian helicopter airspace violation; officials left open that it could have been connected to rescue or monitoring. [Euronews](https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say); [AP](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
+**What happened:** An explosion and fire severely damaged the Russian corvette *Merkury* at Benghazi, and satellite imagery showed the vessel capsized with smoke nearby. Eastern Libya's administration acknowledged the attack and said it would investigate with Russia. ([AP](https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b)) Two unnamed officials affiliated with Khalifa Haftar's eastern forces told AP that Ukrainian sea drones launched from western Libya carried out the attack, with four intercepted and two hitting the ship. No actor had publicly claimed responsibility by the cutoff, and that attribution was not independently verified. ([AP](https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b))
 
 **Why it matters:**
 
-- A strike connected to the Russia-Ukraine war created rescue, territorial-water and airspace decisions for a NATO coastal state.
-- Congested Baltic geography compresses the time available to distinguish rescue, surveillance and escalation.
-- More long-range operations in these waters raise the chance that an ambiguous movement becomes an alliance incident.
+- The physical result is a visible military loss at a Russian access point on NATO's southern flank.
+- If the western-Libya launch account is later proved, it would show a long-range cross-theater strike model and could destabilize Libya's internal balance.
+- Russia may use the attack to justify harder security terms, more personnel, or stronger force protection in eastern Libya even before attribution is settled.
 
-**Context:** The vessel has sanctions and military-logistics associations, but that does not prove what it carried on this voyage. Public reporting said military materiel could not be ruled out; it did not confirm it.
+**Context:** The ship was in Benghazi for refueling and supplies under Russia's cooperation with eastern Libyan authorities. The UN mission expressed serious concern about attacks in Benghazi, underscoring the risk to Libya's already divided security environment. ([UNSMIL](https://unsmil.unmissions.org/en/press-releases/unsmil-expresses-serious-concern-over-the-attacks-carried-out-at-benghazi)) A separately reported attack on a Maltese-flagged vessel remains too thinly documented to merge into the same operation.
 
 **Watch next:**
 
-- Finland's finding on the helicopter and drone attribution;
-- the tow route and any pollution or cargo hazard;
-- a Ukrainian acknowledgment or a Russian escort response.
+- imagery or wreckage evidence that identifies the weapon and launch direction;
+- a public claim, Ukrainian statement, or Russian forensic account issued after the frozen cutoff;
+- Russian deployments, port-security changes, or demands on eastern Libyan authorities.
 
-**Confidence:** High on the incident and rescue sequence; medium on Ukrainian responsibility; low on cargo claims.
+**Confidence:** High that the corvette was severely damaged and capsized; Low on public attribution at the cutoff.
 
-### 3. COP31 draft keeps an electrification target and drops the fuel fight
+### 3. COP31 ends without its two umbrella political decisions
 
-**What happened:** The newest presidency draft released early November 22 omitted the words “fossil fuels” while retaining a target for electricity to reach 35 percent of **global final energy consumption** by 2035. The text had not been adopted by the 02:00 ET cutoff. [AP](https://apnews.com/article/f6e36c4caf13ec6fed57c9f077cbd067)
-
-The official November 19 text shows the architecture negotiators carried into the final stretch: electrification, renewables, grids, methane, adaptation finance and still-bracketed carbon-capture language — but no new fossil-fuel phaseout provision. [UNFCCC draft](https://unfccc.int/sites/default/files/resource/Upload_dt_cop31_cover_decision.pdf)
+**What happened:** Parties at COP31 could not agree either of the two Presidency-led decisions. UN climate chief Simon Stiell said other key negotiating decisions continued, including work on just transition, the action agenda, and electrification. ([UNFCCC](https://unfccc.int/news/un-climate-change-executive-secretary-simon-stiell-remarks-at-the-closing-plenary-of-cop31)) The EU and other governments rejected drafts that lacked stronger language on moving away from fossil fuels. ([AP](https://apnews.com/article/cop31-climate-talks-united-nations-global-warming-baed7f1491d16a00ee9b60a35596e1f6))
 
 **Why it matters:**
 
-- A 35-percent electrification benchmark can steer investment in grids, vehicles, buildings and industry.
-- It does not determine how that electricity is generated or how quickly existing fossil supply declines.
-- The draft offers a measurable implementation target while avoiding the conference's clearest political fight.
+- The conference failed at the level meant to package a common political direction.
+- Countries and companies may put more weight on sectoral deals, smaller coalitions, and domestic industrial policy when consensus cannot carry the umbrella decision.
+- The outcome widens the gap between continuing technical work and the political signal investors and vulnerable states wanted.
 
-**Context:** This is a negotiating state, not a final COP31 outcome. Any adoption, rejection or amendment after the cutoff belongs to the next edition.
+**Context:** The official draft report documents the conference record, but a draft is not proof that every proposed provision was adopted. ([UNFCCC draft report](https://docs.unfccc.int/documents/10000401/files/en/CP31_draft_report.pdf)) The precise claim is that the two Presidency-led decisions failed; it would be wrong to say COP31 produced no decisions or no continuing work.
 
 **Watch next:**
 
-- whether the 35-percent target survives unchanged;
-- objections from states seeking stronger fuel language;
-- final carbon-capture wording and formal adoption status.
+- the final adopted-decision list and any Presidency explanation of the failed package;
+- new fossil-fuel, finance, electrification, or methane initiatives outside the consensus process;
+- whether COP32 negotiations narrow the disputed questions or repeat the same procedural split.
 
-**Confidence:** High on the cutoff-time draft; no judgment here on the later outcome.
+**Confidence:** High on the procedural outcome; Medium on the longer-run shift toward narrower coalitions.
 
-### 4. Autonomous-weapons talks move forward under a consensus ceiling
+### 4. Denmark and Poland allege repeated Russian-directed plots against one target
 
-**What happened:** States at the Convention on Certain Conventional Weapons review conference agreed to elaborate an instrument by consensus and recommend by 2028 whether it should take the form of a legally binding protocol. The mandate does not prejudge the instrument's legal nature. [Swiss Federal Department of Foreign Affairs](https://www.eda.admin.ch/en/newnsb/cpYJGLEaQYIi); [UNODA draft final report](https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-SeventhReview_Conference_%282026%29/CCW-CONF.VII-CRP.1_Draft_Final_Report.pdf)
+**What happened:** Denmark's PET assessed that Russian intelligence planned and initiated an imminent September 25 assassination attempt at a concert north of Copenhagen using people tied to the banned Loyal to Familia gang. Three people were stopped near the venue with guns and knives; two were charged with attempted murder and helping a foreign intelligence service. PET explicitly separates its intelligence assessment from the criminal court process. ([Danish PET](https://pet.dk/pet/nyhedsliste/rusland-udnytter-danske-kriminelle-miljoeer-til-likvideringsforsoeg-paa-dansk-grund/2026/11/20)) Poland then identified the same target in an alleged August plot and said a Russian suspect had been recruited by Russian services. Russia denied the allegations. ([AP](https://apnews.com/article/poland-denmark-russia-ukraine-rapper-plots-291d2e6c33441c06963c4807c32eb7cd))
 
 **Why it matters:**
 
-- A dated drafting process forces states to negotiate definitions, human control and accountability rather than repeat general positions.
-- The forum includes the major military powers whose behavior any meaningful regime must affect.
-- Consensus gives those same powers leverage to weaken scope, obligations or legal form.
+- The two cases point to a possible repeat-target model across borders rather than an isolated local crime.
+- Alleged use of criminal proxies offers deniability and low cost while forcing European services to police the seam between gangs and foreign intelligence.
+- Denmark's expulsion of Russia's defense attache and expected push for EU action can turn a criminal case into a broader diplomatic and sanctions response. ([AP](https://apnews.com/article/poland-denmark-russia-ukraine-rapper-plots-291d2e6c33441c06963c4807c32eb7cd))
 
-**Context:** No ban, treaty or binding use rule was agreed. The gain is an institutional negotiating track; the limit is that the hardest decision was deferred. [AP](https://apnews.com/article/ebe057d2a47cde53100970c8f648e7fa)
+**Context:** European Commission President Ursula von der Leyen accepted Denmark's attribution and pointed to sanctions and rapid-response tools, but that political endorsement is not independent proof of Russian command. ([European Commission](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/statement_26_2556/STATEMENT_26_2556_EN.pdf)) Charges are allegations, not convictions.
 
 **Watch next:**
 
-- the first draft's definition of autonomous target selection and human control;
-- verification and accountability language;
-- whether frustrated states shift parallel work to the UN General Assembly.
+- indictments or disclosed evidence linking handlers, money, communications, or weapons across the two cases;
+- an EU sanctions or counter-intelligence proposal and which member states support it;
+- whether court proceedings substantiate or narrow the intelligence attribution.
 
-**Confidence:** High.
+**Confidence:** High on the arrests, charges, and official actions; Medium on the public attribution; Low that a common command chain has been publicly demonstrated.
 
-### 5. Germany and Qatar sign a defense framework with the operating details blank
+### 5. Democrats reach at least 258 House seats
 
-**What happened:** Germany and Qatar signed two security-cooperation agreements and a Status of Forces Agreement during the Qatari emir's state visit. Their joint declaration calls the package a basis for defense cooperation and schedules another strategic dialogue for early 2027. [German government joint declaration](https://www.bundesregierung.de/resource/blob/992814/2462134/63533f06ed77e46b0d795370c918501d/2026-11-20-joint-declaration-katar-en-data.pdf?download=1); [Qatar Foreign Ministry](https://mofa.gov.qa/en/latest-articles/statements/joint-declarationon-the-occasion-of-the-state-visit-of-the-emir-of-the-state-of-qatarto-the-federal-republic-of-germany)
+**What happened:** Democrats secured at least 258 House seats after a North Carolina recount, with four races still outstanding, while holding 56 Senate seats. The result gives the party a large House majority and expands its ability to control committees, investigations, appropriations, and the legislative agenda. ([AP](https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb), [AP recount report](https://apnews.com/article/23732afcd78a853e98acd9b72d0cbd14)) The North Carolina elections authority still described results as unofficial, so the AP call and concession should not be confused with final certification. ([North Carolina State Board of Elections](https://www.ncsbe.gov/results-data/election-results))
 
 **Why it matters:**
 
-- A SOFA can remove legal uncertainty around foreign military personnel, making later exercises, transit or deployments easier to arrange.
-- The pact gives Germany and Qatar more options during a period of acute Gulf insecurity.
-- It adds bilateral infrastructure to a regional security system usually discussed through U.S. or coalition activity.
+- The incoming House can set an aggressive oversight agenda on Iran policy, arms transfers, sanctions, intelligence, and executive war powers.
+- A wide majority lowers the cost of defections on individual votes, but does not remove the Senate, presidential veto, or internal caucus constraints.
+- The White House now has an incentive to lock in appointments, contracts, deployments, or policy commitments before the new Congress convenes.
 
-**Context:** The published declaration does not disclose jurisdictional terms, basing rights, force numbers, named facilities or a deployment order. A legal framework creates capability; it does not prove activity.
+**Context:** AP reported voter anger over prices and the Iran war among the forces behind the result. That does not establish a single-issue mandate or predict how every Democrat will vote on a specific conflict. ([AP](https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb))
 
 **Watch next:**
 
-- publication or parliamentary handling of the agreement text;
-- named exercises or facilities;
-- German force movements or a maritime-security mission.
+- final certifications and the last four House races;
+- committee-chair selections and announced investigation targets;
+- early war-powers, appropriations, sanctions, and arms-transfer bills;
+- executive actions taken before the new Congress convenes.
 
-**Confidence:** High on the signatures; low on any specific operational implication.
+**Confidence:** High on the institutional capacity; Low-to-Medium on the foreign-policy choices the caucus will make.
 
 ## RAPID FIRE
 
-- **Saudi-Houthi:** The Saudi-led coalition said it intercepted three Houthi ballistic missiles headed for Riyadh at 00:18 UTC November 21, extending a multi-night escalation. The event was about 42 minutes before the nominal window and the operational account was not independently verified. [Saudi Press Agency](https://spa.gov.sa/en/N2732732); [Al Jazeera](https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh)
-- **Lebanon:** President Joseph Aoun demanded Israeli withdrawal, defended direct talks, restated that weapons should be under state authority and criticized Iranian interference. The speech sharpened the line but added no disarmament timetable or enforcement mechanism. [AP](https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75); [LBCI](https://v7cdn.lbcgroup.tv/news/lebanon-news/969114/in-independence-day-speech-aoun-demands-israeli-withdrawal-end-to-fore/en)
-- **Myanmar-ASEAN:** Myanmar's Foreign Ministry called ASEAN's review unfair and warned that continued exclusion could make it difficult to respect ASEAN norms and decisions. It did not announce withdrawal. [Myanmar Foreign Ministry](https://www.mofa.gov.mm/en/statement-by-the-ministry-of-foreign-affairs-of-the-republic-of-the-union-of-myanmar-on-the-asean-leaders-review-and-decision/)
-- **Poland/NATO:** NATO's secretary general called Russia's November 20 Polish-airspace violation dangerous and said the alliance's top commander was assessing defenses. No new force deployment was announced by the cutoff. [AP](https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef)
-- **Gagauzia:** The regional election body reported Alexandr Stoianoglo at 38.44 percent and Fiodor Gagauz at 24.22 percent, sending the Moldovan autonomous region's governor race to a November 29 runoff. [Moldpres](https://www.moldpres.md/eng/politics/voting-results-for-governor-position-centralized-by-central-electoral-council-of-gagauzia)
+- **Saudi Arabia:** The Saudi-led coalition said it intercepted an explosive Houthi drone over the kingdom and separately said it intercepted a ballistic missile aimed at western Saudi Arabia. These are coalition claims without independent public verification in the inspected record. ([Saudi Press Agency](https://www.spa.gov.sa/en/N2733800), [Anadolu](https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-saudi-arabia/4133276))
+- **Israel:** The latest Likud-Yashar unity talks produced no breakthrough, although negotiations continued and separate progress was reported with United Torah Judaism. President Isaac Herzog had tasked Gadi Eisenkot with forming a government. ([Times of Israel](https://www.timesofisrael.com/no-breakthrough-in-latest-yashar-likud-unity-talks-progress-reported-with-utj/), [Israeli Presidency](https://www.president.gov.il/en/president-herzog-tasks-gadi-eisenkot-with-forming-a-government/))
+- **Ukraine:** A Russian attack struck an apartment building near Kyiv, adding civilian harm without a separately established strategic change in this research window. ([AP](https://apnews.com/article/14fecc1c55d601bb9f5b5fc8c9fb0b94))
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### Iran attacked three tankers near Hormuz
+### Ukraine launched the Benghazi attack from western Libya
 
-**Who is making it:** A synthesis circulating around Iran's mine account and multiple UKMTO warnings.
+**Who is making it:** Two unnamed officials affiliated with eastern Libyan forces. ([AP](https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b))
+**Evidence supporting it:** Their account describes six sea drones, four interceptions, and two hits; independently observed imagery supports that a damaging attack occurred.
+**Evidence against / missing:** No public claimant by cutoff, no disclosed wreckage or launch evidence, and no independent attribution.
+**Assessment:** Unclear
 
-**Evidence supporting it:** Multiple tanker incidents occurred near Khasab, and Iran's navy separately described a mine incident east of the strait.
+### Two tankers hit Iranian mines after entering a prohibited area
 
-**Evidence against / missing:** UKMTO attributed neither projectile impact. Reuters could not connect Iran's mine account to the UKMTO cases. One additional UKMTO incident occurred before this edition's nominal window.
+**Who is making it:** Iran's military through state media. ([Press TV](https://www.presstv.co.uk/Detail/2026/11/22/781348/irans-army-two-violating-tankers-catch-fire-after-striking-naval-mines-in-strait-of-hormuz))
+**Evidence supporting it:** Iran gave a location and a mine-strike account.
+**Evidence against / missing:** The ships were not named; damage and mine evidence were not independently shown. UKMTO's separately reported Chabahar incident does not confirm Iran's account. ([UKMTO](https://www.ukmto.org/-/media/ukmto/products/20261122_ukmto_-advisory_217-26.pdf))
+**Assessment:** Unclear
 
-**Assessment:** **Weak.** The incidents are real; a common Iranian three-tanker operation is not established.
+### Russia directed both alleged assassination plots through one network
 
-### Ukraine attacked *Sparta II* because it carried military cargo
+**Who is making it:** Danish and Polish authorities attribute the plots to Russian services; a single shared network is a broader inference. ([Danish PET](https://pet.dk/pet/nyhedsliste/rusland-udnytter-danske-kriminelle-miljoeer-til-likvideringsforsoeg-paa-dansk-grund/2026/11/20), [AP](https://apnews.com/article/poland-denmark-russia-ukraine-rapper-plots-291d2e6c33441c06963c4807c32eb7cd))
+**Evidence supporting it:** The alleged plots targeted the same person in different countries, and both authorities describe Russian direction or recruitment.
+**Evidence against / missing:** The public record does not disclose a common handler, command chain, or completed court finding; Russia denies the allegations.
+**Assessment:** Plausible that the cases reflect a repeated Russian-directed method; Unclear that they share one operational network.
 
-**Who is making it:** Russian attribution and commentary based on the vessel's sanctions and logistics history.
+### Trump has decided to strike Iran after the New Year
 
-**Evidence supporting it:** Finland assessed Ukrainian responsibility as likely; the ship has prior military-logistics associations.
-
-**Evidence against / missing:** No inspected Ukrainian acknowledgment or public forensic proof; no manifest or imagery establishing the voyage's cargo.
-
-**Assessment:** **Plausible on Ukrainian responsibility; unclear on motive and cargo.**
-
-### COP31 agreed to a deal without fossil-fuel language
-
-**Who is making it:** Headline-level readings of the early-November-22 presidency draft.
-
-**Evidence supporting it:** The newest draft omitted the phrase and retained the 35-percent electrification target.
-
-**Evidence against / missing:** The text had not been adopted by the cutoff.
-
-**Assessment:** **False if phrased as an agreement; supported if phrased as the cutoff-time draft.**
-
-### States agreed binding autonomous-weapons rules
-
-**Who is making it:** Overstated summaries of the CCW review conference.
-
-**Evidence supporting it:** States agreed to elaborate an instrument and consider a binding protocol by 2028.
-
-**Evidence against / missing:** The mandate does not prejudge legal form and creates no substantive binding rule.
-
-**Assessment:** **False.**
+**Who is making it:** This is the strongest reading of reports about Trump's Fox interview. ([Iran International](https://www.iranintl.com/en/202611224547), [Daily Beast](https://www.thedailybeast.com/trump-drops-ominous-hint-about-his-new-years-plans-for-iran/))
+**Evidence supporting it:** He reportedly said he was "inclined" to resume strikes after the New Year if there is no deal.
+**Evidence against / missing:** "Inclined" and "if" preserve discretion; no inspected order, operational announcement, or fixed deadline establishes a final decision.
+**Assessment:** Weak
 
 ## UPCOMING EVENTS
 
-- **2026-11-23 to 2026-11-27 — OPCW Conference of the States Parties:** The 31st session opens in The Hague, with treaty implementation and compliance on the agenda. [OPCW](https://www.opcw.org/calendar/csp)
-- **2026-11-25 — EU-Western Balkans summit:** Leaders meet in Brussels on accession reforms, gradual integration, security and resilience. [European Council](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/25/)
-- **2026-11-25 — UN Security Council sanctions work:** The provisional program lists adoption on the 2713 Al-Shabaab regime and closed consultations of the 1718 DPRK committee. [UN program of work](https://main.un.org/securitycouncil/sites/default/files/2026/monthly_pow2026-11.pdf); [1718 Committee](https://main.un.org/securitycouncil/en/events/1718-committee-6)
-- **2026-11-26 to 2026-11-27 — Special European Council:** EU leaders are scheduled to address the next long-term budget and Ukraine financing for 2027. [Provisional agenda](https://www.consilium.europa.eu/media/nj5jxefy/cm00008en26.pdf)
-- **2026-11-27 — New Zealand official election results:** The Electoral Commission says the official count is on track for Friday, a key input to coalition arithmetic. [Elections New Zealand](https://elections.nz/media-and-news/2026/progress-on-official-count)
-- **2026-11-28 — Taiwan local elections and national referendum:** Voting runs from 08:00 to 16:00 local time; the results will test party organization and the domestic energy debate. [Taiwan Central Election Commission](https://info.cec.gov.tw/vote2026/)
+- **2026-11-23 to 2026-11-27:** The Organisation for the Prohibition of Chemical Weapons holds the 31st Conference of the States Parties in The Hague, a forum for budget, compliance, and Chemical Weapons Convention decisions. ([OPCW](https://www.opcw.org/calendar/csp))
+- **2026-11-25:** EU and Western Balkans leaders meet for a summit, with enlargement, security, and regional alignment in focus. ([European Council](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/25/))
+- **2026-11-25:** The UN Security Council schedule includes adoption of the 2713 Committee report and closed consultations of the 1718 Committee on North Korea sanctions. ([UN Security Council monthly programme](https://main.un.org/securitycouncil/sites/default/files/2026/monthly_pow2026-11.pdf), [1718 Committee event](https://main.un.org/securitycouncil/en/events/1718-committee-6))
+- **2026-11-26 to 2026-11-27:** A special European Council is scheduled to address the next multiannual financial framework and financing for Ukraine in 2027. ([European Council invitation](https://www.consilium.europa.eu/media/nj5jxefy/cm00008en26.pdf))
+- **2026-11-27:** New Zealand's Electoral Commission plans to release official general-election results after the final count. ([Elections New Zealand](https://elections.nz/media-and-news/2026/progress-on-official-count))
+- **2026-11-28:** Taiwan holds local elections and referendum No. 22, with polls open from 08:00 to 16:00 local time. ([Central Election Commission](https://info.cec.gov.tw/vote2026/question/), [official election notice](https://info.cec.gov.tw/vote2026/static/file/2074fdd683844689b5bbdfe0e3ac48b3.pdf))
+- **2026-11-29:** Spain holds a general election. ([Spanish Interior Ministry election decree](https://infoelectoral.interior.gob.es/export/sites/default/pdf/procesos_electorales/Elecciones-Generales-29-N/RD-convocatoria-BOE-06-10-2026.pdf), [National Statistics Institute](https://www.ine.es/dyngs/Prensa/es/EG2026.htm))
 
 ## SHOW FODDER
 
-### How should states respond to attacks before attribution is settled?
+### Does Trump's New Year language improve leverage or start an escalation clock?
 
-**Central question:** When ambiguous attacks already impose real shipping and security costs, what evidence threshold should trigger military retaliation?
+**Central question:** Can a public strike horizon coerce an agreement without making a maritime incident more likely to trigger premature escalation?
+**Competing interpretations:** One reading is that conditional timing preserves flexibility and raises pressure; the other is that it makes every blockade encounter a test of credibility.
+**Key fact:** The reported language is conditional, while UKMTO still could not identify the actors in the Chabahar incident.
+**Bad argument to avoid:** Trump has already issued a strike order for January.
 
-**Competing interpretations:** Waiting protects against miscalculation; moving quickly may be necessary to restore deterrence.
+### How should Europe answer an intelligence attribution before courts finish?
 
-**Key fact:** UKMTO verified two projectile impacts but named no attacker, while Bahrain separately attributed a land strike to Iran.
+**Central question:** When alleged foreign-directed violence is imminent, should sanctions and expulsions wait for criminal adjudication?
+**Competing interpretations:** Early action may disrupt a proxy network and deter repetition; acting on undisclosed intelligence can politicize a prosecution and reduce public scrutiny.
+**Key fact:** PET expressly separates its Russian-intelligence assessment from the charges a court must decide.
+**Bad argument to avoid:** Charges prove Russian direction, or the absence of a conviction makes the intelligence assessment meaningless.
 
-**Bad argument to avoid:** Treating simultaneous incidents as proof of a single coordinated campaign.
+### Is climate consensus still useful when the umbrella deal fails?
 
-### Does Ukraine's maritime reach strengthen deterrence or export risk to NATO?
-
-**Central question:** Are strikes on Russian logistics near NATO waters strategically efficient, or do they create more alliance risk than military value?
-
-**Competing interpretations:** They impose costs on Russia beyond the front; they also force neighboring NATO states to manage rescue, airspace and escalation with little warning.
-
-**Key fact:** *Sparta II* was struck in international waters and then drifted into Finnish territory.
-
-**Bad argument to avoid:** Assuming the ship's sanctions history proves the cargo or target value of this voyage.
-
-### Is procedural progress meaningful when the hard decision is deferred?
-
-**Central question:** Do the COP31 and autonomous-weapons processes show multilateralism adapting, or institutions avoiding choices they cannot make?
-
-**Competing interpretations:** Measurable targets and a drafting mandate can shape later policy; neither resolves the central fight over fossil fuels or binding weapons rules.
-
-**Key fact:** COP31's cutoff-time text was still a draft, and the CCW mandate expressly left legal form undecided.
-
-**Bad argument to avoid:** Equating a negotiation process with a final, enforceable commitment.
+**Central question:** Does COP31 show a broken process, or a process that still preserves technical work when politics fail?
+**Competing interpretations:** The failed Presidency-led decisions show that consensus can block strategic direction; the continued just-transition and implementation work shows that the system is not empty.
+**Key fact:** The UNFCCC says both Presidency-led decisions failed while other key negotiating decisions continued.
+**Bad argument to avoid:** COP31 either solved the problem or produced nothing.
