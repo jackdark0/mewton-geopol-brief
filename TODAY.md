@@ -1,234 +1,203 @@
-# GEOPOLITICS DAILY - 2026-11-24
+# GEOPOLITICS DAILY - 2026-11-25
 
-**Research cutoff:** 2026-11-24 02:00:00 America/New_York
-**Research window:** approximately 2026-11-22 20:00:00 to 2026-11-24 02:00:00 America/New_York
-
-This edition is frozen at the stated cutoff. Later developments are not included.
+**Research cutoff:** 2026-11-25 02:00:00 America/New_York (07:00:00 UTC)
+**Research window:** approximately 2026-11-23 20:00:00 to 2026-11-25 02:00:00 America/New_York
+**Edition freeze:** Developments first reported after the cutoff are excluded.
 
 ## BLUF
 
-- **Western intelligence reporting put a near-term clock on Russia's alleged orbital nuclear program, but the clock is not publicly verified.** A joint German investigation says NATO-state intelligence services assess that a nuclear-armed satellite could launch within 60 days. A separate DIA report supports that Russia is developing a satellite designed to carry a nuclear weapon; it does not confirm the reported launch window. ([WDR/NDR/SZ via Tagesschau](https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html), [DIA report](https://www.dia.mil/Portals/110/Images/News/Military_Powers_Publications/Challenges_Security_Space_2026.pdf))
-- **Ukraine publicly claimed the Benghazi naval-drone operation.** That closes the prior edition's attribution gap and openly extends Ukrainian strike activity into Libya. The corvette was severely damaged; Kyiv's claims that it sank and that a second ship carried weapons remain less certain. ([Ukrainian presidency](https://www.president.gov.ua/en/news/raketi-dlya-petriotiv-potribni-tut-v-ukrayini-mi-duzhe-ochik-107457), [AP](https://apnews.com/article/libya-russia-ukriane-war-benghazi-ship-drone-cbd82b965a111dcf4605b8b2d0493780))
-- **The European Commission proposed a wide 22nd Russia-sanctions package.** It reaches banks, SWIFT, crypto, energy services, tankers, visas, corporate boards, sports, and culture. It is an opening proposal, not law; all 27 member states must agree. ([European Commission](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/statement_26_2563/STATEMENT_26_2563_EN.pdf), [AP](https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757))
-- **Washington turned Canada's defense-spending and fighter review into an open credibility fight.** Canada's budget watchdog confirms a real post-2030 funding gap. The Pentagon's readiness figures and claim that a mixed fighter fleet would harm NORAD are not independently established. ([AP](https://apnews.com/article/canada-us-defense-spending-hegseth-pentagon-2ce983323fc56d21db88db5401422fde), [Canadian Parliamentary Budget Officer](https://www.pbo-dpb.ca/en/publications/NT-2627-016-S--pbo-assessment-budget-2026-fiscal-anchors-fiscal-sustainability--evaluation-budget-2026-bdpb-cibles-budgetaires-viabilite-financiere))
-- **Two quieter disclosures map changing U.S. pressure abroad.** Mexico acknowledged authorizing a U.S. surveillance drone to help locate a cartel leader before Mexican forces made the arrest. FinCEN separately mapped 4,983 transactions worth about $14.7 billion that were potentially linked to Iranian shadow banking—and explicitly warned that the data do not prove illegal activity. ([AP](https://apnews.com/article/mexico-sinaloa-drone-cartels-meza-flores-us-912af4eaae5e476a102adc2eca11abee), [FinCEN](https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf))
+- **Yemen's government traded ground near Bab el-Mandeb for a tighter defense of Aden.** Government forces acknowledge leaving coastal positions on November 15; those positions are now held by the Houthis, whose forces a government spokesman placed about 60 km from Aden. That raises Houthi leverage without proving control of the strait.
+- **Russia's lower house approved a large nominal defense step-up for 2027.** The 17.15 trillion-ruble national-defense allocation is about 32.6% above the stated 2026 allocation and 35.1% of planned federal spending. It shows commitment, not a matching increase in real military output.
+- **Tankers were hit around Hormuz, but Iran's mine story is not verified.** Maritime authorities recorded projectile strikes and rate the threat severe; Iran's account of three mined tankers under US protection lacks named ships and independent confirmation.
+- **A funding failure could cut OPCW field work in January.** About EUR20 million in 2026 assessments remains unpaid, the reserve is exhausted, and the director-general has identified inspections, special missions, and assistance that could be suspended if payments do not arrive.
+- **Two strategic-economy moves landed at once.** Huawei was convicted on ten federal counts but acquitted on the government's two broad conspiracy counts; Congo, meanwhile, ordered all cobalt exports stopped from November 30, with no automatic reopening after the four-month review.
 
 ## MAJOR DEVELOPMENTS
 
-### 1. A reported 60-day Russian nuclear-satellite window forces decisions before proof
+### 1. Houthi pressure closes in on Aden after a Bab el-Mandeb withdrawal
 
-**What happened:** A joint WDR/NDR/Sueddeutsche Zeitung investigation says intelligence warnings shared among NATO countries in early November assessed that Russia could launch a satellite carrying a nuclear explosive within 60 days, possibly in December. The report says the system, called *Sputnik-S*, has been stored near Moscow and could become operational soon after launch. No named official or public technical evidence confirms those details. ([Joint investigation](https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html))
-
-The warning does not appear from nowhere. The DIA's October assessment, based on information current through July, says Russia is developing a satellite designed to carry a nuclear weapon. It says detonation could rapidly degrade thousands of satellites and produce radiation belts that damage spacecraft for years. The DIA report does not name *Sputnik-S* or give a launch date. ([DIA report, p. 42](https://www.dia.mil/Portals/110/Images/News/Military_Powers_Publications/Challenges_Security_Space_2026.pdf)) Russia denied the German report. NATO Secretary General Mark Rutte said the alliance continually reviews its deterrence and defense posture but did not publicly authenticate the intelligence timeline. ([NATO transcript](https://www.nato.int/en/news-and-events/events/transcripts/2026/11/23/joint-press-conference-by-the-secretary-general-with-the-federal-chancellor-of-germany))
+**What happened:** Yemeni government forces acknowledge that they withdrew on November 15 from positions along Bab el-Mandeb to reinforce Aden. A government spokesman put Houthi forces about 60 km from the interim capital, while the multinational Joint Maritime Information Center assessed that the Houthis now hold the vacated coastal positions and continue to press toward Aden. The distance is an attributed government estimate, not a neutral map of the front. [Reuters](https://www.streetinsider.com/Reuters/Houthis%2Bwont%2Bseize%2BAden%2C%2BYemeni%2Bgovernment%2Bforces%2Bsay/27393395.html) [AP](https://apnews.com/article/mideast-iran-gaza-israel-houthis-libya-november-24-2026-ba01cb036a849ba69873da5000ee08d5) [JMIC](https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_116_22-nov.pdf?rev=7d2a81d10d1d467cbe75f405f2392f59)
 
 **Why it matters:**
+- The government has reduced its defensive depth to concentrate on the city that anchors its political authority.
+- Holding the coast can give the Houthis military and negotiating leverage around a global chokepoint even without an assault on Aden.
+- Territorial proximity is not sea control. JMIC recorded no corroborated commercial-shipping attack in the Red Sea since August 24.
 
-- A short warning window forces NATO to decide what intelligence to disclose, which indicators should trigger consultation, and what consequences to signal before a launch is observable.
-- The risk is not confined to military satellites. Navigation, communications, weather, science, finance, and commercial services share the orbital environment.
-- Placing a nuclear weapon in orbit would violate Article IV of the 1967 Outer Space Treaty. Responding after launch could also carry escalation and debris risks. ([UN treaty text](https://www.unoosa.org/res/oosadoc/data/documents/2025/stspace/stspace61rev_3_0_html/st_space_61rev03E.pdf))
-
-**Context:** The evidence has two layers. Russia's development of a nuclear-capable satellite is a public U.S. intelligence assessment. The claim that an integrated weapon can launch within 60 days comes from one joint investigative chain citing secret intelligence. Repetition by other outlets does not independently confirm it.
+**Context:** The defensible reading is narrower than either side's propaganda. The Houthis gained meaningful coastal ground; the evidence does not show that they control the whole Bab el-Mandeb waterway, can close it, or are certain to take Aden.
 
 **Watch next:**
+- independent evidence of the front line and the cohesion of government-aligned defenders;
+- deployment of Houthi radar, missiles, drones, or inspection forces on the vacated coast;
+- any corroborated resumption of attacks on Red Sea commercial shipping.
 
-- Russian launch notices, unusual launch-site activity, or publicly identified movement of the alleged system;
-- named-government confirmation, declassification, or a narrower revision of the 60-day estimate;
-- emergency NATO space consultations, resilience measures, or declared consequences for orbital deployment;
-- a Russian inspection, technical disclosure, or arms-control proposal that could test the allegation.
+**Confidence:** Medium-high on the withdrawal and coastal control; medium on force disposition near Aden.
 
-**Confidence:** Medium that Russia is developing the capability; Low on the reported readiness, launch window, and political intent.
+### 2. Russia approves a 32.6% nominal defense-budget increase for 2027
 
-### 2. Ukraine owns the Benghazi strike—and the war's Libyan spillover
-
-**What happened:** President Volodymyr Zelenskyy publicly credited Ukraine's Security Service and supporting defense units with the naval-drone operation off Benghazi. He said Ukrainian weapons hit the Russian corvette *Merkury* and cargo ship *Angara*. That admission resolves responsibility at the level that mattered most in yesterday's uncertainty. ([Ukrainian presidency](https://www.president.gov.ua/en/news/raketi-dlya-petriotiv-potribni-tut-v-ukrayini-mi-duzhe-ochik-107457))
-
-The damage picture remains narrower. AP reports that the corvette was severely damaged at Benghazi Naval Base; Zelenskyy says it is on the seabed. Kyiv says *Angara* carried weapons, but the inspected record does not independently establish its cargo or damage. Two unnamed officials tied to eastern Libya's Russia-aligned forces say the drones launched from western Libya, four were intercepted, two hit the corvette, and at least 10 people were wounded. Those details remain one interested source chain. ([AP](https://apnews.com/article/libya-russia-ukriane-war-benghazi-ship-drone-cbd82b965a111dcf4605b8b2d0493780))
+**What happened:** The State Duma passed the 2027-2029 federal budget in its third and final lower-house reading. It assigns about 17.15 trillion rubles to national defense in 2027, against a comparable 12.93 trillion-ruble allocation for 2026: a nominal increase of 4.22 trillion rubles, or 32.6%. Defense is about 35.1% of the planned 48.8 trillion rubles in total federal spending. The budget now goes to the Federation Council and then the president. [RBC](https://www.rbc.ru/economics/24/11/2026/6b054643609a68053f9532fa) [AP](https://apnews.com/article/russia-2027-budget-economy-tax-hikes-ukraine-war-b95975f534fd290cb2fbd3eef81b4c01)
 
 **Why it matters:**
+- Moscow is choosing a much larger nominal defense commitment rather than the lower 13.6 trillion-ruble figure forecast for 2027 in last year's plan.
+- Separate tax changes affecting passive income and windfall profits for some mining companies show the state searching for revenue as it raises spending.
+- The headline allocation does not measure real combat power: inflation, execution, labor, imports, classified spending, and equipment losses can all break the link between rubles authorized and capability delivered.
 
-- Ukraine has openly extended its long-range maritime campaign into a divided third country, not merely struck a ship at an uncertain location.
-- Even one successful attack forces Russia and its eastern-Libyan partners to spend more on dispersal, escort, air defense, and port security.
-- The operation can deepen Libya's internal contest by making rival authorities answer for foreign military activity on their territory.
-
-**Context:** Russia uses its relationship with eastern Libya as an access point in the southern Mediterranean and for wider African activity. That makes Benghazi strategically useful, but it does not prove that this single strike has materially disrupted Russian logistics. The UN mission warned that the attacks raise sovereignty, territorial-integrity, and civilian-security concerns. ([UNSMIL](https://unsmil.unmissions.org/en/press-releases/unsmil-expresses-serious-concern-over-the-attacks-carried-out-at-benghazi))
+**Context:** This is evidence of political priority and planned resource mobilization, not proof that Russia has removed its economic constraints or can sustain war indefinitely.
 
 **Watch next:**
+- Federation Council approval and the signed budget;
+- defense-specific inflation, procurement delivery, and classified expenditure;
+- revenue performance and whether tax measures or borrowing expand further.
 
-- post-strike imagery or vessel tracking that settles whether *Merkury* sank and what happened to *Angara*;
-- Russian force-protection changes or new deployments at Benghazi;
-- public action by either Libyan government concerning a Ukrainian presence or launch site;
-- repeat Ukrainian attacks on Russian logistics in Libya or elsewhere in Africa.
+**Confidence:** High on the nominal budget figures; medium on their eventual real military effect.
 
-**Confidence:** High on Ukrainian responsibility and severe corvette damage; Low-to-Medium on sinking, cargo, casualties, launch origin, and logistics effect.
+### 3. Hormuz attacks are verified; Iran's mine narrative is not
 
-### 3. The EU's 22nd sanctions proposal targets the networks around Russia
-
-**What happened:** The European Commission proposed extending transaction bans to about 60 Russian banks and removing them from SWIFT. It also proposed tighter controls on crypto and payment networks—including third-country facilitators—a Crypto Sanctions Task Force, more than 70 shadow-fleet listings, a ban on Russian-insured tankers, and wider restrictions on European services for Russian energy infrastructure. ([European Commission](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/statement_26_2563/STATEMENT_26_2563_EN.pdf))
-
-Other measures would bar Russian ex-combatants from visas, prevent Europeans from serving on Russian corporate boards, and restrict Russian teams, symbols, sponsorship, and governance roles in European sports and culture. The Council register shows formal proposal files dated November 23, but key annexes were not publicly accessible in this audit. ([Council register](https://www.consilium.europa.eu/en/documents/public-register/latest/?page=3))
+**What happened:** JMIC recorded three outbound tankers struck by unknown projectiles near Khasab on November 20-21 and rated the Strait of Hormuz threat **severe**. A separate UKMTO warning, published November 24, verified a late report of a tanker hit by an unknown projectile on November 22; its crew was safe and the ship continued. Iran's Revolutionary Guard navy separately claimed that three unnamed tankers under US aerial protection hit mines and burned after taking unauthorized routes. The inspected evidence does not establish that Iran's claimed vessels are the same incident set, that mines caused the damage, or who attacked the ships. [JMIC](https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_116_22-nov.pdf?rev=7d2a81d10d1d467cbe75f405f2392f59) [UKMTO](https://www.ukmto.org/-/media/ukmto/products/20261124-ukmto_warning_221-26.pdf) [AP](https://apnews.com/article/mideast-iran-gaza-israel-houthis-libya-november-24-2026-ba01cb036a849ba69873da5000ee08d5)
 
 **Why it matters:**
+- The operational danger is real even while mechanism and attribution remain unknown.
+- Iran's story tries to establish route control and puncture confidence in US-facilitated protection; accepting it without vessel identities or damage evidence would hand Tehran an unsupported deterrence claim.
+- Traffic was constrained, but the available denominators do not yield a clean market share. JMIC counted 114 US-facilitated transits on November 19-21, while a separate dataset found no AIS-visible non-facilitated cargo-carrying transit above 1,000 deadweight tons. Those series cannot be added or treated as all traffic.
 
-- The package's strategic core is services and enforcement: payment rails, insurance, repair, corporate governance, and third-country facilitation.
-- Those measures can impose recurring transaction costs, not just freeze a new list of assets.
-- The same breadth makes unanimity harder. Every provision is subject to negotiation, exemptions, and possible dilution before it takes effect.
-
-**Context:** This is a Commission proposal. All 27 EU governments must endorse it, the process can take weeks, and the package may change. ([AP](https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757)) Public disclosure may still produce anticipatory restructuring as banks, shippers, insurers, and service providers prepare for possible restrictions.
+**Context:** “Unknown projectile” is a finding about the evidence, not a euphemism for a known attacker. Mines, missiles, drones, and other causes remain open until damage analysis or recovered material narrows them.
 
 **Watch next:**
+- shipowner or flag-state identification of the vessels Iran described;
+- damage imagery, fragments, or official forensic findings;
+- changes in facilitated passage, insurance terms, routing, or escort rules.
 
-- objections, exemptions, and final Council text;
-- publication of the bank, vessel, and third-country annexes;
-- payment-platform, insurance, registry, or energy-service exits before adoption;
-- enforcement cases that show whether the task force can trace beneficial ownership and evasion networks.
+**Confidence:** High that attacks occurred and the operating threat is severe; low on weapon and attacker attribution.
 
-**Confidence:** High on the proposal's announced scope; Low-to-Medium on final adoption, wording, and economic effect.
+### 4. OPCW cash crisis puts inspections and special missions at risk
 
-### 4. Washington makes Canada's defense choices a public loyalty test
-
-**What happened:** The Pentagon issued an unusually blunt fact sheet accusing Canada of lacking a credible, fully costed plan to meet NATO's 5% defense target and criticizing Ottawa's review of its planned 88 F-35s. It warned that a mixed fighter fleet could worsen personnel shortages and create uncertainty for NORAD. The Pentagon also published serviceability and readiness percentages, but the underlying methodology was not available in the inspected record. ([AP](https://apnews.com/article/canada-us-defense-spending-hegseth-pentagon-2ce983323fc56d21db88db5401422fde))
-
-There is an independently supported fiscal problem beneath the rhetoric. Canada's budget projects total NATO-eligible spending of 4.1% of GDP from 2027-28 through 2030-31, including 2.6% for core defense. The Parliamentary Budget Officer says the additional spending needed after 2030-31 to reach the 2035 target is absent from current fiscal projections. ([PBO budget assessment](https://www.pbo-dpb.ca/en/publications/NT-2627-016-S--pbo-assessment-budget-2026-fiscal-anchors-fiscal-sustainability--evaluation-budget-2026-bdpb-cibles-budgetaires-viabilite-financiere))
+**What happened:** The OPCW director-general told member states that roughly EUR20 million in 2026 assessed contributions remains unpaid, nearly 25% of the organization's budget, while its working-capital reserve of more than EUR8 million is fully drawn. Divisions are to pause operational activity from December 1 to plan for the shortfall. If payments do not arrive, selected activities could be suspended from January 1, including some Article VI inspections, technical assistance, special missions, and capacity-building. [OPCW director-general](https://www.opcw.org/media-centre/news/2026/11/opening-statement-director-general-thirty-first-session-conference-states)
 
 **Why it matters:**
+- A treaty can remain legally intact while verification capacity degrades for lack of cash.
+- Routine industry inspections and special missions create different risks, but both depend on deployable staff and money.
+- The warning lands during the November 23-27 Conference of the States Parties, which is considering the 2027 budget. [OPCW](https://www.opcw.org/media-centre/news/2026/11/conference-states-parties-chemical-weapons-convention-opens)
 
-- The dispute links funding, force readiness, fighter procurement, industrial policy, and continental defense in one public argument.
-- Public U.S. pressure may speed Ottawa's decision, but it can also make an American purchase look like submission to a sovereignty threat.
-- NORAD remains the operational floor. A U.S. senator said the separate restrictions on some military engagement were not expected to affect joint operations or intelligence sharing.
-
-**Context:** The Pentagon is right that Canada's published post-2030 path is incomplete. That does not prove its fighter prescription. A full F-35 purchase would not by itself fund the broader 2035 commitment, and the public record does not quantify how a mixed fleet would affect NORAD.
+**Context:** This is not an announced shutdown. December 1 is an internal planning pause; January 1 is the conditional start of selected suspensions. Late payments could still avert the loss of field work.
 
 **Watch next:**
+- payments or firm commitments before December 1 and January 1;
+- adoption of the revised 2027 budget;
+- a list of protected, delayed, or suspended inspections and missions.
 
-- Ottawa's final fighter decision and any domestic-production or maintenance conditions;
-- a credible post-2030 spending plan rather than headline percentages alone;
-- expansion or rollback of restrictions on bilateral military engagement;
-- NORAD-specific capability statements that can be tested against real readiness data.
+**Confidence:** High on the disclosed finances and contingency plan; medium on whether suspensions occur.
 
-**Confidence:** High on the public rupture and the long-term funding gap; Medium-to-Low on the readiness denominators and claimed fighter-review effects.
+### 5. Huawei convicted on ten counts but acquitted of racketeering conspiracy
 
-### 5. Mexico authorizes U.S. airborne intelligence support—but keeps the trigger on its side
-
-**What happened:** Mexican officials said the government authorized a U.S. surveillance drone to fly over Mexican territory and help locate Fausto Isidro Meza Flores before Mexican forces captured him and 16 associates. President Claudia Sheinbaum stressed that U.S. ground forces were not allowed to operate in Mexico and described the arrangement as intelligence sharing. ([AP](https://apnews.com/article/mexico-sinaloa-drone-cartels-meza-flores-us-912af4eaae5e476a102adc2eca11abee))
-
-Mexican officials said fighting around the operation left four soldiers and 16 suspected criminals dead. The United States has an extradition request for Meza Flores. The platform, flight authorities, collection product, command relationship, and any role in target selection were not disclosed.
+**What happened:** After a three-month federal trial in New York, Huawei and three subsidiaries were convicted on charges involving Iran sanctions, bank fraud, money laundering, and trade-secret theft. Huawei was found guilty on ten of twelve counts but acquitted of racketeering conspiracy and conspiracy to obstruct justice. It says it will appeal; sentencing is set for September 2027. [US Justice Department](https://www.justice.gov/opa/pr/chinese-tech-giant-huawei-and-subsidiaries-convicted-sanctions-violations-fraud-conspiracy) [AP](https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab)
 
 **Why it matters:**
+- The verdict gives the United States a jury-tested finding on specific sanctions, fraud, laundering, and trade-secret conduct.
+- The two acquittals matter: the jury did not accept the government's broadest corporate-enterprise and obstruction theories.
+- Potential corporate penalties could reach billions of dollars, but no penalty has been imposed and the appeal can delay or change the outcome.
 
-- The mission defines a politically usable boundary: U.S. airborne collection, Mexican authorization, and Mexican use of force.
-- If repeated, that model could deepen bilateral action without crossing Mexico's most sensitive red line against U.S. ground operations.
-- Leadership capture can weaken a network or trigger succession violence. The arrest's strategic effect cannot be inferred from the operation's immediate success.
-
-**Context:** This is stronger than routine information exchange but weaker than a disclosed joint operation. Calling it U.S. command, targeting, or combat participation would outrun the evidence.
+**Context:** A criminal verdict is not the same as a new allied telecom rule. Any change in supplier policy, licensing, or Huawei's global operations remains a future political or commercial decision.
 
 **Watch next:**
+- the count-by-count judgment and penalty calculation;
+- the appeal and whether it stays consequences;
+- any allied procurement or export-control response tied explicitly to the verdict.
 
-- a bilateral legal instrument or acknowledgment that the model will be repeated;
-- extradition proceedings and the public evidence against Meza Flores;
-- factional violence, defections, or territorial changes in Sinaloa;
-- disclosure of the platform and the line between collection and targeting.
+**Confidence:** High on the verdict; low on penalty size and broader policy effects.
 
-**Confidence:** High on the authorized surveillance flight and Mexican arrest; Medium on whether this becomes a durable cooperation model.
+### 6. Congo orders a full cobalt-export halt from November 30
 
-### 6. FinCEN maps Iran-linked shadow banking without proving $14.7 billion was illicit
-
-**What happened:** FinCEN analyzed 4,983 transactions of at least $500,000 that occurred from January 2025 through August 2026 and totaled about $14.7 billion in activity potentially linked to Iranian shadow banking. The report highlights company and banking connections in the UAE, Hong Kong, mainland China, Singapore, the United Kingdom, and other jurisdictions. The largest listed banking routes ran from mainland China, Singapore, and the United Kingdom to the UAE. ([FinCEN analysis](https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf))
-
-The caveat is part of the finding, not a footnote. FinCEN says Bank Secrecy Act reports are leads, do not prove illegal activity, can include legal or attempted transfers, may repeat or cumulate activity, and are not a complete measure. FinCEN removed transactions whose claimed Iran links it could not corroborate, but the final dataset still measures potential linkage—not net Iranian receipts or proven sanctions evasion.
+**What happened:** Congo's market regulator ordered all cobalt exports suspended from November 30, covering industrial, semi-industrial, small-scale, and artisanal output. Previously authorized volumes are not exempt if they miss the deadline. The regulator plans a review after four months, but exports will resume only after a later decision sets the date, volumes, quota allocation, and conditions. [ACP](https://acp.cd/economie/la-rdc-suspend-la-commercialisation-du-cobalt-des-le-30-novembre-2026/) [Reuters](https://www.marketscreener.com/news/congo-halts-cobalt-exports-again-to-tackle-oversupply-support-prices-industry-regulator-says-ce7851dada89f121) [S&P Global](https://www.spglobal.com/energy/en/news-research/latest-news/metals/112326-drc-temporarily-suspends-cobalt-exports)
 
 **Why it matters:**
+- The measure is a hard stop, not merely a smaller quota, and it gives the state leverage over the timing and distribution of a strategic mineral supply.
+- The regulator says weak demand, inventories, oversupply, and falling prices prompted the move.
+- The immediate market reaction does not prove a physical shortage. Inventories already outside Congo, producer stocks, substitution, recycling, and the halt's duration are not established.
 
-- The report gives banks and foreign regulators route, registration, ownership, and transaction-pattern indicators rather than only a list of sanctioned names.
-- That can raise compliance costs for opaque companies and financial centers even before a new designation.
-- It can also encourage indiscriminate de-risking if institutions treat risk signals as proof of culpability.
-
-**Context:** FinCEN says potential shadow-banking volume declined during the review period and may indicate partial disruption. Attribution lags, incomplete coverage, behavior changes, and migration beyond reporting channels remain alternative explanations.
+**Context:** The four-month point is a review, not an automatic reopening. That distinction makes policy discretion as important as the calendar.
 
 **Watch next:**
+- producer, refiner, and exchange inventories;
+- the treatment of already mined material and any leakage through informal channels;
+- whether a later quota system favors selected firms or jurisdictions.
 
-- new OFAC or foreign-regulator actions tied to the routes and corporate patterns;
-- changes in correspondent banking, registry rules, or transaction thresholds;
-- later FinCEN revisions separating newly identified activity from cumulative reporting;
-- independent measures of Iranian oil, procurement, and military-finance access.
-
-**Confidence:** High on the dataset and its limits; Medium on the inference that lower observed volume reflects real disruption.
+**Confidence:** High on the rule and deadline; medium on duration and market effect.
 
 ## RAPID FIRE
 
-- **South Korea:** Russian military aircraft entered South Korea's air-defense identification zone near Ulleung Island, prompting a fighter scramble. Civil authorities briefly warned that territorial airspace had been violated and issued a shelter order, then corrected the account and lifted the alert after about three minutes. Aircraft types and intent remain undisclosed. ([AP](https://apnews.com/article/south-north-korea-tensions-airspace-ulleung-island-a0347d1dda863d8189bbdf21c320ee3b))
-- **Hungary-Ukraine:** Prime Minister Peter Magyar announced a forthcoming visit to western Ukraine and called Russia the aggressor, extending Budapest's rhetorical break from the Orban era. He set no trip date or new aid commitment and still wants Ukraine funding handled separately from the EU's next long-term budget. ([AP](https://apnews.com/article/hungary-magyar-ukraine-visit-564457bace8a9053b948d3182235cc1f))
-- **Black Sea shipping:** The UN said OHCHR recorded reports of 164 attacks on commercial vessels from June through October but verified 15 attacks that killed at least 21 vessel workers and injured 43. The 164 figure is a reported-incident denominator, not 164 verified or commonly attributed attacks. ([UN briefing](https://dppa.un.org/en/news/remarks-by-usg-dicarlo-to-the-security-council-on-ukraine-as-delivered))
-- **U.S.-Iran channel:** JD Vance and Marco Rubio separately met Qatar's prime minister as Doha continued mediation. Public statements disclosed no new terms or breakthrough, so the meetings show an active channel—not convergence. ([AP](https://apnews.com/article/vance-rubio-qatar-iran-war-16e0c2cb05347cfcac068ec4aebb363f))
-- **Spain:** The Supreme Court permanently dismissed the remaining case against Carles Puigdemont, Toni Comin, and Lluis Puig under the amnesty law, six days before the general election. The legal change is established; its electoral effect is not. ([Catalan News](https://www.catalannews.com/politics/item/amnesty-for-puigdemont-supreme-court-definitively-closes-case-against-last-independence-leaders), [election decree](https://infoelectoral.interior.gob.es/export/sites/default/pdf/procesos_electorales/Elecciones-Generales-29-N/RD-convocatoria-BOE-06-10-2026.pdf))
-- **Colombia:** Explosive-laden drones struck police sites in Cucuta and Cesar. Officials had not attributed the attacks by cutoff; a monitoring group's underlying dataset for a reported 95% annual increase was not inspected. ([AP](https://apnews.com/article/colombia-violence-cucuta-drone-attacks-66c38976a40270fb1a5fdcba26c3716d))
+- **North Korea shuts a newly reopened Swiss channel:** Pyongyang declared Switzerland's senior diplomat persona non grata, ordered him out within 48 hours, and demanded closure of the office that Switzerland reopened in October. North Korea tied the move to Swiss sanctions over alleged transfers of Ukrainian children; the expulsion does not verify that underlying allegation. [AP](https://apnews.com/article/north-korea-switzerland-diplomat-russia-ukraine-a39dbc92d195e69443ce66913a3dff7e) [Swiss foreign ministry](https://www.eda.admin.ch/en/relations-between-switzerland-and-the-democratic-peoples-republic-of-korea-key-dates)
+- **Eastern Libya threatens Kyiv:** The Libyan National Army says two naval officers died from wounds sustained in Ukraine's Benghazi strike and promises unspecified retaliation. The deaths and any plan for retaliation lack independent confirmation in the inspected evidence. [AP](https://apnews.com/article/russia-ukraine-war-libya-drone-attack-warship-officers-5719d6750c0619695c7f23a373cecd7b)
+- **NATO adds airborne surveillance over Poland:** After an extraordinary North Atlantic Council meeting on three Russian Kh-101 missiles that struck Polish territory, SACEUR deployed an AWACS aircraft, according to Poland's NATO mission. The public record does not establish deliberate Russian targeting of Poland. [Polish mission to NATO](https://www.gov.pl/web/nato-en/north-atlantic-council-emergency-meeting-initiated-by-poland)
+- **CIA open-source system reportedly breached:** AP, citing one person familiar with the incident, reports that an unclassified CIA system used for open-source intelligence was breached, no classified information was involved, and the problem was resolved. The actor, affected data, and any exfiltration remain unknown. [AP](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
+- **Britain moves against Myanmar's air-war network:** The UK added four Myanmar military figures to its sanctions list and announced future legislation intended to stop British export and supply of aviation fuel used by the military. The fuel restriction is a policy commitment, not yet law. [UK sanctions notice](https://assets.publishing.service.gov.uk/media/6b045944e676615eab145929/Sanctions_Notice__Myanmar__23_November_2026.pdf) [Foreign Secretary](https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026)
+- **Colombia car bombing injures 23:** A vehicle bomb outside regional government offices in Villavicencio injured 23 people. Prosecutors are investigating FARC-EMC responsibility and the president blamed a named commander, but the inspected evidence does not establish attribution. [AP](https://apnews.com/article/colombia-car-bomb-villavicencio-violence-urban-areas-c4b6e461e59ed1065efc73a0bd47eeb0)
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### Russia can launch a nuclear-armed satellite within 60 days
+### Iran's navy says three protected tankers hit mines in Hormuz
 
-**Who is making it:** WDR, NDR, and Sueddeutsche Zeitung, citing intelligence shared among NATO states. ([Joint investigation](https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html))
-**Evidence supporting it:** DIA independently assesses that Russia is developing a satellite designed to carry a nuclear weapon; the joint investigation reports a named system, storage near Moscow, and a 60-day warning.
-**Evidence against / missing:** No named official, launch indicator, imagery, or technical record publicly verifies integration, readiness, or intent. NATO did not authenticate the timeline, and Russia denied it.
-**Assessment:** Plausible capability development; **Unclear** 60-day readiness and launch intent.
+**Who is making it:** Iran's Revolutionary Guard navy.
+**Evidence supporting it:** Tanker attacks in the area are independently recorded, so the broader security setting is real.
+**Evidence against / missing:** Iran did not name the ships. JMIC records unknown projectiles, says no official or national authority confirmed the mine claims, and does not establish that its incidents match Iran's set.
+**Assessment:** **Weak as a specific mine narrative; supported only at the level that tanker attacks occurred.**
 
-### Ukraine sank *Merkury* and hit a weapons-carrying *Angara*
+### The Houthis now control Bab el-Mandeb and are poised to take Aden
 
-**Who is making it:** President Zelenskyy and Ukrainian authorities. ([Ukrainian presidency](https://www.president.gov.ua/en/news/raketi-dlya-petriotiv-potribni-tut-v-ukrayini-mi-duzhe-ochik-107457))
-**Evidence supporting it:** Ukraine admitted responsibility, and independent reporting supports severe corvette damage.
-**Evidence against / missing:** Eastern Libyan authorities described severe damage rather than a confirmed sinking. No inspected manifest or imagery establishes *Angara*'s weapons cargo or final condition.
-**Assessment:** **Supported** responsibility and severe corvette damage; **Unclear** sinking and cargo claims.
+**Who is making it:** An inference encouraged by Houthi territorial gains and dramatic descriptions of the advance.
+**Evidence supporting it:** Government forces left coastal positions, JMIC says the Houthis hold them, and a government spokesman placed Houthi forces about 60 km from Aden.
+**Evidence against / missing:** Control of coastal positions is not control of the full waterway; no independently mapped front or force balance proves Aden will fall, and no new corroborated Red Sea commercial attack has occurred since August 24.
+**Assessment:** **Plausible as increased leverage; unsupported as control of the strait or a forecast that Aden will fall.**
 
-### Canada's fighter review is already undermining NORAD
+### The Huawei verdict proves the US racketeering case
 
-**Who is making it:** The Pentagon, through its public fact sheet. ([AP](https://apnews.com/article/canada-us-defense-spending-hegseth-pentagon-2ce983323fc56d21db88db5401422fde))
-**Evidence supporting it:** Canada has genuine readiness problems and an incomplete long-term spending path; a mixed fleet can create training and maintenance burdens.
-**Evidence against / missing:** No public analysis quantifies the F-35 review's current NORAD effect. Joint operations and intelligence sharing continue, and a spending gap does not prove one procurement answer.
-**Assessment:** **Unclear**; supported budget concern, unproven causal NORAD claim.
+**Who is making it:** A maximalist reading of the prosecution result.
+**Evidence supporting it:** Huawei and three subsidiaries were convicted on ten sanctions, fraud, laundering, and trade-secret counts.
+**Evidence against / missing:** The jury acquitted Huawei of racketeering conspiracy and conspiracy to obstruct justice, the two broad theories most relevant to that framing.
+**Assessment:** **False as stated. The verdict supports serious specific offenses but rejected the racketeering count.**
 
-### FinCEN found $14.7 billion in proven Iranian illicit finance
+### Russia's budget increase translates into 32.6% more military capability
 
-**Who is making it:** This is the strongest reading of the headline number, not FinCEN's actual methodological claim.
-**Evidence supporting it:** FinCEN selected 4,983 large transactions after corroborating potential Iran links with multiple data sources.
-**Evidence against / missing:** FinCEN says the data are leads, not proof; they can include legal, attempted, repeated, and cumulative activity and do not measure net Iranian receipts. ([FinCEN](https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf))
-**Assessment:** **False** as a proved-illicit total; **Supported** as potentially linked transaction activity.
+**Who is making it:** A mechanical reading of the nominal budget comparison.
+**Evidence supporting it:** The planned national-defense allocation is 32.6% above the comparable stated 2026 allocation.
+**Evidence against / missing:** Inflation, input costs, implementation, labor, imports, classified spending, and battlefield losses are not controlled for.
+**Assessment:** **Weak. The figure measures a nominal allocation increase, not delivered capability.**
 
-### The EU's 22nd sanctions package is already in force
+### Eastern Libya will retaliate against Ukraine
 
-**Who is making it:** Loose present-tense summaries of the Commission announcement.
-**Evidence supporting it:** The Commission disclosed detailed restrictions and filed formal proposals.
-**Evidence against / missing:** All 27 governments must endorse the package; terms may change, and no adoption had occurred by cutoff. ([AP](https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757))
-**Assessment:** **False** at cutoff.
+**Who is making it:** The Libyan National Army.
+**Evidence supporting it:** The LNA publicly vowed an answer after reporting two officer deaths.
+**Evidence against / missing:** It provided no target, timetable, authorizing step, or observable operation, and the casualty account is not independently confirmed.
+**Assessment:** **Unclear. Treat as a deterrent threat until action follows.**
 
 ## UPCOMING EVENTS
 
-- **2026-11-23 to 2026-11-27:** The OPCW's 31st Conference of the States Parties continues in The Hague, covering Chemical Weapons Convention implementation, emerging threats, governance, and the 2027 budget. ([OPCW agenda](https://www.opcw.org/sites/default/files/documents/2026/11/c31inf01%28e%29.pdf))
-- **2026-11-25:** EU and Western Balkans leaders meet in Brussels on enlargement, gradual integration, foreign-policy alignment, security, cyber resilience, and hybrid threats. ([European Council schedule](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/25/))
-- **2026-11-25:** The UN Security Council schedule includes Somalia sanctions work and closed consultations of the 1718 Committee on North Korea. ([Security Council programme](https://main.un.org/securitycouncil/en/events/programme-work-23), [1718 Committee](https://main.un.org/securitycouncil/en/events/1718-committee-6))
-- **2026-11-26 to 2026-11-27:** A special European Council meets on the next EU long-term budget and Ukraine financing for 2027. ([Official meeting notice](https://www.consilium.europa.eu/media/nj5jxefy/cm00008en26.pdf))
-- **2026-11-27:** New Zealand's Electoral Commission plans to declare official general-election results after counting special votes and completing integrity checks. ([Elections New Zealand](https://elections.nz/media-and-news/2026/progress-on-official-count))
-- **2026-11-28:** Taiwan holds local elections, with voting scheduled from 08:00 to 16:00 local time. ([Central Election Commission notice](https://info.cec.gov.tw/vote2026/static/file/2074fdd683844689b5bbdfe0e3ac48b3.pdf))
-- **2026-11-29:** Spain votes in general elections for both chambers, six days after the Supreme Court's Puigdemont amnesty decision. ([Official election decree](https://infoelectoral.interior.gob.es/export/sites/default/pdf/procesos_electorales/Elecciones-Generales-29-N/RD-convocatoria-BOE-06-10-2026.pdf))
-- **2026-11-30:** Canada and partner governments plan to sign the articles establishing the Defence, Security and Resilience Bank in Luxembourg, a milestone toward planned operations in 2027. ([Canada Budget 2026](https://budget.canada.ca/2026/report-rapport/chap5-en.html))
+- **2026-11-25:** The [EU-Western Balkans summit](https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/25/) meets in Brussels on enlargement, gradual integration, foreign-policy alignment, security, cyber resilience, and hybrid threats.
+- **2026-11-25:** The UN Security Council's [1718 Committee](https://main.un.org/securitycouncil/en/events/1718-committee-6) holds closed consultations on North Korea sanctions and other matters.
+- **2026-11-23 to 2026-11-27:** [OPCW CSP-31](https://www.opcw.org/calendar/csp) continues in The Hague, with the 2027 budget and the organization's financing crisis now central operational questions.
+- **2026-11-26 to 2026-11-27:** A [special European Council](https://www.consilium.europa.eu/sv/press/press-releases/2026/11/24/special-european-council-of-26-27-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/) meets on the next EU long-term budget and Ukraine financing for 2027.
+- **2026-11-27:** [Elections New Zealand](https://elections.nz/media-and-news/2026/progress-on-official-count) plans to publish official general-election results after special-vote counting and integrity checks.
+- **2026-11-28:** Taiwan holds local elections; an official election-commission record gives November 28 as polling day, with a nationwide referendum scheduled the same day. [Election commission record](https://web.cec.gov.tw/api/file/0fcf1c1d-4288-4226-8c1e-accfa26ba279.pdf)
+- **2026-11-29:** Spain votes for both chambers of parliament under the [official election decree](https://infoelectoral.interior.gob.es/export/sites/default/pdf/procesos_electorales/Elecciones-Generales-29-N/RD-convocatoria-BOE-06-10-2026.pdf).
+- **2026-11-30:** Canada and partner governments plan to sign the articles establishing the Defence, Security and Resilience Bank in Luxembourg. [Canada Budget 2026](https://www.budget.canada.ca/2026/report-rapport/chap5-en.html)
 
 ## SHOW FODDER
 
-### What should NATO do with a severe intelligence warning it cannot publicly prove?
+### Can the Houthis gain chokepoint leverage without taking Aden?
 
-**Central question:** Does disclosing a 60-day nuclear-satellite warning deter Russia and prepare allies, or create a credibility and escalation trap around evidence the public cannot inspect?
-**Competing interpretations:** Early disclosure can constrain Moscow and speed resilience; it can also anchor policy to a worst-case assessment whose confidence and alternatives remain secret.
-**Key fact:** DIA publicly supports capability development, but the launch timeline comes from one shared investigative chain citing classified intelligence.
-**Bad argument to avoid:** Either a launch is certain within weeks or the entire Russian program is fabricated.
+**Central question:** How much strategic power comes from holding Yemen's nearby coast if the Houthis neither capture Aden nor demonstrate control of commercial passage?
+**Competing interpretations:** One reading is that geography, missiles, and risk perception can create leverage well before formal sea control. The other is that defenders traded dispensable ground for a stronger city perimeter and that the absence of new Red Sea attacks limits the practical change.
+**Key fact:** JMIC says the Houthis hold the vacated coastal positions but records no corroborated Red Sea commercial-shipping attack since August 24.
+**Bad argument to avoid:** “They are near Bab el-Mandeb, therefore they control the strait.”
 
-### Did Ukraine impose a real cost on Russia—or import another war into Libya?
+### Does Russia's bigger budget show endurance or diminishing returns?
 
-**Central question:** Can cross-theater strikes on Russian military assets improve Ukrainian leverage without worsening instability in the third countries used as operating space?
-**Competing interpretations:** Benghazi shows that Russia has no safe logistics rear area; alternatively, a limited ship strike may provoke force protection and local retaliation while producing little lasting logistics effect.
-**Key fact:** Ukraine now owns the operation, but the record establishes severe corvette damage—not all of Kyiv's claims about sinking, cargo, launch origin, or downstream effect.
-**Bad argument to avoid:** A legitimate military target automatically resolves every sovereignty and escalation question.
+**Central question:** Is the 2027 step-up evidence that Russia can sustain a long war, or that maintaining its war effort now requires sharply more nominal resources?
+**Competing interpretations:** The commitment of 35.1% of planned federal spending to national defense signals prioritization and political endurance. But inflation, bottlenecks, labor scarcity, imports, and losses may make each additional ruble buy less usable capability.
+**Key fact:** The allocation rises 32.6% in nominal terms from the stated 2026 figure; that percentage is not adjusted for costs or execution.
+**Bad argument to avoid:** “A 32.6% budget increase means 32.6% more combat power.”
 
-### Can public U.S. pressure make Canada rearm faster?
+### How should states respond when attacks are verified but attribution is not?
 
-**Central question:** Is the Pentagon forcing an overdue readiness decision, or turning interoperability into a sovereignty and procurement loyalty test?
-**Competing interpretations:** Canada needs external pressure because its post-2030 funding path is incomplete; public coercion can make an American fighter purchase politically harder and obscure alternatives.
-**Key fact:** Canada's budget watchdog independently confirms the long-term spending gap, but not the Pentagon's causal claim that the fighter review is already harming NORAD.
-**Bad argument to avoid:** Either Canada has no defense problem or the F-35 is the only possible solution to all of it.
+**Central question:** What level of escort, retaliation, and public accusation is justified when tanker damage is real but the attacker and weapon remain unknown?
+**Competing interpretations:** Fast attribution can deter repetition and reassure shipping; premature attribution can escalate against the wrong actor and validate a propaganda narrative. A precautionary operational response does not require pretending the forensic case is closed.
+**Key fact:** JMIC and UKMTO verify projectile strikes, while JMIC says Iran's mine-strike claims remain unconfirmed by official or national authorities.
+**Bad argument to avoid:** “If the attacks are real, Iran's account of how they happened must also be real.”
