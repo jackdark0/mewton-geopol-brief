@@ -1,210 +1,257 @@
-# GEOPOLITICS DAILY - 2026-11-26
+# GEOPOLITICS DAILY - 2026-11-27
 
-**Research cutoff:** 2026-11-26 02:00:00 America/New_York (07:00:00 UTC)
-**Research window:** approximately 2026-11-24 20:00:00 through 2026-11-26 02:00:00 America/New_York
-**Evidence freeze:** This edition excludes developments first reported after the cutoff.
+**Research cutoff:** 2026-11-27 02:00:00 America/New_York (07:00:00 UTC)
+
+**Research window:** approximately 2026-11-25 20:00:00 to 2026-11-27 02:00:00 America/New_York
 
 ## BLUF
 
-- **Washington opened a 14-front tariff negotiation, not a new tariff regime.** USTR made Section 301 findings and proposed differentiated duties against 14 economies, but the rates are not in force. Comments are due January 5 and hearings begin January 25.
-- **Baghdad ordered federal control over oil and border functions now handled under Kurdish security authority.** The order is real; a physical transfer is not. The next consequential fact is whether federal personnel actually enter a named field or crossing.
-- **A disputed Rosstat leak supports a much higher floor for Russian war deaths.** Multiple teams found roughly 490,000 registered military deaths in the same hacker-supplied corpus. A separate estimate near 700,000 is a model, not a record count.
-- **The EU made EUR45 billion from its existing Ukraine loan accessible for 2027 while debating another EUR45 billion instrument.** Those are separate actions. Meanwhile, a claimed Houthi attack on Ras Tanura raised energy anxiety without pre-cutoff proof of refinery damage.
+- **The Gulf war hit people and infrastructure in new places.** Two Italian air-defence technicians were killed in Kuwait, while Saudi Arabia reported a deadly hit and temporary operational disruption at the Jazan refinery.
+- **Attribution is now an escalation decision.** Kuwait blames Iran for the drone strike; Iran denies it and offers a joint investigation. Saudi Arabia blames the Houthis for Jazan, but public evidence inspected by the cutoff does not independently prove either attribution.
+- **Türkiye completed ratification of a joint-defence pact with Saudi Arabia and Pakistan.** The timing matters, but the treaty does not automatically send troops or bypass national law.
+- **Baghdad's push against Kurdish control advanced from order to court backing and an implementation announcement.** It still has not been shown to have taken a named official crossing or oilfield.
+- **Two other high-risk stories demand caveats:** 24 EU states backed more Ukraine financing without adopting a deal, while a monitor reported Ethiopian and Eritrean forces fighting near Badme without independent confirmation of the new tactical claim.
 
 ## MAJOR DEVELOPMENTS
 
-### 1. USTR proposes tariffs against 14 economies—and starts the bargaining clock
+### 1. Two Italian air-defence technicians killed in Kuwait; Iran attribution disputed
 
-**What happened:** On November 25, USTR made affirmative Section 301 determinations against China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, South Korea, Vietnam, Taiwan, Bangladesh, Japan and India. It then [proposed tariffs for public comment](https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural). These are not new duties already collecting at the border.
-
-The headlines are ceilings, not one uniform rate: up to 35% for Vietnam, up to 25% for India, up to 20% for most covered Chinese goods, 10% for certain Chinese Annex A goods, and 15% on EU goods net of most-favored-nation rates and existing Section 301 tariffs. Product exclusions, existing duties and possible negotiated rates differ by economy. Written comments and requests to testify are due January 5, 2027; hearings begin January 25.
+**What happened:** Kuwait's Defence Ministry said hostile drones entered its airspace on November 26 and fragments struck a vital site; Kuwait blamed Iran. Italy's Foreign Ministry later said two Italian Rheinmetall technicians died at the site while maintaining detection antennas for Kuwait's Skyguard air-defence system. [Italy confirms the deaths and work](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/11/attacco-con-droni-in-kuwait-due-cittadini-italiani-deceduti/) [Kuwait's account](https://www.kuna.net.kw/ar/News?newsId=3340245) Iran's armed forces [denied responsibility](https://irna.com/en/news/86333502/), and Foreign Minister Abbas Araghchi [offered a joint investigation](https://irna.com/en/news/86333676/) with Kuwait and Italy.
 
 **Why it matters:**
 
-- Washington has created a common legal framework for 14 separate negotiations with major trading partners.
-- The immediate effect is uncertainty and bargaining leverage; the customs shock comes only if USTR adopts final actions and effective dates.
-- Product annexes and duty offsets may matter more to individual firms than the headline ceilings.
+- The attack killed European civilians working on a Gulf state's air-defence network, giving Italy a direct stake in the response.
+- Public attribution, not the strike's existence, is the evidentiary choke point. Retaliation based on an unproved perpetrator could widen the war.
+- Targeting or endangering specialist contractors can degrade readiness even when the physical damage is limited.
 
-**Context:** USTR found the targeted practices actionable under Section 301. That legal finding is complete, but the responsive action remains open. Several proposals explicitly allow a lower rate if the economy reaches an agreement responsive to the investigation.
+**Context:** Kuwait's statement establishes its accusation, not neutral forensic proof. The inspected record contained no public radar track, launch-point evidence or wreckage analysis.
 
 **Watch next:**
 
-- January 5 submissions: which sectors demand exclusions, and which governments offer concessions?
-- Any bilateral deal that changes a proposed rate before the January 25 hearings.
-- A final USTR action, product list and effective date. Until then, “tariffs imposed” is wrong.
+- whether Kuwait or Italy publishes radar, debris or flight-path evidence;
+- whether Italy adopts Kuwait's attribution or presses for the proposed joint inquiry;
+- contractor and air-defence posture changes across the Gulf.
 
-**Confidence:** High on legal status and dates; medium on final coverage and rates.
+**Confidence:** High on the attack and deaths; low on perpetrator attribution.
 
-### 2. Baghdad orders federal control over Kurdish-held oil and border functions
+### 2. Saudi Arabia reports a deadly hit and partial stoppage at Jazan refinery
 
-**What happened:** Prime Minister Ali al-Zaidi ordered the federal Oil Ministry to manage specified fields in Diyala, Kirkuk, Salahuddin and Nineveh that sit under Kurdish security control. The order also directs federal monitoring of oilfields, federal control of crossings in the Kurdistan region, closure of informal routes and federal approval of oil exports, according to the [federal statement reported by Reuters](https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control).
-
-Kurdish leaders rejected coercive implementation and called for constitutional dialogue. Kurdistan Region President Nechirvan Barzani [warned against dealing with the region through military force](https://presidency.gov.krd/en/statement-by-president-nechirvan-barzani-1), while a [KRG summary of Kurdish-party statements](https://us.gov.krd/kurdish-leaders-reaffirm-unity-constitutional-rights-and-call-for-dialogue-with-baghdad/) emphasized federalism and regional rights.
+**What happened:** Saudi Arabia's Energy Ministry said a hostile aerial projectile hit the Jazan refinery, caused a fire, killed one Nepali worker, injured several people and temporarily stopped some operations. [Saudi ministry account](https://saudigazette.com.sa/article/666565/saudi-arabia/al-maliki-jazan-refinery-was-attacked-by-houthi-militia) The Saudi-led coalition [blamed the Houthis](https://www.spa.gov.sa/N2737028), said it destroyed the launcher used in the attack, and later claimed it had destroyed [50 military targets](https://spa.gov.sa/N2737234) across Sanaa, Hodeidah and Saada.
 
 **Why it matters:**
 
-- Oil marketing, border revenue and physical access are the core levers in Baghdad-Erbil bargaining.
-- The order links those levers in one federal assertion, raising the stakes beyond a narrow smuggling inquiry.
-- A paper directive changes negotiating pressure; verified staffing, access and security changes would alter control on the ground.
+- Jazan moves the energy-security story from attempted attacks with unclear effects to an official report of casualties and operational interruption.
+- The refinery's actual lost capacity is unknown, but a penetrated energy site can sustain market and insurance risk even after a short outage.
+- The coalition's broad response creates another strike-counterstrike cycle; its 50-target count says nothing by itself about capability removed or civilian harm.
 
-**Context:** Baghdad and Erbil have long disputed oil authority, revenue sharing and the status of disputed territories. The inspected evidence establishes an order and a political rejection—not a completed federal takeover.
+**Context:** The target effects come from the Saudi ministry. Attribution and the counterstrike results come from the coalition; no independent battle-damage assessment was inspected.
 
 **Watch next:**
 
-- Federal deployments, staff replacements, new monitoring equipment or denied access at a named field or crossing.
-- KRG instructions to Peshmerga, customs officials and oil operators.
-- A court challenge, parliamentary intervention or negotiated implementation plan.
+- Jazan throughput and repair timelines;
+- a Houthi claim, weapon evidence or independently verified launch origin;
+- imagery, casualty reports and military effects from the coalition strikes in Yemen.
 
-**Confidence:** High that the order and rejection occurred; medium-low on consequences until implementation is visible.
+**Confidence:** Medium-high on a refinery hit and disruption based on responsible-authority reporting; medium-low on attribution; low on the effects at all 50 claimed targets.
 
-### 3. A disputed Rosstat leak puts the registered Russian death floor near 490,000
+### 3. Türkiye completes ratification of the Mecca defence pact
 
-**What happened:** [BBC Russian reported 490,334 registered Russian military deaths](https://www.bbc.com/news/articles/cmx27g533zwyo) from leaked Rosstat-linked civil-registry data through late September. [Mediazona's analysis](https://en.zona.media/article/2026/11/23/rosstat_leaked) found roughly 490,000 registered deaths after deduplication and filtering, then separately estimated that the real total was around 700,000 after accounting for delayed registrations and missing cases. [iStories found more than 499,000 records](https://istories.media/en/stories/2026/11/23/a-russian-soldier-dies-every-five-minutes-in-the-war-with-ukraine/) using the same leaked corpus and a different filter.
-
-The outlets cross-checked the files against named-dead lists, the probate registry, court decisions, other civil-registry leaks and previously published Rosstat data. But the source files came from the same hacker-supplied leak; Rosstat has not authenticated them and disputes the leak. BBC Russian and Mediazona also cooperate on the named list.
+**What happened:** President Recep Tayyip Erdoğan signed Türkiye's ratification decision on November 26, and it appeared in the November 27 Official Gazette before this edition's cutoff. The pact links Türkiye, Saudi Arabia and Pakistan. [Ratification decision and treaty](https://www.resmigazete.gov.tr/eskiler/2026/11/20261127-4.pdf)
 
 **Why it matters:**
 
-- If substantially genuine and correctly filtered, the data raises the minimum credible manpower cost of Russia's war.
-- A much higher casualty floor affects assessments of recruitment, force regeneration, veterans' obligations and the durability of a long war.
-- The dataset is powerful precisely because it uses registered deaths—but that does not turn a modeled total into a counted fact.
+- The pact treats an external armed attack on one party as an attack on all, so current strikes on Saudi territory give the agreement immediate political relevance.
+- It adds a formal trilateral consultation and defence-cooperation framework to a region already testing air defences and alliance credibility.
+- It is not an automatic war trigger: Turkish parliamentary records say action remains subject to each state's constitution, domestic law and competent authorities. [Parliamentary explanation](https://tbmm.gov.tr/Haber/mekke-anlasmasi-nin-onaylanmasinin-20261027172855)
 
-**Context:** Three numbers are circulating and must stay separate: a roughly 490,000 registered-record floor; iStories' more-than-499,000 result from the same corpus; and Mediazona's roughly 700,000 estimate after modeling missing and delayed registrations. Similar results from the same files are methodological convergence, not independent acquisition.
+**Context:** Türkiye completed its domestic ratification process. The inspected record does not establish that every treaty notification required for formal entry into force is complete, nor that any member has requested combat assistance.
 
 **Watch next:**
 
-- Reproducible methodology or aggregate checks that do not expose personal data.
-- Independent demographic, benefits or regional data matching the leak's scale and distribution.
-- Evidence of duplicates, omitted populations or systematic misclassification.
+- formal entry-into-force notification and meetings of the pact's strategic committee;
+- requests for intelligence, logistics or air-defence support after the Saudi attacks;
+- any Turkish or Pakistani deployment, exercise or basing arrangement.
 
-**Confidence:** Medium-high in a roughly 490,000 registered-record floor; medium in the 700,000 model; low in any exact total presented without uncertainty.
+**Confidence:** High on Türkiye's ratification; medium on near-term operational consequences.
 
-### 4. The EU adopts its existing EUR45 billion Ukraine allocation for 2027
+### 4. Baghdad gains court backing and says implementation has begun—but no takeover is proved
 
-**What happened:** [Council Implementing Decision (EU) 2026/2623](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202602623), adopted November 23 and published November 25, makes up to EUR45 billion from the existing EUR90 billion Ukraine Support Loan accessible for 2027. It allocates EUR31.7 billion to defence-industrial capacity and EUR13.3 billion to budget and macro-financial assistance, split into two EUR6.65 billion components. Disbursement still follows the facility's conditions, modalities and instalment process.
-
-This is not the same as the Commission's [separate proposal for an additional EUR45 billion loan](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2454/IP_26_2454_EN.pdf), which would provide up to EUR25 billion for military assistance and EUR20 billion for budget support. That extra instrument remained a proposal at the cutoff. EU leaders were scheduled to discuss Ukraine's 2027 financing at the [November 26-27 special European Council](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/).
+**What happened:** Iraq's Federal Supreme Court backed federal authority to deploy forces along all international borders, including those in KRG-administered territory. Thousands protested in Irbil. [Associated Press](https://apnews.com/article/1b0e8cb02a09ce16b8885c60f4733a44) Iraq's Border Forces Command separately said it had begun implementing the order to close unofficial crossings. [Iraqi account](https://news.iq/en/iraq-shuts-unofficial-crossings-border-control/)
 
 **Why it matters:**
 
-- The adopted allocation gives Ukraine and suppliers more planning visibility for 2027 procurement and public finances.
-- The large defence share can support contracting and production continuity before it produces delivered capability.
-- Confusing the two EUR45 billion actions doubles what was actually approved.
+- Baghdad now has an executive order, favorable judicial language and an operational announcement behind its bid to centralize border and oil authority.
+- Even partial federal monitoring at high-value routes could shift revenue and bargaining power without a dramatic military seizure.
+- Kurdish mass opposition raises the political cost of compliance and the risk of a security standoff.
 
-**Context:** The existing EUR90 billion loan covers 2026 and 2027. The new implementing decision allocates its 2027 half; the Commission proposal would add a separate loan.
+**Context:** The Border Forces commander distinguished the border strip under his command from official crossing points managed by another federal body. No inspected source documented a completed transfer at a named KRG-run official crossing or oilfield.
 
 **Watch next:**
 
-- Summit conclusions and subsequent Council or Parliament action on the additional proposal.
-- Instalment schedules, procurement eligibility and reform conditions for the adopted tranche.
-- Contracts and deliveries, not just authorized ceilings.
+- named sites where staffing, command, access or revenue collection actually changes;
+- federal and Peshmerga deployments at the same facility;
+- a written joint-management, inspection or revenue-sharing protocol.
 
-**Confidence:** High on the legal distinction and allocation; medium on the speed and effect of disbursement.
+**Confidence:** High on the ruling, protest and implementation announcement; medium-low on physical control.
 
-### 5. Ras Tanura attack claims lift the risk signal before damage is verified
+### 5. Monitor reports fighting between Ethiopian and Eritrean forces near Badme
 
-**What happened:** The Houthis claimed an attack on Saudi Arabia's Ras Tanura refinery and Riyadh's financial district. The Saudi-led coalition said air defences intercepted and destroyed four drones at Ras Tanura and that falling debris caused no casualties in its initial assessment, according to the [Saudi Press Agency](https://spa.gov.sa/N2735707).
-
-No inspected evidence available by the cutoff established a successful refinery strike, physical damage or reduced throughput. Brent nevertheless [settled 3.5% higher at $94.61](https://live.euronext.com/en/financial-news/oil-prices-rise-after-houthis-claim-attack-saudi-refinery) amid the claim and wider regional supply concerns. The full move cannot be assigned to Ras Tanura.
+**What happened:** ACLED reported that Ethiopian federal forces and the allied Tigray Peace Force took Gual Gemhalo on November 26 after overnight heavy-infantry fighting with Eritrean and Tigrayan forces. [ACLED's event log](https://acleddata.com/ethiopia-alerts-archive) The broader battle near Badme is supported by earlier reporting, but the exact combatant lineup and control claim for November 26 were not independently confirmed by the cutoff. [Critical Threats review](https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-november-24-2026)
 
 **Why it matters:**
 
-- Ras Tanura combines major refining and export infrastructure, so even an uncertain attack raises the potential severity of disruption.
-- Markets price probability and consequence before an outage is confirmed.
-- Repeated attempts can impose defence costs and a risk premium even when air defences intercept most threats.
+- If direct regular-army combat is confirmed, this is a dangerous step from renewed war in Tigray toward an Ethiopia-Eritrea interstate conflict.
+- Badme was the flashpoint of the 1998-2000 border war, so small tactical movements can carry national symbolism and mobilization risk.
+- Sparse access makes local-source reporting both strategically influential and unusually error-prone.
 
-**Context:** The Saudi statement establishes an interception account; the Houthi statement establishes a belligerent claim. Neither independently proves what happened at the target. Later reporting is outside this edition's evidence freeze.
+**Context:** Serious fighting near Badme is not in doubt. What remains uncertain is whether Ethiopian and Eritrean regulars fought each other directly overnight and who durably controls Gual Gemhalo.
 
 **Watch next:**
 
-- Aramco throughput, loading schedules and incident disclosures.
-- Time-stamped, geolocated imagery or an independent damage assessment.
-- Follow-on launches and changes in shipping or insurance pricing.
+- casualty acknowledgments or unit-level statements from Addis Ababa and Asmara;
+- verified imagery of regular forces, air operations or major reinforcements;
+- durable control of Gual Gemhalo, Sembel and Badme, plus any African Union mediation.
 
-**Confidence:** High on the claims and settlement price; low on physical target effects.
+**Confidence:** Medium on major fighting near Badme; low-to-medium on direct ENDF-EDF combat and the new control claim.
 
-### 6. China extends a narrow US critical-minerals control pause
+### 6. Twenty-four EU states back more Ukraine financing; no new instrument is adopted
 
-**What happened:** China's Ministry of Commerce extended through January 27, 2027, the suspension of one US-specific clause in its dual-use export controls. The clause had presumptively barred US-bound exports related to gallium, germanium, antimony and superhard materials and required stricter end-user and end-use review for graphite. The suspension runs from November 28, 2026, through January 27, 2027, according to the [official notice republished by a Chinese embassy](https://la.china-embassy.gov.cn/eng/news/202611/t20261125_12066919.htm).
+**What happened:** At the special European Council, 24 member states supported the proposal for Ukraine's 2027 financing. Bulgaria said it would join only the non-military component. Leaders said they would return to the issue in December; they also failed to settle the next long-term EU budget. [Official summit outcome](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/)
 
 **Why it matters:**
 
-- The extension preserves a legal supply channel for strategically important materials.
-- It also preserves Beijing's leverage: the broader control system remains, licences still matter and the pause expires in two months.
-- US buyers gain policy visibility, not guaranteed approvals or shipment volumes.
+- The coalition is broad, but political support is not usable funding until amount, legal basis, participants and disbursement rules are adopted.
+- Bulgaria's carve-out points toward differentiated participation rather than one uniform obligation.
+- The result must not be conflated with the existing EUR90 billion Ukraine Support Loan and its already adopted 2027 allocation. [Existing loan](https://www.consilium.europa.eu/en/press/press-releases/2026/04/23/council-finalises-90-billion-support-loan-to-ukraine/)
 
-**Context:** This is the suspension of one US-specific clause, not the removal of all Chinese export controls on the listed materials.
+**Context:** The Commission has proposed additional 2027 finance, but the summit outcome did not adopt a new loan or “double” the existing instrument.
 
 **Watch next:**
 
-- Licence approvals and physical US import volumes by material.
-- Any link between the January 27 deadline and US-China Section 301 talks.
-- Whether Beijing extends, narrows or ends the pause.
+- December text specifying the amount, legal route and participating states;
+- Bulgaria's final limitation and any geographic earmark;
+- whether the package becomes tied to the unresolved 2028-2034 EU budget.
 
-**Confidence:** High on legal scope and dates; medium on commercial supply effects.
+**Confidence:** High on the summit outcome; medium on the route to a December deal.
+
+### 7. Guinea-Bissau junta delays elections by nearly two years
+
+**What happened:** Transitional President Gen. Horta Inta-a moved presidential and legislative elections from December 6, 2026, to November 26, 2028. The decree cited insufficient technical, material and financial conditions. [Associated Press](https://apnews.com/article/2d79de9288a79740c0bce093c004a14c) [Reuters](https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/guinea-bissau-delays-elections-extending-military-led-transition-a-year-after-coup)
+
+**Why it matters:**
+
+- The delay turns a promised one-year transition into military rule lasting roughly three years from the November 2025 coup.
+- It tests whether ECOWAS and the African Union can enforce anti-coup norms without losing leverage over the junta.
+- A new date is not a guarantee; the junta must show a funded electoral roadmap and credible access for opposition figures.
+
+**Context:** The decree establishes the new date. Its logistical justification is the junta's stated rationale, not an independently established necessity.
+
+**Watch next:**
+
+- ECOWAS and African Union mediation, sanctions or deadlines;
+- publication of a funded election calendar and electoral-commission guarantees;
+- whether exiled or opposition leaders can return, organize and contest the vote.
+
+**Confidence:** High on the decree and dates; low on whether the 2028 commitment will hold.
 
 ## RAPID FIRE
 
-- **China and Cambodia opened their largest Golden Dragon drill yet at Ream Naval Base.** The 15-day exercise runs through December 9 and covers counterterrorism, anti-piracy and humanitarian operations, according to [China's Defence Ministry](https://eng.mod.gov.cn/2025xb/N/T/16501985.html); Cambodian officials described the eighth edition as the series' largest. It demonstrates access and operational familiarity, not an exclusive permanent Chinese base. [AP](https://apnews.com/article/45c1eb364c82c346340916e6174ea8e3)
-- **EU and Western Balkan leaders called enlargement realistic but kept the conditions.** The [November 25 Brussels Declaration](https://www.consilium.europa.eu/media/443hek1z/brussels-declaration-2026-en.pdf) calls enlargement a geostrategic investment while retaining reforms, rigorous conditionality and the own-merits principle. It sets no accession date.
-- **Ukraine says five Russian aircraft were damaged at Savasleyka.** Ukraine's General Staff claimed three MiG-31s and two Su-34s were damaged in strikes on November 24-25, while saying its own assessment was preliminary. No independent confirmation was inspected by the cutoff. [Hromadske](https://hromadske.ua/en/war/274984-ukraine-strikes-five-russian-military-aircraft-at-savasleyka-airbase-general-staff)
+- **Trump and Rutte warned against expansion of the Russia-Ukraine war, but announced no new instrument.** Their joint statement said Russia should avoid actions that intentionally or unintentionally widen the conflict and called for a rapid peaceful resolution. [NATO](https://www.nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general)
+- **Ukraine tried to contain the diplomatic fallout from its Benghazi operation.** Foreign Minister Andrii Sybiha told his Libyan counterpart Ukraine did not intend to widen the war and expressed regret over unintended consequences; eastern Libyan authorities say two naval officers died, but the call does not independently prove the casualty mechanism. [Anadolu](https://www.aa.com.tr/en/asia-pacific/ukraine-expresses-regret-over-drone-strikes-that-killed-2-libyan-naval-officers/4139840) [Libyan News Agency](https://lana.gov.ly/post.php?id=370675&lang=en)
+- **EU leaders nominated Pablo Hernández de Cos to lead the ECB.** They also put forward Laurence Boone and Markus Brunnermeier for the executive board; consultation with the European Parliament and ECB Governing Council comes before a formal decision. [European Council](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/)
+- **UNCTAD projects zero growth in global seaborne trade in 2026 after 1.9% in 2025.** That is a forecast over the global aggregate, not a completed annual result or proof that every route is shrinking. [UNCTAD](https://unctad.org/system/files/official-document/rmt2026overview_en.pdf)
 
 ## CONTESTED CLAIMS / NARRATIVES
 
-### “Russia has lost exactly 700,000 soldiers”
+### “Iran carried out the Kuwait drone strike”
 
-**Who is making it:** The number is spreading from summaries of Mediazona's estimate.
-**Evidence supporting it:** Mediazona modeled missing and delayed registrations after finding roughly 490,000 registered deaths in leaked records. Its cross-checks support a very large undercount in public data.
-**Evidence against / missing:** The 700,000 figure is an estimate with model uncertainty, not a count. All reviewed analyses depend on a common hacker-supplied corpus that Rosstat disputes.
-**Assessment:** **Plausible as a rounded model; unsupported as an exact count.**
+**Who is making it:** Kuwait's Defence Ministry.
 
-### “Houthi drones hit and damaged Ras Tanura”
+**Evidence supporting it:** Kuwait says its forces tracked hostile drones and attributes the attack to Iran; the strike and casualties are independently supported by Italy.
 
-**Who is making it:** The Houthis claimed an attack on the refinery.
-**Evidence supporting it:** The coalition acknowledged a four-drone interception event at Ras Tanura, placing a real attack attempt at the site.
-**Evidence against / missing:** Before cutoff, there was no inspected Aramco outage report, independent damage assessment or verified target imagery. The coalition reported interceptions and no initial casualties.
-**Assessment:** **Unclear. The attack attempt is supported; successful target effect is not established.**
+**Evidence against / missing:** Iran denies any operation. No public radar, launch-point or wreckage evidence was inspected.
 
-### “Baghdad has taken over Kurdish oilfields and crossings”
+**Assessment:** **Unclear.** The attack is established; the perpetrator is not publicly proved.
 
-**Who is making it:** Compressed headlines and political descriptions of the federal order.
-**Evidence supporting it:** The prime minister ordered federal management, monitoring, crossing control and export approval.
-**Evidence against / missing:** No inspected pre-cutoff source documented a completed transfer, federal staffing or Kurdish withdrawal at a named site.
-**Assessment:** **Weak as a statement of accomplished control; confirmed as an order.**
+### “The Houthis hit Jazan, and the coalition destroyed 50 targets in response”
+
+**Who is making it:** The Saudi-led coalition.
+
+**Evidence supporting it:** Saudi official reporting says an aerial projectile hit the refinery; the coalition says it identified and destroyed the launcher.
+
+**Evidence against / missing:** No independent weapon attribution or battle-damage assessment. “Fifty targets” does not establish 50 successful strikes or meaningful capability loss.
+
+**Assessment:** **Plausible attribution; unverified counterstrike effects.**
+
+### “North Korea paused missile, ammunition and troop support to Russia”
+
+**Who is making it:** Ukraine's Defence Intelligence.
+
+**Evidence supporting it:** The agency gives specific alleged measures, including a halt to KN-23 and ammunition shipments and a delayed troop expansion. [Ukraine Defence Intelligence](https://gur.gov.ua/content/kim-chen-yn-pryzupynyv-dopomohu-rosii-chomu-v-pkheniani-obrazylysia-na-moskvu-analytics.html)
+
+**Evidence against / missing:** No Russian, North Korean, South Korean or observable logistics confirmation was inspected. Wire reports repeat the same source chain.
+
+**Assessment:** **Unclear.** Do not treat it as a demonstrated change in Russia's supply position.
+
+### “Ethiopia and Eritrea are now directly at war”
+
+**Who is making it:** This is an inference from ACLED's report of direct ENDF-EDF fighting near Badme, not a declaration by either government.
+
+**Evidence supporting it:** Regular forces from both states are reported in the battle space, and ACLED describes overnight infantry combat.
+
+**Evidence against / missing:** No government acknowledgment, independent on-site account or verified imagery confirms the direct clash by cutoff.
+
+**Assessment:** **Unclear and high impact.** Serious border fighting is supported; interstate war is not yet established.
+
+### “The EU approved another Ukraine loan”
+
+**Who is making it:** A recurring shorthand in coverage and commentary.
+
+**Evidence supporting it:** Twenty-four member states supported the proposal politically.
+
+**Evidence against / missing:** The official outcome says leaders will return in December. No new instrument, amount or disbursement was adopted at the summit.
+
+**Assessment:** **False as stated.** Support is not adoption.
 
 ## UPCOMING EVENTS
 
-*Schedule verified against current primary or official sources available by the research cutoff.*
-
-- **2026-11-26 to 2026-11-27:** [Special European Council](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/) on the 2028-2034 EU budget, Ukraine's 2027 financing and ECB leadership. Watch for action on the additional EUR45 billion Ukraine proposal.
-- **2026-11-27:** New Zealand's Electoral Commission plans to [release official general-election results](https://elections.nz/media-and-news/2026/progress-on-official-count) after counting special votes and completing integrity checks.
-- **2026-11-27:** The [OPCW Conference of the States Parties closes](https://www.opcw.org/calendar/csp). Funding decisions matter because the Director-General warned of a roughly EUR20 million 2026 shortfall.
-- **2026-11-28:** Taiwan holds [local elections and national referendum No. 22](https://info.cec.gov.tw/vote2026/question/) on nuclear power policy. Local results will be read as an indicator of party organization and voter mood.
-- **2026-11-29:** Spain holds elections for both chambers under the [official dissolution and election decree](https://infoelectoral.interior.gob.es/export/sites/default/pdf/procesos_electorales/Elecciones-Generales-29-N/RD-convocatoria-BOE-06-10-2026.pdf).
-- **2026-11-30:** Canada and eight listed partners plan to sign the [Articles of Agreement for the Defence, Security and Resilience Bank](https://www.budget.canada.ca/2026/report-rapport/chap5-en.html) in Luxembourg, a step toward planned 2027 operations.
-- **2026-11-30:** The Democratic Republic of the Congo's [temporary cobalt-export suspension takes effect](https://acp.cd/economie/la-rdc-suspend-la-commercialisation-du-cobalt-des-le-30-novembre-2026/). Watch inventories, prices and any exemptions.
-- **2026-12-01:** OPCW divisions are due to [pause planned operational activity](https://www.opcw.org/media-centre/news/2026/11/opening-statement-director-general-thirty-first-session-conference-states) to reassess 2027 plans amid the funding gap; some activities could be suspended from January 1 if arrears remain.
-- **2026-12-02:** [NATO foreign ministers meet in Brussels](https://www.nato.int/en/news-and-events/events/media-advisories/2026/11/13/meeting-of-nato-ministers-of-foreign-affairs). Ukraine, burden-sharing and escalation management are the likely pressure points; the official detailed program was still pending.
+- **2026-11-27:** New Zealand's Electoral Commission plans to release official general-election results; watch special votes and the final seat allocation. [Elections NZ](https://elections.nz/media-and-news/2026/progress-on-official-count)
+- **2026-11-27:** The OPCW's annual Conference of States Parties closes; watch the budget outcome as unpaid contributions threaten operations. [OPCW](https://www.opcw.org/calendar/csp)
+- **2026-11-28:** Taiwan holds local elections and Referendum No. 22 on nuclear-energy policy; watch the vote as a test of party organization and energy politics. [Central Election Commission](https://info.cec.gov.tw/vote2026/question/)
+- **2026-11-29:** Spain votes for Congress and Senate; the official decree confirms the date and dissolved both chambers. [Official State Gazette](https://boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es)
+- **2026-11-30:** Canada and eight partners plan to sign the Articles establishing the Defence, Security and Resilience Bank in Luxembourg; watch capitalization and new members. [Canada Budget 2026](https://www.budget.canada.ca/2026/report-rapport/chap5-en.html)
+- **2026-11-30:** The Democratic Republic of the Congo's temporary suspension of all cobalt exports takes effect; watch enforcement, prices and any exemptions. [Congolese Press Agency](https://acp.cd/economie/la-rdc-suspend-la-commercialisation-du-cobalt-des-le-30-novembre-2026/)
+- **2026-12-01:** The OPCW Secretariat plans an operational pause to revise 2027 plans amid unpaid contributions. This is not yet the separate January suspension of inspections the director-general warned may follow. [OPCW](https://www.opcw.org/media-centre/news/2026/11/opening-statement-director-general-thirty-first-session-conference-states)
+- **2026-12-02:** NATO foreign ministers meet in Brussels; watch Russia-Ukraine escalation control, alliance spending and industrial capacity. [NATO](https://www.nato.int/en/news-and-events/events/media-advisories/2026/11/13/meeting-of-nato-ministers-of-foreign-affairs)
 
 ## SHOW FODDER
 
-### Is USTR bargaining—or building a durable tariff wall?
+### How much evidence should be required before retaliation?
 
-**Central question:** Are the 14 proposals mainly high opening anchors for negotiated settlements, or the architecture of a broad US industrial tariff regime?
-**Competing interpretations:** One reading sees differentiated rates, exclusions and explicit deal adjustments as negotiation design. The other sees completed Section 301 findings across 14 economies as a durable legal base that survives any short-term concessions.
-**Key fact:** No new tariff took effect on November 25; the action remains in public comment, with hearings beginning January 25.
-**Bad argument to avoid:** Adding the maximum rates together and calling that the economic impact.
+**Central question:** When an attack is real but attribution is not publicly proved, is restraint prudent—or does waiting invite more attacks?
 
-### Can Baghdad turn an order into control without a security crisis?
+**Competing interpretations:** A forensic process reduces the risk of attacking the wrong actor; alternatively, states may possess classified evidence and lose deterrence if they wait for public proof.
 
-**Central question:** Is the federal oil-and-border directive an enforceable centralization move or leverage for another Baghdad-Erbil bargain?
-**Competing interpretations:** Baghdad can frame implementation as lawful anti-smuggling administration; Kurdish leaders see a threat to federalism and regional authority. A third possibility is a negotiated protocol that changes procedures without a full handover.
-**Key fact:** At cutoff, the evidence showed an order and coordinated Kurdish rejection—not a completed transfer at any named field or crossing.
-**Bad argument to avoid:** Treating hostile rhetoric as proof that armed confrontation is imminent.
+**Key fact:** Italy confirms the Kuwaiti attack killed two of its technicians, but the inspected public record has no radar, debris or launch-point evidence tying the drones to Iran.
 
-### What does the Russian death-record leak actually prove?
+**Bad argument to avoid:** “The attack happened, therefore Kuwait's attribution must be correct.”
 
-**Central question:** How much should a common leaked corpus change confidence in Russian casualty estimates?
-**Competing interpretations:** Cross-checks and similar filtering results make a roughly 490,000 registered floor hard to dismiss; shared provenance and Rosstat's denial mean multiple articles are not multiple independent datasets.
-**Key fact:** Roughly 490,000 is the registered-record floor; roughly 700,000 is a model for missing and delayed cases.
-**Bad argument to avoid:** Choosing whichever number best fits a political narrative and presenting it as an exact body count.
+### Does the Mecca pact deter war or widen it?
+
+**Central question:** Will a Turkish-Pakistani-Saudi defence framework make attacks less attractive, or create more paths for a local strike to become a regional confrontation?
+
+**Competing interpretations:** Collective-defence signaling raises the expected cost of aggression; alternatively, ambiguous commitments can encourage miscalculation about what will trigger military help.
+
+**Key fact:** The pact treats an attack on one as an attack on all, but assistance still runs through consultation and each state's domestic law.
+
+**Bad argument to avoid:** “Türkiye's ratification automatically puts it at war with Iran or the Houthis.”
+
+### When does a battlefield report become evidence of interstate war?
+
+**Central question:** How should leaders and media handle a strategically explosive local-source report before independent confirmation arrives?
+
+**Competing interpretations:** ACLED's specialist network provides the best available early warning; alternatively, confused front lines and overlapping Tigrayan factions make exact combatant identification especially fragile.
+
+**Key fact:** Serious fighting near Badme is supported, but the November 26 claim of direct Ethiopian-Eritrean combat and control of Gual Gemhalo is not independently confirmed.
+
+**Bad argument to avoid:** “Low confidence means the risk is low.”
